@@ -1,0 +1,10 @@
+[2026-10-05T11:36:26.471Z] [INFO] Inicio de proyecto · run.sh
+[2026-10-05T11:36:26.630Z] [STDOUT]
+
+> aqui-tu-me-hablas-espanol@1.0.0 dev
+> electron .
+
+[2026-10-05T13:04:57.736Z] [STDERR]
+/Users/ismaelmoraledalopez/Desktop/Proyecto ContextoConciencia/node_modules/.pnpm/electron@37.10.3_supports-color@7.2.0/node_modules/electron/dist/Electron.app/Contents/MacOS/Electron exited with signal SIGTERM
+[2026-10-05T13:04:57.769Z] [INFO]
+Fin de ejecución · código=null · señal=SIGTERM

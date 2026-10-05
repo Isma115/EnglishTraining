@@ -1,0 +1,1011 @@
+{
+  "schemaVersion": 1,
+  "language": "en",
+  "levelRange": [
+    "B2",
+    "C1"
+  ],
+  "origin": "Original authored topics",
+  "items": [
+    {
+      "id": "w001",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of remote working and professional isolation. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w002",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing remote working and professional isolation. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w003",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about remote working and professional isolation. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w004",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of remote working and professional isolation. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w005",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of public transport fares and access to employment. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w006",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing public transport fares and access to employment. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w007",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about public transport fares and access to employment. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w008",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of public transport fares and access to employment. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w009",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of artificial intelligence in university assessment. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w010",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing artificial intelligence in university assessment. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w011",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about artificial intelligence in university assessment. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w012",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of artificial intelligence in university assessment. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w013",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of repairing electronic devices instead of replacing them. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w014",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing repairing electronic devices instead of replacing them. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w015",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about repairing electronic devices instead of replacing them. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w016",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of repairing electronic devices instead of replacing them. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w017",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of protecting local shops from rising rents. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w018",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing protecting local shops from rising rents. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w019",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about protecting local shops from rising rents. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w020",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of protecting local shops from rising rents. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w021",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of teaching financial literacy in secondary schools. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w022",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing teaching financial literacy in secondary schools. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w023",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about teaching financial literacy in secondary schools. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w024",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of teaching financial literacy in secondary schools. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w025",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of limiting short-term holiday rentals in city centres. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w026",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing limiting short-term holiday rentals in city centres. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w027",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about limiting short-term holiday rentals in city centres. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w028",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of limiting short-term holiday rentals in city centres. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w029",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of funding public libraries in the digital age. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w030",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing funding public libraries in the digital age. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w031",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about funding public libraries in the digital age. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w032",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of funding public libraries in the digital age. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w033",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of reducing food waste in restaurants. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w034",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing reducing food waste in restaurants. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w035",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about reducing food waste in restaurants. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w036",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of reducing food waste in restaurants. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w037",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of balancing renewable energy with landscape protection. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w038",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing balancing renewable energy with landscape protection. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w039",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about balancing renewable energy with landscape protection. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w040",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of balancing renewable energy with landscape protection. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w041",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of introducing a four-day working week. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w042",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing introducing a four-day working week. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w043",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about introducing a four-day working week. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w044",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of introducing a four-day working week. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w045",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of preserving minority languages. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w046",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing preserving minority languages. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w047",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about preserving minority languages. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w048",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of preserving minority languages. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w049",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of making museums accessible to wider audiences. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w050",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing making museums accessible to wider audiences. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w051",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about making museums accessible to wider audiences. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w052",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of making museums accessible to wider audiences. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w053",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of restricting advertising aimed at children. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w054",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing restricting advertising aimed at children. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w055",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about restricting advertising aimed at children. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w056",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of restricting advertising aimed at children. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w057",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of volunteering as part of higher education. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w058",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing volunteering as part of higher education. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w059",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about volunteering as part of higher education. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w060",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of volunteering as part of higher education. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w061",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of using surveillance cameras in public spaces. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w062",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing using surveillance cameras in public spaces. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w063",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about using surveillance cameras in public spaces. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w064",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of using surveillance cameras in public spaces. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w065",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of improving access to mental health support. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w066",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing improving access to mental health support. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w067",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about improving access to mental health support. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w068",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of improving access to mental health support. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w069",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of regulating unpaid internships. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w070",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing regulating unpaid internships. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w071",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about regulating unpaid internships. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w072",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of regulating unpaid internships. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w073",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of replacing private cars with shared mobility. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w074",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing replacing private cars with shared mobility. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w075",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about replacing private cars with shared mobility. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w076",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of replacing private cars with shared mobility. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w077",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of providing free school meals. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w078",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing providing free school meals. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w079",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about providing free school meals. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w080",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of providing free school meals. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w081",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of maintaining green spaces during housing expansion. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w082",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing maintaining green spaces during housing expansion. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w083",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about maintaining green spaces during housing expansion. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w084",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of maintaining green spaces during housing expansion. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w085",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of protecting personal data collected by fitness apps. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w086",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing protecting personal data collected by fitness apps. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w087",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about protecting personal data collected by fitness apps. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w088",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of protecting personal data collected by fitness apps. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w089",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of encouraging adults to return to education. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w090",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing encouraging adults to return to education. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w091",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about encouraging adults to return to education. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w092",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of encouraging adults to return to education. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w093",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of supporting young people who leave rural communities. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w094",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing supporting young people who leave rural communities. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w095",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about supporting young people who leave rural communities. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w096",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of supporting young people who leave rural communities. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w097",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of making scientific research freely available. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w098",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing making scientific research freely available. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w099",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about making scientific research freely available. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w100",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of making scientific research freely available. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w101",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of including citizens in local planning decisions. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w102",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing including citizens in local planning decisions. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w103",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about including citizens in local planning decisions. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w104",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of including citizens in local planning decisions. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w105",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of preventing misinformation on social networks. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w106",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing preventing misinformation on social networks. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w107",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about preventing misinformation on social networks. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w108",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of preventing misinformation on social networks. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w109",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of balancing tourism with residents' needs. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w110",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing balancing tourism with residents' needs. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w111",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about balancing tourism with residents' needs. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w112",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of balancing tourism with residents' needs. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w113",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of giving employees a right to disconnect. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w114",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing giving employees a right to disconnect. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w115",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about giving employees a right to disconnect. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w116",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of giving employees a right to disconnect. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w117",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of preserving historic buildings with new uses. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w118",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing preserving historic buildings with new uses. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w119",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about preserving historic buildings with new uses. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w120",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of preserving historic buildings with new uses. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w121",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of reducing packaging in online shopping. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w122",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing reducing packaging in online shopping. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w123",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about reducing packaging in online shopping. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w124",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of reducing packaging in online shopping. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w125",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of funding community arts programmes. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w126",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing funding community arts programmes. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w127",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about funding community arts programmes. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w128",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of funding community arts programmes. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w129",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of using animal testing in medical research. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w130",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing using animal testing in medical research. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w131",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about using animal testing in medical research. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w132",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of using animal testing in medical research. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w133",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of improving accessibility at music festivals. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w134",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing improving accessibility at music festivals. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w135",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about improving accessibility at music festivals. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w136",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of improving accessibility at music festivals. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w137",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of recognising qualifications obtained abroad. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w138",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing recognising qualifications obtained abroad. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w139",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about recognising qualifications obtained abroad. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w140",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of recognising qualifications obtained abroad. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w141",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of teaching practical skills alongside academic subjects. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w142",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing teaching practical skills alongside academic subjects. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w143",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about teaching practical skills alongside academic subjects. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w144",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of teaching practical skills alongside academic subjects. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w145",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of promoting sustainable clothing consumption. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w146",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing promoting sustainable clothing consumption. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w147",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about promoting sustainable clothing consumption. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w148",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of promoting sustainable clothing consumption. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w149",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of introducing digital voting systems. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w150",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing introducing digital voting systems. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w151",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about introducing digital voting systems. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w152",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of introducing digital voting systems. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w153",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of managing water shortages fairly. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w154",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing managing water shortages fairly. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w155",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about managing water shortages fairly. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w156",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of managing water shortages fairly. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w157",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of supporting independent journalism. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w158",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing supporting independent journalism. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w159",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about supporting independent journalism. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w160",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of supporting independent journalism. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w161",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of using algorithms to recruit employees. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w162",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing using algorithms to recruit employees. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w163",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about using algorithms to recruit employees. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w164",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of using algorithms to recruit employees. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w165",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of sharing responsibility for elderly relatives. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w166",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing sharing responsibility for elderly relatives. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w167",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about sharing responsibility for elderly relatives. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w168",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of sharing responsibility for elderly relatives. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w169",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of developing affordable housing near workplaces. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w170",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing developing affordable housing near workplaces. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w171",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about developing affordable housing near workplaces. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w172",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of developing affordable housing near workplaces. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w173",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of limiting noise pollution in residential areas. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w174",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing limiting noise pollution in residential areas. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w175",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about limiting noise pollution in residential areas. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w176",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of limiting noise pollution in residential areas. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w177",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of restoring abandoned industrial sites. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w178",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing restoring abandoned industrial sites. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w179",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about restoring abandoned industrial sites. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w180",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of restoring abandoned industrial sites. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w181",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of balancing competitive sport with student wellbeing. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w182",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing balancing competitive sport with student wellbeing. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w183",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about balancing competitive sport with student wellbeing. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w184",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of balancing competitive sport with student wellbeing. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w185",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of providing language courses for newly arrived residents. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w186",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing providing language courses for newly arrived residents. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w187",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about providing language courses for newly arrived residents. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w188",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of providing language courses for newly arrived residents. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w189",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of creating opportunities for lifelong volunteering. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w190",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing creating opportunities for lifelong volunteering. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w191",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about creating opportunities for lifelong volunteering. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w192",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of creating opportunities for lifelong volunteering. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w193",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of making public services available without smartphones. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w194",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing making public services available without smartphones. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w195",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about making public services available without smartphones. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w196",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of making public services available without smartphones. Challenge a common assumption and support your position with examples."
+    },
+    {
+      "id": "w197",
+      "level": "B2",
+      "topic": "Write an essay discussing the advantages and disadvantages of protecting biodiversity on agricultural land. Explain which consideration should carry the most weight."
+    },
+    {
+      "id": "w198",
+      "level": "C1",
+      "topic": "Write a proposal for a local organisation addressing protecting biodiversity on agricultural land. Evaluate two possible measures and justify your recommendation."
+    },
+    {
+      "id": "w199",
+      "level": "B2",
+      "topic": "Write a formal letter to a decision-maker about protecting biodiversity on agricultural land. Explain a specific concern and suggest a practical improvement."
+    },
+    {
+      "id": "w200",
+      "level": "C1",
+      "topic": "Write an article examining the long-term implications of protecting biodiversity on agricultural land. Challenge a common assumption and support your position with examples."
+    }
+  ]
+}

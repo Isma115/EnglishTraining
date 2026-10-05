@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.DS_Store
+.dart_tool/
+.flutter-plugins-dependencies
+build/
+__pycache__/
+.codebase-memory/
+mobile/android/.gradle/
+mobile/android/local.properties
+mobile/ios/Pods/
+mobile/ios/.symlinks/
+mobile/ios/Flutter/ephemeral/
+mobile/ios/Flutter/Generated.xcconfig
+mobile/ios/Flutter/flutter_export_environment.sh
+mobile/ios/Runner/GeneratedPluginRegistrant.*

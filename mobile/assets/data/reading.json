@@ -1,0 +1,1011 @@
+{
+  "schemaVersion": 1,
+  "language": "en",
+  "levelRange": [
+    "B2",
+    "C1"
+  ],
+  "origin": "Original fictional passages; answers for manual comparison",
+  "items": [
+    {
+      "id": "r001",
+      "level": "B2",
+      "title": "The library after closing time",
+      "text": "When the town library announced that it would close at six instead of eight, the decision seemed straightforward. Evening visits accounted for only a small proportion of recorded loans, while heating and staffing costs had increased. However, the figures did not include people who came to study without borrowing anything. Several apprentices explained that the library was their only quiet place to prepare for examinations after work.\n\nRather than reversing the decision immediately, the library tested a different arrangement. On two evenings each week, one room stayed open with a volunteer and a member of staff present. Borrowing services stopped at six, but study desks remained available until eight. After three months, the room was regularly full. The experiment did not prove that every service should operate late; it showed that counting loans alone had concealed an important use of the building.",
+      "questions": [
+        {
+          "question": "Why did the original figures underestimate evening demand?",
+          "answer": "They counted loans but did not count visitors who used the library to study without borrowing."
+        },
+        {
+          "question": "What remained available after six during the trial?",
+          "answer": "One supervised study room remained open until eight on two evenings each week."
+        },
+        {
+          "question": "What is the main lesson of the experiment?",
+          "answer": "A measure of one service, such as borrowing, may overlook other valuable uses of a public building."
+        }
+      ]
+    },
+    {
+      "id": "r002",
+      "level": "C1",
+      "title": "A forecast with a footnote",
+      "text": "The city's transport model predicted that a new road would shorten journeys by twelve minutes. This headline appeared in every briefing, whereas a qualification in the appendix attracted little attention: the estimate assumed that the number of car journeys would remain unchanged. A junior analyst pointed out that faster travel might encourage people to drive more often or choose destinations further away.\n\nThe planning team consequently published three scenarios rather than one figure. In the most cautious scenario, additional traffic absorbed much of the initial time saving. Opponents claimed that the revision demonstrated the model's failure. The analyst disagreed. A model could clarify the consequences of an assumption without guaranteeing that the assumption would hold. The disagreement shifted the public discussion from whether twelve minutes was the correct answer to which behavioural changes the city should anticipate. Although the road's future remained undecided, the uncertainty was now visible instead of buried in a footnote.",
+      "questions": [
+        {
+          "question": "Which assumption supported the twelve-minute estimate?",
+          "answer": "The model assumed that the number of car journeys would remain unchanged."
+        },
+        {
+          "question": "Why might the initial time saving shrink?",
+          "answer": "Faster journeys could encourage additional driving, increasing traffic and absorbing the benefit."
+        },
+        {
+          "question": "Why did the analyst reject the claim that the model had failed?",
+          "answer": "The model could reveal the consequences of assumptions without guaranteeing that those assumptions would match future behaviour."
+        }
+      ]
+    },
+    {
+      "id": "r003",
+      "level": "B2",
+      "title": "The repair café",
+      "text": "On Saturday mornings, the former ticket office becomes a repair café. Visitors bring broken appliances, and volunteers help them identify what has gone wrong. The organisers originally expected people to care mainly about saving money. Instead, many visitors wanted to keep objects connected with family memories. One woman brought a lamp that her father had made, although buying a replacement would have cost less than repairing it.\n\nThe volunteers do not promise to fix everything. They refuse unsafe jobs and explain when a specialist is needed. Visitors are also asked to remain beside their objects rather than leave them at the door. This slows the work, but it turns each repair into an informal lesson. According to the organiser, the most successful session is not necessarily the one with the highest number of repaired items. It may be the one in which someone learns enough to attempt a simple repair independently next time.",
+      "questions": [
+        {
+          "question": "What unexpected motivation did visitors have?",
+          "answer": "Many wanted to preserve objects associated with family memories, rather than merely save money."
+        },
+        {
+          "question": "Why must visitors stay beside their objects?",
+          "answer": "Their participation makes the repair an informal learning experience."
+        },
+        {
+          "question": "How does the organiser judge success?",
+          "answer": "Success can mean helping a visitor gain the confidence and knowledge to repair something independently, not just fixing many items."
+        }
+      ]
+    },
+    {
+      "id": "r004",
+      "level": "C1",
+      "title": "The invisible selection",
+      "text": "A recruitment team introduced software to rank applications because managers were overwhelmed by their volume. After a year, the firm celebrated a reduction in processing time. Yet an internal review revealed that candidates with interrupted employment histories rarely reached the interview stage. The system had learned from past appointments, most of which involved applicants with continuous careers.\n\nThere was no explicit instruction to exclude people returning from caring responsibilities. Nevertheless, treating the previous workforce as the ideal template reproduced its limitations. The reviewers recommended testing the ranking against several kinds of successful employee, rather than one historic pattern. They also wanted a route for applicants to request human consideration. Management feared that these changes would reduce efficiency. The review's author replied that speed was meaningful only in relation to the purpose of recruitment. Selecting quickly from a progressively narrower pool could make the process cheaper while making the organisation less capable of finding the people it actually needed.",
+      "questions": [
+        {
+          "question": "Why were applicants with career interruptions disadvantaged?",
+          "answer": "The software learned from past appointments dominated by people with continuous employment histories."
+        },
+        {
+          "question": "Was exclusion an explicit instruction?",
+          "answer": "No. It emerged indirectly from using the previous workforce as the model of an ideal candidate."
+        },
+        {
+          "question": "How does the author challenge the efficiency claim?",
+          "answer": "Fast processing may undermine recruitment if it narrows the pool and prevents the organisation from finding suitable people."
+        }
+      ]
+    },
+    {
+      "id": "r005",
+      "level": "B2",
+      "title": "A quieter school street",
+      "text": "For one term, cars were not allowed outside Oak School during the thirty minutes before lessons began. Parents initially worried that the restriction would simply move congestion to nearby roads. The school therefore agreed to collect observations from residents as well as count vehicles at its own gate.\n\nWithin weeks, more families were walking from a small car park ten minutes away. Traffic declined at the entrance, but one side street became busier. The council added signs directing drivers away from that street and arranged a crossing volunteer near the car park. At the end of the term, most residents supported continuing the scheme. The headteacher described the trial as an adjustment process rather than an instant solution. The school had not removed every car journey. It had made the immediate entrance safer while using complaints to identify where the first version had transferred a problem.",
+      "questions": [
+        {
+          "question": "When did the vehicle restriction apply?",
+          "answer": "During the thirty minutes before lessons began."
+        },
+        {
+          "question": "How did the council respond to the busier side street?",
+          "answer": "It added signs directing drivers elsewhere and arranged a crossing volunteer near the alternative car park."
+        },
+        {
+          "question": "Why were residents’ observations important?",
+          "answer": "They revealed that some congestion had shifted to another street, which gate counts alone would not show."
+        }
+      ]
+    },
+    {
+      "id": "r006",
+      "level": "C1",
+      "title": "The cost of an empty flat",
+      "text": "In a coastal town, campaigners demanded a tax on empty flats. Their survey suggested that hundreds of homes were unused while local workers struggled to find affordable accommodation. Property owners argued that the label \"empty\" obscured several situations: some flats were awaiting repairs, some were involved in inheritance disputes, and others were kept available for occasional holidays.\n\nBefore setting a rate, the council introduced a register that distinguished these categories. The resulting total was lower than the campaigners' estimate, but it identified a sizeable group of properties with no obvious barrier to occupation. The campaigners welcomed the narrower figure because it supported a more defensible policy. The mayor observed that precision did not necessarily weaken a case for intervention. By identifying which owners could reasonably change their behaviour, the register made both the proposed tax and its exemptions easier to justify. Housing shortages would still require other measures, however; a more accurate target was not a complete solution.",
+      "questions": [
+        {
+          "question": "Why did owners challenge the original label “empty”?",
+          "answer": "It grouped together flats unused for different reasons, including repairs, inheritance disputes and occasional holiday use."
+        },
+        {
+          "question": "Why did campaigners accept the lower figure?",
+          "answer": "The register identified a more defensible target: properties without an obvious barrier to occupation."
+        },
+        {
+          "question": "What limitation does the passage acknowledge?",
+          "answer": "A tax on a more accurately identified group of empty properties would not by itself solve the housing shortage."
+        }
+      ]
+    },
+    {
+      "id": "r007",
+      "level": "B2",
+      "title": "The four-day experiment",
+      "text": "A small design studio tested a four-day working week without reducing salaries. Staff were enthusiastic, but the director worried about client deadlines. Before the trial began, employees listed meetings that could be shortened and tasks that were being done twice. They also agreed that one colleague would answer urgent messages on Fridays, with the duty rotating each week.\n\nAfter two months, most projects were still delivered on time. Employees reported feeling more rested, although the person covering Friday often found it difficult to switch off. The studio responded by giving that colleague a different day off and defining what counted as urgent. The director did not claim that the arrangement would suit every business. For this studio, fewer working days succeeded because the team redesigned its routines rather than compressing all the previous activity into a shorter week. The first positive results depended on addressing the hidden burden carried by the Friday contact.",
+      "questions": [
+        {
+          "question": "What did staff change before the trial?",
+          "answer": "They identified meetings to shorten and duplicated tasks to eliminate."
+        },
+        {
+          "question": "What difficulty affected the Friday contact?",
+          "answer": "That person found it difficult to switch off and carried a burden that others did not."
+        },
+        {
+          "question": "Why does the director avoid a universal claim?",
+          "answer": "The trial worked for this studio after redesigning routines, but other businesses may have different needs."
+        }
+      ]
+    },
+    {
+      "id": "r008",
+      "level": "C1",
+      "title": "A river with competing claims",
+      "text": "During a prolonged dry season, the water authority asked farms to reduce irrigation. Farmers questioned why a nearby resort could continue filling decorative ponds. The resort maintained that its permit was valid and that cancelling bookings would threaten local jobs. Both positions were lawful, yet the existing permits had been issued when shortages were uncommon.\n\nA public panel proposed ranking uses by necessity during exceptional conditions, rather than merely by the date of their permits. Drinking water and essential crop production would take priority over decorative uses. The panel also recommended compensation for businesses asked to change operations at short notice. Its report acknowledged that necessity would not always be easy to define. Still, refusing to revisit historic allocations amounted to making a choice too: it preserved an arrangement whose assumptions no longer held. The authority adopted a temporary restriction while beginning a longer review of how future permits should reflect a less predictable supply.",
+      "questions": [
+        {
+          "question": "Why were the old permits insufficient for resolving the dispute?",
+          "answer": "They were issued when shortages were uncommon and did not reflect exceptional scarcity."
+        },
+        {
+          "question": "What allocation principle did the panel propose?",
+          "answer": "Prioritise water uses by necessity during exceptional conditions, protecting drinking water and essential crop production before decorative uses."
+        },
+        {
+          "question": "Why does the panel describe inaction as a choice?",
+          "answer": "Leaving historic allocations unchanged would preserve an arrangement based on assumptions that no longer held."
+        }
+      ]
+    },
+    {
+      "id": "r009",
+      "level": "B2",
+      "title": "The museum’s missing visitors",
+      "text": "A museum offered free admission on Sundays, expecting a large increase in attendance. The increase was smaller than anticipated. Interviews at the nearby bus station revealed that several people did not know what they would find inside. Some assumed that the museum was aimed mainly at tourists or people with specialist knowledge.\n\nThe staff invited local groups to help create a display about ordinary working lives in the district. Contributors lent photographs, recorded short accounts and brought relatives to the opening. Attendance increased, particularly among residents who had never visited before. Free entry remained useful, but it had not addressed the feeling that the collection belonged to someone else. The curator decided to continue involving local contributors instead of relying solely on publicity. The project suggested that removing a price barrier and making people feel represented were different tasks, both of which could affect whether they chose to enter.",
+      "questions": [
+        {
+          "question": "Why was free entry alone less effective than expected?",
+          "answer": "Some residents did not know what was inside or felt the museum was intended for tourists and specialists."
+        },
+        {
+          "question": "How did local groups contribute?",
+          "answer": "They lent photographs and recorded accounts for a display about working lives in the district."
+        },
+        {
+          "question": "What distinction did the project reveal?",
+          "answer": "Removing an admission fee is different from helping visitors feel represented and welcome."
+        }
+      ]
+    },
+    {
+      "id": "r010",
+      "level": "C1",
+      "title": "The delayed open data",
+      "text": "A research institute promised to release the data behind a widely discussed study. Months later, the files were still unavailable. Critics interpreted the delay as evidence that the results could not withstand scrutiny. The researchers explained that some combinations of apparently anonymous details might identify participants in a small community.\n\nAn independent adviser recommended releasing a less detailed dataset publicly and offering controlled access to the fuller version. Preparing this arrangement took additional time, but the institute published a timetable and explained which information needed protection. The solution did not satisfy everyone: restricted access inevitably gave the institute some influence over subsequent analysis. Nonetheless, openness was not simply a choice between releasing every record and withholding everything. The case exposed a tension between reproducibility and confidentiality that a general promise of transparency had failed to acknowledge. Future projects would need to plan for that tension before collecting data, rather than treating publication as an administrative task at the end.",
+      "questions": [
+        {
+          "question": "Why might anonymous records still identify participants?",
+          "answer": "Combinations of details could identify people within a small community."
+        },
+        {
+          "question": "What release arrangement did the adviser suggest?",
+          "answer": "A less detailed public dataset with controlled access to the fuller version."
+        },
+        {
+          "question": "What planning lesson follows from the case?",
+          "answer": "Researchers should address the tension between reproducibility and confidentiality before collecting data, rather than only at publication."
+        }
+      ]
+    },
+    {
+      "id": "r011",
+      "level": "B2",
+      "title": "The last bus home",
+      "text": "The village's last bus left the regional hospital at five, an hour before many appointments ended. A petition asked for a later service. The bus operator replied that a full evening route would cost too much because passenger numbers were low. Instead of abandoning the request, a community association proposed a smaller vehicle that could be booked on appointment days.\n\nThe hospital helped distribute booking information, and the council funded a three-month trial. Demand varied considerably: some evenings required two journeys, while others required none. The booking system made that variation manageable. One difficulty remained for people who could not predict when treatment would finish, so the driver accepted updates by telephone. The association regarded the trial as progress rather than a replacement for reliable public transport. It met a specific need by adapting the service, but it depended on coordination that an ordinary scheduled bus would not require.",
+      "questions": [
+        {
+          "question": "Why was the existing last bus unsuitable?",
+          "answer": "It left at five, before many hospital appointments had finished."
+        },
+        {
+          "question": "How did booking help the trial?",
+          "answer": "It allowed the operator to adapt to evening demand, which varied from no passengers to enough for two journeys."
+        },
+        {
+          "question": "What limitation remained?",
+          "answer": "The service required coordination and telephone updates, especially when people could not predict when treatment would end."
+        }
+      ]
+    },
+    {
+      "id": "r012",
+      "level": "C1",
+      "title": "The persuasive dashboard",
+      "text": "A customer-service dashboard ranked employees by the number of enquiries they closed. Within weeks, closure rates rose. The improvement seemed impressive until supervisors noticed an increase in customers contacting the firm again about the same issue. Some employees had learned that ending a conversation quickly improved their ranking even when the problem remained unresolved.\n\nThe company replaced the single league table with a combination of measures, including repeat contacts and customer feedback. It also reviewed difficult cases separately, since a complex enquiry could take longer without reflecting poor performance. Employees welcomed the change but worried that adding measures would merely create new targets to manipulate. The supervisor agreed that no dashboard could substitute for judgement. Its purpose should be to identify questions worth investigating, not deliver an automatic verdict on each worker. The episode demonstrated how an apparently neutral measurement could reshape behaviour, particularly when rewards made the measurement itself more important than the service it was meant to represent.",
+      "questions": [
+        {
+          "question": "Why did higher closure rates fail to prove better service?",
+          "answer": "Employees sometimes ended conversations quickly without resolving the issue, leading to repeat contacts."
+        },
+        {
+          "question": "Why were difficult cases reviewed separately?",
+          "answer": "Complex enquiries can take longer even when an employee performs well."
+        },
+        {
+          "question": "What role does the supervisor assign to the dashboard?",
+          "answer": "It should identify issues for investigation, rather than automatically judge each worker."
+        }
+      ]
+    },
+    {
+      "id": "r013",
+      "level": "B2",
+      "title": "Seeds on the balcony",
+      "text": "Maya started growing vegetables on her balcony after joining a neighbourhood gardening group. She expected advice about soil and watering, but the group's most useful contribution was a collection of local observations. Members compared which plants survived strong winds and which balconies received too little sunlight.\n\nHer first tomato plants failed. Rather than telling her simply to try harder, a neighbour suggested leafy vegetables that needed less direct sun. By autumn, Maya had a modest harvest and a better understanding of her balcony's limitations. She also shared notes about a cheap watering system that had worked while she was away. The group did not offer one method suitable for every home. It helped members adapt general advice to particular conditions. Maya still bought most of her food, but she no longer considered the first failed crop proof that she lacked gardening ability.",
+      "questions": [
+        {
+          "question": "What local information did group members share?",
+          "answer": "They compared wind exposure, sunlight and which plants survived on different balconies."
+        },
+        {
+          "question": "Why did Maya switch to leafy vegetables?",
+          "answer": "Her balcony lacked the direct sunlight needed by her tomato plants."
+        },
+        {
+          "question": "How did her interpretation of failure change?",
+          "answer": "She saw the failed crop as a mismatch between plants and conditions, rather than proof that she lacked ability."
+        }
+      ]
+    },
+    {
+      "id": "r014",
+      "level": "C1",
+      "title": "Who benefits from the bargain?",
+      "text": "A clothing company advertised a collection made from recycled fabric. Its environmental claim was accurate, but the campaign encouraged customers to replace their wardrobes more frequently. An independent reviewer praised the material change while questioning whether the collection would reduce total resource use.\n\nThe company measured impact per garment, not across all garments sold. If lower prices and positive publicity increased sales sufficiently, the overall benefit might disappear. The reviewer did not argue that recycled materials were pointless. She argued that improvements in production needed to be considered alongside patterns of consumption. In response, the company began publishing both unit-level estimates and an annual total, while introducing a repair service. The revised reporting was less convenient for advertising because it could reveal a rise in overall impact despite a cleaner product. It was also more informative: it made visible the difference between producing each item more efficiently and using fewer resources as a business.",
+      "questions": [
+        {
+          "question": "Why might the environmental benefit disappear?",
+          "answer": "An increase in sales could outweigh the reduction in impact per garment."
+        },
+        {
+          "question": "Did the reviewer reject recycled materials?",
+          "answer": "No. She supported the material improvement but wanted it assessed alongside consumption patterns."
+        },
+        {
+          "question": "Why was annual total reporting more informative?",
+          "answer": "It could show whether overall resource use increased even when each individual product became more efficient."
+        }
+      ]
+    },
+    {
+      "id": "r015",
+      "level": "B2",
+      "title": "The interview without a suit",
+      "text": "An employment charity noticed that some applicants cancelled practice interviews at the last minute. Staff first assumed that the applicants lacked motivation. A short anonymous questionnaire revealed a different explanation: several were worried about not owning suitable interview clothes.\n\nThe charity organised a small clothing collection, but it also discussed expectations with local employers. Some businesses agreed to tell candidates explicitly that formal suits were unnecessary. Others explained which roles required particular clothing and why. Cancellations fell, although staff could not attribute the entire change to the collection because reminders had improved at the same time. The charity kept both initiatives. Its director said that the questionnaire had changed the team's approach: before judging whether someone was committed, they should investigate obstacles that might not be visible. A modest practical concern had been mistaken for an attitude problem because nobody had asked the applicants how they understood the situation.",
+      "questions": [
+        {
+          "question": "What hidden obstacle did the questionnaire reveal?",
+          "answer": "Some applicants feared that they did not own suitable interview clothes."
+        },
+        {
+          "question": "How did employers help?",
+          "answer": "They clarified clothing expectations, sometimes explicitly saying that formal suits were unnecessary."
+        },
+        {
+          "question": "Why could staff not assign all the improvement to the clothes collection?",
+          "answer": "The charity had also improved its reminders at the same time."
+        }
+      ]
+    },
+    {
+      "id": "r016",
+      "level": "C1",
+      "title": "The archive’s uncomfortable gap",
+      "text": "A historian studying a factory found detailed records of managers' decisions but almost nothing written by workers. The imbalance tempted her to treat the surviving documents as a complete account of daily life. Instead, she compared them with oral histories, local newspapers and letters held by families.\n\nThese sources did not form a perfectly consistent narrative. Memories differed, and letters reflected personal concerns rather than representative experience. Nevertheless, the disagreements helped expose questions that the official records never raised. The historian described the archive as evidence of what an organisation considered worth preserving, not simply a window onto everything that happened. Her exhibition displayed some conflicting accounts together, explaining why a definitive answer was unavailable. Visitors occasionally found this frustrating. Yet presenting uncertainty was preferable to supplying a seamless story whose confidence depended on excluding the people least likely to leave an institutional record. The gaps were part of the historical argument rather than an inconvenience to conceal.",
+      "questions": [
+        {
+          "question": "What imbalance existed in the factory archive?",
+          "answer": "It preserved managers’ decisions in detail but contained very little written by workers."
+        },
+        {
+          "question": "Why were additional sources useful despite their disagreements?",
+          "answer": "They exposed questions and experiences absent from the official records."
+        },
+        {
+          "question": "Why did the exhibition retain conflicting accounts?",
+          "answer": "A seamless definitive narrative would conceal uncertainty and risk excluding people poorly represented in institutional records."
+        }
+      ]
+    },
+    {
+      "id": "r017",
+      "level": "B2",
+      "title": "Learning on the night shift",
+      "text": "Ravi enrolled in an online course while working night shifts. The college described the course as flexible because lectures were recorded. However, weekly group discussions took place at a fixed time when Ravi was usually asleep. Missing them meant losing participation marks.\n\nHe contacted the tutor, who realised that flexibility in one part of the course did not guarantee flexibility everywhere. The tutor allowed students to contribute to a written discussion over two days and asked each person to respond to another student's idea. Ravi could now participate without staying awake after a shift. Some classmates missed the energy of a live conversation, so optional video meetings continued. The revised arrangement did not make every format identical. It offered more than one route to the same learning goal. Ravi completed the course, while the college began checking whether its other supposedly flexible programmes contained similar fixed-time requirements.",
+      "questions": [
+        {
+          "question": "Why were recorded lectures insufficient for Ravi?",
+          "answer": "Compulsory live discussions took place when he normally slept, and missing them cost marks."
+        },
+        {
+          "question": "What alternative did the tutor introduce?",
+          "answer": "A written discussion open for two days, with each student responding to another person’s idea."
+        },
+        {
+          "question": "What did the college learn about flexibility?",
+          "answer": "A programme can be flexible in one component but still contain fixed-time requirements that exclude some students."
+        }
+      ]
+    },
+    {
+      "id": "r018",
+      "level": "C1",
+      "title": "The consultation that changed nothing",
+      "text": "Residents were invited to comment on a redevelopment plan after contracts had already been negotiated. The organisers expected feedback on paving and lighting; participants wanted to discuss whether the new buildings should be approved at all. Frustration followed because the event had been described as a consultation without identifying which decisions remained open.\n\nAn independent mediator recommended separating settled commitments from choices that residents could still influence. She also asked the council to explain why some commitments had been made before public involvement. A second meeting produced practical changes to access routes, but it did not restore everyone's trust. The mediator warned against claiming that participation had been successful merely because attendance was high. People could attend in large numbers precisely because they felt excluded. For future projects, the council promised earlier involvement and a published account of how feedback affected decisions. The issue was not that every public suggestion had to prevail, but that the boundaries and consequences of participation had to be honest.",
+      "questions": [
+        {
+          "question": "Why did the first meeting cause frustration?",
+          "answer": "Residents wanted to discuss approval itself, while organisers sought feedback only on details after contracts had been negotiated."
+        },
+        {
+          "question": "Why did high attendance not necessarily show successful participation?",
+          "answer": "People may attend in large numbers because they feel excluded or dissatisfied."
+        },
+        {
+          "question": "What did the mediator consider essential?",
+          "answer": "Honest information about which decisions remained open and how public feedback could influence them."
+        }
+      ]
+    },
+    {
+      "id": "r019",
+      "level": "B2",
+      "title": "The festival with a quiet corner",
+      "text": "At a community festival, organisers created a quiet room away from the main stage. They had received requests from visitors who found crowded, noisy spaces overwhelming. The first version was poorly signposted, and several people discovered it only when leaving.\n\nFor the next event, the organisers included the room on every map and trained stewards to explain its purpose. They also lowered the volume during the first hour so that visitors could explore the site in calmer conditions. Families appreciated the changes, but some asked for reliable information about noise throughout the day rather than one special period. The team began listing expected sound levels beside performances. Providing a quiet room was useful, yet it did not remove the need to make the wider event more predictable. The organiser said that access improved when visitors could plan their own participation instead of depending on staff to rescue them after they became uncomfortable.",
+      "questions": [
+        {
+          "question": "Why was the first quiet room less useful than it could have been?",
+          "answer": "Poor signs meant that some visitors only discovered it when leaving."
+        },
+        {
+          "question": "What information did families request?",
+          "answer": "Reliable information about expected noise throughout the day."
+        },
+        {
+          "question": "How did predictability improve access?",
+          "answer": "It allowed visitors to plan their participation before becoming uncomfortable, rather than needing help afterwards."
+        }
+      ]
+    },
+    {
+      "id": "r020",
+      "level": "C1",
+      "title": "A price for being connected",
+      "text": "An energy company offered discounted tariffs to households using a smartphone app. The app helped customers track consumption, but accessing the discount required agreeing to additional data collection. Critics argued that customers facing high bills were effectively paying for lower prices with information about their routines.\n\nThe company insisted that consent was voluntary because a standard tariff remained available. A consumer adviser questioned whether a choice could be treated as equally free for every household when the financial consequences differed so sharply. She did not dispute the usefulness of consumption data for improving the service. Instead, she asked the firm to distinguish data essential to the tariff from data used for marketing and to offer a non-app route to equivalent savings. The dispute concerned more than the wording of a consent form. It raised the question of whether an appealing product feature could become a barrier for people unable or unwilling to share information beyond what the service actually required.",
+      "questions": [
+        {
+          "question": "What did customers exchange for the discount?",
+          "answer": "They agreed to additional collection of information about their consumption and routines."
+        },
+        {
+          "question": "Why did the adviser question whether consent was equally free?",
+          "answer": "Financial pressure made losing the discount a much greater burden for some households than for others."
+        },
+        {
+          "question": "What two changes did she request?",
+          "answer": "Separate essential service data from marketing data and provide a non-app route to equivalent savings."
+        }
+      ]
+    },
+    {
+      "id": "r021",
+      "level": "B2",
+      "title": "The route no map showed",
+      "text": "A walking group planned a route described online as accessible. The path itself was smooth, but the entrance had three steps. One member who used a wheelchair could reach the path only by making a long detour through a locked service gate.\n\nAfter the outing, the group sent photographs and a detailed account to the park authority. The authority added a ramp and updated the route description to include information about entrances, toilets and resting places. It also invited the group to check the revised information before publication. The experience changed how the organiser assessed routes. A comfortable surface did not make a journey accessible if visitors could not enter the site or find suitable facilities. The new description avoided a single reassuring label and offered practical details instead. Different visitors could then decide whether the route met their own requirements, rather than discovering an unexpected obstacle on arrival.",
+      "questions": [
+        {
+          "question": "What obstacle did the online description omit?",
+          "answer": "Three steps at the main entrance; the alternative involved a long detour through a locked gate."
+        },
+        {
+          "question": "How did the authority improve the information?",
+          "answer": "It described entrances, toilets and resting places and invited the group to check the details."
+        },
+        {
+          "question": "Why were practical details better than one label?",
+          "answer": "Visitors have different requirements and need enough information to decide whether the whole journey is suitable."
+        }
+      ]
+    },
+    {
+      "id": "r022",
+      "level": "C1",
+      "title": "The laboratory’s negative result",
+      "text": "A laboratory completed a carefully designed experiment but found no support for its main hypothesis. The team hesitated to submit the work because journals seemed more interested in striking positive results. One researcher argued that shelving the study would make the published evidence look more consistent than the actual research.\n\nThe team wrote an account emphasising the method, the limits of the sample and what the result could reasonably exclude. It did not claim that the hypothesis was false under every possible condition. A journal accepted the paper after asking for a clearer distinction between absence of evidence and evidence of absence. The publication helped another group avoid repeating a similar experiment without modification. Although the result produced little publicity, it improved the information available to the field. The episode persuaded the laboratory to register future study plans in advance, making it harder to present only the outcomes that happened to look impressive once the data were collected.",
+      "questions": [
+        {
+          "question": "Why was withholding the study a problem?",
+          "answer": "It would make published evidence appear more consistently positive than the research actually conducted."
+        },
+        {
+          "question": "What distinction did the journal request?",
+          "answer": "A clearer distinction between failing to find supporting evidence and conclusively showing that the hypothesis was false."
+        },
+        {
+          "question": "Why did the laboratory choose advance registration?",
+          "answer": "It would make selective reporting of only impressive outcomes more difficult."
+        }
+      ]
+    },
+    {
+      "id": "r023",
+      "level": "B2",
+      "title": "The restaurant’s smaller menu",
+      "text": "A restaurant reduced its menu after discovering that rarely ordered dishes produced much of its food waste. The chef worried that regular customers would complain about having fewer choices. Instead, staff explained that the smaller menu would change with the season, allowing them to buy fresher ingredients in more predictable quantities.\n\nWaste declined, but not every problem disappeared. Popular dishes sometimes sold out early, frustrating customers who had travelled specifically to try them. The restaurant began publishing the day's menu online and accepting a limited number of advance orders. The chef found that planning mattered more than simply offering fewer dishes. A short menu could still generate waste if portions were badly estimated, while a large one could be managed carefully. For this restaurant, reducing choice was a useful first step because it exposed the connection between purchasing, demand and communication with customers.",
+      "questions": [
+        {
+          "question": "Which dishes caused much of the waste?",
+          "answer": "Dishes that customers rarely ordered."
+        },
+        {
+          "question": "What new problem arose?",
+          "answer": "Popular dishes sometimes sold out early, disappointing customers who came for them."
+        },
+        {
+          "question": "Why was reducing the menu only a first step?",
+          "answer": "Waste also depended on estimating portions, purchasing quantities and communicating with customers."
+        }
+      ]
+    },
+    {
+      "id": "r024",
+      "level": "C1",
+      "title": "A town measured from above",
+      "text": "Satellite images suggested that a district had gained considerable green space. The council cited the finding as evidence that neighbourhood conditions were improving. Local residents were less convinced: much of the new vegetation belonged to private grounds, while their nearest public park remained difficult to reach.\n\nA geography student compared the images with walking routes, opening hours and records of public access. Her analysis showed that a greener district was not necessarily one in which more residents could use green space. The council revised its report to separate vegetation cover from accessible outdoor areas. Neither measure was inherently misleading; the problem arose when one was used to stand for the other. The revised figures complicated the success story but clarified where investment was still needed. The student recommended retaining satellite monitoring while supplementing it with evidence of how people actually encountered the landscape. A view from above could reveal physical change without capturing the practical inequalities experienced on the ground.",
+      "questions": [
+        {
+          "question": "Why did residents question the council’s conclusion?",
+          "answer": "Much of the new greenery was private, and the nearest public park remained difficult to reach."
+        },
+        {
+          "question": "Which two measures did the revised report separate?",
+          "answer": "Vegetation cover and publicly accessible outdoor space."
+        },
+        {
+          "question": "Why should satellite monitoring be supplemented rather than abandoned?",
+          "answer": "It reveals physical changes but does not capture access conditions and the inequalities people experience on the ground."
+        }
+      ]
+    },
+    {
+      "id": "r025",
+      "level": "B2",
+      "title": "An unexpected language partner",
+      "text": "When Lena joined a language exchange, she hoped to practise fluent conversation with a native speaker. Her first partner, Daniel, was also learning English. She considered requesting someone else, but their first meeting changed her mind. Both were willing to pause, ask questions and explain how they had solved similar learning problems.\n\nThey agreed to choose a short article before each meeting and note expressions they wanted to use. Occasionally they were unsure whether a phrase was correct, so they checked it afterwards rather than interrupt every sentence. Lena still attended lessons with a qualified teacher, recognising that the exchange could not provide every kind of feedback. Its value lay partly in reducing her fear of speaking. A partner with similar difficulties offered patience and practical strategies. She realised that a useful conversation did not always require one participant to have complete knowledge of the language.",
+      "questions": [
+        {
+          "question": "Why did Lena initially consider changing partners?",
+          "answer": "Daniel was another English learner rather than the native speaker she had expected."
+        },
+        {
+          "question": "How did they handle uncertain phrases?",
+          "answer": "They made a note and checked them afterwards, rather than interrupting every sentence."
+        },
+        {
+          "question": "What was the exchange’s particular value?",
+          "answer": "It reduced Lena’s fear of speaking and provided patience and strategies from someone facing similar difficulties."
+        }
+      ]
+    },
+    {
+      "id": "r026",
+      "level": "C1",
+      "title": "The short-term rental compromise",
+      "text": "A district proposed banning all short-term holiday rentals after residents complained about noise and disappearing housing. Small owners argued that occasionally renting a spare room was unlike operating several entire flats as a business. A blanket ban, they said, ignored that difference.\n\nThe council introduced separate rules for owner-occupied homes and commercially operated properties. It also required registration, because distinctions on paper would mean little without a way to check actual use. Housing campaigners accepted the approach provisionally but warned that exceptions could become loopholes. The council agreed to review both rental numbers and long-term housing availability after a year. The compromise did not assume that every form of tourism caused equal harm, nor that categorising properties would automatically protect residents. Its credibility depended on enforcement and evidence of outcomes. Officials described the review as part of the policy itself, rather than a promise to reconsider only if public pressure became difficult to ignore.",
+      "questions": [
+        {
+          "question": "What distinction did small owners ask the council to recognise?",
+          "answer": "Occasional spare-room rentals in occupied homes differ from businesses operating multiple entire flats."
+        },
+        {
+          "question": "Why was registration needed?",
+          "answer": "It provided a means to check actual use and enforce the different rules."
+        },
+        {
+          "question": "What made the review integral to the policy?",
+          "answer": "The council would assess rental numbers and long-term housing availability after a year, rather than wait for renewed public pressure."
+        }
+      ]
+    },
+    {
+      "id": "r027",
+      "level": "B2",
+      "title": "The volunteer who stepped back",
+      "text": "For several years, Nora organised every event at the community centre. When she announced that she would take a break, the committee worried that activities would stop. Her notes contained many practical details, but some decisions depended on contacts and experience that nobody else had acquired.\n\nThe committee divided responsibilities among three volunteers and arranged a month of working alongside Nora before she left. At first, organising took longer because people needed to ask questions. By the end of the handover, however, the centre was less dependent on one person. Nora could attend an event without feeling responsible for every problem. The chairperson concluded that praising a reliable volunteer was not enough if the organisation quietly relied on her never being absent. Sharing knowledge and responsibility made participation more sustainable. Nora's decision to step back exposed a weakness that would have remained hidden while she continued doing everything herself.",
+      "questions": [
+        {
+          "question": "Why were Nora’s notes insufficient?",
+          "answer": "Some knowledge depended on her experience and personal contacts, which others had not acquired."
+        },
+        {
+          "question": "What did the committee do?",
+          "answer": "It divided tasks among three volunteers and organised a month-long handover alongside Nora."
+        },
+        {
+          "question": "What organisational weakness did her break reveal?",
+          "answer": "The centre depended too heavily on one person’s continuous availability."
+        }
+      ]
+    },
+    {
+      "id": "r028",
+      "level": "C1",
+      "title": "The headline and the denominator",
+      "text": "A newspaper reported that complaints about a delivery service had doubled. The headline suggested a dramatic decline in quality. A reader asked how many deliveries the company had completed in each period. The answer changed the interpretation: deliveries had tripled, so complaints per delivery had actually fallen.\n\nThe editor published a follow-up showing both absolute numbers and rates. This did not mean the additional complaints were unimportant; more individual customers had still experienced problems. It meant that the original comparison could not establish that each customer now faced a higher risk of poor service. The company wanted the correction to describe an unqualified improvement, but the editor declined. A falling complaint rate might also reflect changes in how easy it was to complain. Without further evidence, the safest conclusion was narrower. The episode demonstrated why a dramatic numerator needs an appropriate denominator, and why correcting one misleading inference should not lead automatically to endorsing the opposite story.",
+      "questions": [
+        {
+          "question": "Why did doubled complaints not prove a higher risk per delivery?",
+          "answer": "The number of deliveries tripled, so complaints per delivery fell."
+        },
+        {
+          "question": "Why were the absolute numbers still relevant?",
+          "answer": "More individual customers experienced problems even though the rate was lower."
+        },
+        {
+          "question": "Why did the editor refuse an unqualified success claim?",
+          "answer": "A falling complaint rate could reflect changes in access to the complaints process, so further evidence was needed."
+        }
+      ]
+    },
+    {
+      "id": "r029",
+      "level": "B2",
+      "title": "The borrowed bicycle",
+      "text": "A workplace introduced shared bicycles for short journeys between its buildings. Staff liked the idea, but the bicycles often remained at the larger office, leaving the smaller site without any. Managers first suggested buying more bicycles. A receptionist pointed out that the problem was not simply the total number: journeys were unevenly distributed.\n\nThe workplace added a return reminder and asked the maintenance team to move bicycles between sites twice a day. It also installed covered stands so that returning a bicycle in bad weather was less inconvenient. Availability improved without a large purchase. Managers still planned to add bicycles if demand increased, but they now collected information about location as well as use. The trial showed that a shared resource can appear scarce because it is in the wrong place. Understanding the pattern of movement was more useful than assuming that every shortage required increasing the quantity.",
+      "questions": [
+        {
+          "question": "Why was the smaller site often without bicycles?",
+          "answer": "Journeys were unevenly distributed and bicycles accumulated at the larger office."
+        },
+        {
+          "question": "Which practical changes improved availability?",
+          "answer": "Return reminders, twice-daily redistribution and covered bicycle stands."
+        },
+        {
+          "question": "What did managers learn to measure?",
+          "answer": "Where bicycles were located as well as how often they were used."
+        }
+      ]
+    },
+    {
+      "id": "r030",
+      "level": "C1",
+      "title": "The coastline on a timetable",
+      "text": "Engineers warned that defending every part of a coastline indefinitely would become increasingly expensive. A village council considered moving some facilities inland, but residents regarded the proposal as surrender. Several had invested decades in homes whose financial and emotional value was inseparable from their location.\n\nThe council commissioned a staged plan rather than setting a single departure date. It identified which public buildings could move first, which defences needed maintenance during the transition and what support residents would require. The plan did not remove disagreement. Indeed, publishing costs made some choices more contentious. Yet it replaced an abstract argument about staying or leaving with questions about timing, responsibility and compensation. The planners emphasised that delay also had consequences: investments made without a long-term strategy could leave fewer resources for an orderly move later. The proposal sought to make retreat manageable without pretending that technical risk estimates could settle the meaning of home for the people affected.",
+      "questions": [
+        {
+          "question": "Why did residents resist relocation?",
+          "answer": "Their homes carried financial and emotional value closely tied to their coastal location."
+        },
+        {
+          "question": "How did the staged plan change the discussion?",
+          "answer": "It turned a general stay-or-leave dispute into questions about timing, responsibility, interim defences and compensation."
+        },
+        {
+          "question": "Why was delay not a neutral option?",
+          "answer": "Unplanned investment could consume resources needed for an orderly transition later."
+        }
+      ]
+    },
+    {
+      "id": "r031",
+      "level": "B2",
+      "title": "The shop that lent its shelves",
+      "text": "An independent bookshop allowed local makers to display small products beside its books. The owner hoped that visitors buying gifts would also discover authors they had not encountered. Makers paid a modest monthly fee, but early sales varied widely. Products near the entrance sold better than those hidden behind a tall display.\n\nRather than raising fees to cover disappointing sales, the owner rotated shelf positions and asked customers what they had noticed. The changes helped reveal whether weak sales reflected a product's appeal or simply its visibility. Some makers left after the trial, while others stayed and held demonstrations in the shop. The owner did not claim that cooperation guaranteed success. It created an affordable opportunity to test an idea. By treating the first arrangement as something to adjust, the shop avoided judging local businesses on results partly determined by where their products happened to be placed.",
+      "questions": [
+        {
+          "question": "What affected early sales besides the products themselves?",
+          "answer": "Shelf position and visibility, particularly proximity to the entrance."
+        },
+        {
+          "question": "Why did the owner rotate positions?",
+          "answer": "To distinguish limited product appeal from poor visibility."
+        },
+        {
+          "question": "What did cooperation provide according to the owner?",
+          "answer": "An affordable opportunity to test an idea, rather than a guarantee of commercial success."
+        }
+      ]
+    },
+    {
+      "id": "r032",
+      "level": "C1",
+      "title": "When a translation is too smooth",
+      "text": "A translator preparing a collection of interviews noticed that several speakers hesitated, contradicted themselves or left sentences unfinished. The editor asked her to produce more fluent English, arguing that readers should not struggle with awkward speech. The translator worried that excessive smoothing would make tentative statements appear more confident than they had been.\n\nThey agreed to improve readability while retaining hesitation where it changed the meaning. An unfinished sentence about a sensitive decision remained unfinished, whereas repeated filler words were shortened. A note explained that the interviews were not verbatim transcripts. The compromise recognised that every translation involves judgement; preserving every sound would not necessarily preserve the reader's understanding. Nonetheless, elegance was not an innocent goal when it altered how sure or coherent a speaker seemed. The translator's task included representing uncertainty and voice, not merely carrying factual propositions from one language into another. The final text was readable without giving all its speakers the same polished manner.",
+      "questions": [
+        {
+          "question": "What risk did excessive smoothing create?",
+          "answer": "Tentative or uncertain statements could appear more confident and coherent than the originals."
+        },
+        {
+          "question": "Which hesitation did the translator retain?",
+          "answer": "Hesitation or unfinished speech that affected meaning, especially around sensitive decisions."
+        },
+        {
+          "question": "Why was literal transcription not the only valid approach?",
+          "answer": "Preserving every sound would not necessarily preserve understanding; translation requires judgement about meaning, uncertainty and voice."
+        }
+      ]
+    },
+    {
+      "id": "r033",
+      "level": "B2",
+      "title": "The garden beyond the gate",
+      "text": "Residents turned a neglected plot into a community garden. During the first summer, volunteers kept the gate locked whenever nobody was working there, hoping to prevent damage. Children passing on their way home could see the flowers but could not enter. Some neighbours began to describe the garden as a private club.\n\nThe volunteers had intended the opposite. They introduced published opening hours, invited a nearby youth group to help with planting and placed a bench outside for people waiting to enter. They still locked the garden at night, but access became predictable. Damage did not disappear, although the volunteers felt that more neighbours now looked after the space. The project taught them that calling a place communal did not automatically make it feel shared. Rules created for protection could unintentionally limit participation, and the reasons for those rules needed to be considered alongside the experience of people outside the gate.",
+      "questions": [
+        {
+          "question": "Why did some neighbours view the garden as a private club?",
+          "answer": "The gate was often locked and people could see the garden without being able to enter."
+        },
+        {
+          "question": "How did volunteers make access more predictable?",
+          "answer": "They published opening hours and involved a youth group in planting."
+        },
+        {
+          "question": "What tension did the project reveal?",
+          "answer": "Protecting a communal space through restrictions can unintentionally reduce participation and the feeling that it is shared."
+        }
+      ]
+    },
+    {
+      "id": "r034",
+      "level": "C1",
+      "title": "The promise of personalised news",
+      "text": "A news app claimed that personalisation helped readers escape irrelevant information. Over time, a journalist noticed that stories challenging her interests or assumptions appeared less often. The system inferred preference from past clicks, yet a click could indicate outrage, professional curiosity or simple familiarity rather than approval.\n\nShe tested a version that included a small, deliberately varied selection chosen by editors. Some recommendations were less immediately appealing, but they exposed her to subjects she would not have searched for. The app's designers feared that this would reduce engagement. The journalist questioned whether time spent scrolling was the appropriate measure of a well-informed reader. Personalisation could be useful without becoming the sole principle of selection. A service optimised only for predicted attention might gradually narrow the very interests it claimed to serve. The experiment therefore evaluated what readers learned and remembered, alongside clicks, to distinguish a more absorbing feed from a more informative one.",
+      "questions": [
+        {
+          "question": "Why was a click an ambiguous signal?",
+          "answer": "It could express outrage, professional curiosity or familiarity, rather than approval or a stable preference."
+        },
+        {
+          "question": "What did the alternative feed include?",
+          "answer": "A small varied selection deliberately chosen by editors."
+        },
+        {
+          "question": "How did the experiment broaden evaluation?",
+          "answer": "It measured learning and recall as well as clicks to distinguish attention from being informed."
+        }
+      ]
+    },
+    {
+      "id": "r035",
+      "level": "B2",
+      "title": "The station announcement",
+      "text": "At a railway station, important announcements were delivered through loudspeakers, but the information screens often updated several minutes later. Passengers who could not hear clearly sometimes waited on the wrong platform. The station manager initially proposed installing louder speakers.\n\nA passenger group explained that volume would not solve every problem. Some travellers had hearing impairments, while others struggled with announcements in a noisy hall or an unfamiliar language. The station synchronised screen updates with spoken messages and used shorter, consistent wording. Staff also checked that temporary platform changes appeared in both forms. Complaints declined, although passengers still needed assistance during major disruption. The manager learned that improving communication meant offering reliable information through more than one channel. Making the existing channel stronger was less useful than ensuring that people who could not use it had an equally timely alternative.",
+      "questions": [
+        {
+          "question": "Why did some passengers wait on the wrong platform?",
+          "answer": "They could not hear announcements clearly and the screens updated too late."
+        },
+        {
+          "question": "Why were louder speakers insufficient?",
+          "answer": "They would not fully help passengers with hearing impairments or difficulty understanding speech in noise or another language."
+        },
+        {
+          "question": "What was the main improvement?",
+          "answer": "Synchronised, consistently worded information on screens and loudspeakers."
+        }
+      ]
+    },
+    {
+      "id": "r036",
+      "level": "C1",
+      "title": "The unpaid opportunity",
+      "text": "An arts organisation defended unpaid internships as valuable opportunities to gain experience. Its director recalled accepting such a placement herself. Applicants pointed out that the opportunity required living in an expensive city without income, something not everyone could afford. The director's own experience included free accommodation with relatives, a condition she had initially treated as incidental.\n\nThe organisation introduced a stipend and reviewed tasks that had previously been labelled educational but resembled ordinary staff work. It could now offer fewer placements, which prompted criticism that access had become more limited. The director replied that counting places alone overlooked who could realistically accept them. Ten nominal opportunities accessible mainly to people with financial support were not necessarily more inclusive than fewer paid ones. The change did not settle every issue about training and employment. It made the material conditions of participation visible, challenging the idea that an opportunity was open to everyone merely because the application form was public.",
+      "questions": [
+        {
+          "question": "What condition had supported the director’s own internship?",
+          "answer": "She had free accommodation with relatives."
+        },
+        {
+          "question": "Why did counting placements alone misrepresent access?",
+          "answer": "Unpaid places were difficult to accept without financial support, even if anyone could apply."
+        },
+        {
+          "question": "What additional review accompanied the stipend?",
+          "answer": "The organisation examined tasks described as educational that resembled ordinary staff work."
+        }
+      ]
+    },
+    {
+      "id": "r037",
+      "level": "B2",
+      "title": "The class that kept its questions",
+      "text": "A science teacher asked students to write questions anonymously at the end of each lesson. She expected requests to repeat difficult explanations. Many notes instead asked how scientists knew that a claim was trustworthy or why two textbooks seemed to disagree.\n\nThe teacher reserved ten minutes each week to compare sources and discuss uncertainty. She still taught the required material, but she used students' questions to show how conclusions were reached. One student said that previously she had assumed disagreement meant that someone must be careless. She now understood that evidence could be incomplete or interpreted differently. Not every question received a final answer, and the teacher kept unresolved ones on a classroom board. This was not intended to suggest that all opinions were equally reliable. It gave students a way to distinguish a well-supported conclusion from a confident statement and to see questioning as part of learning rather than an interruption.",
+      "questions": [
+        {
+          "question": "What surprised the teacher about the questions?",
+          "answer": "Many concerned how claims were justified and why sources disagreed, not simply difficult explanations."
+        },
+        {
+          "question": "Why were some questions kept on the board?",
+          "answer": "They remained unresolved and could be revisited as part of learning."
+        },
+        {
+          "question": "Did the approach treat all opinions as equally reliable?",
+          "answer": "No. It helped students distinguish well-supported conclusions from mere confidence."
+        }
+      ]
+    },
+    {
+      "id": "r038",
+      "level": "C1",
+      "title": "The insurance of diversity",
+      "text": "A farm cooperative had encouraged members to grow the same profitable crop, simplifying storage and sales. Several good seasons appeared to validate the approach. When an unfamiliar pest spread, however, farms with similar planting patterns suffered losses at the same time.\n\nThe cooperative introduced a more varied crop plan despite the additional logistical work. Individual farms could not expect every crop to earn the highest possible return each year. Instead, the arrangement reduced the chance that one threat would undermine everyone's income simultaneously. Some members called the change inefficient because it complicated purchasing and processing. The cooperative's adviser replied that efficiency under ordinary conditions was only one criterion. A system also needed the capacity to withstand disruption. Diversity carried visible costs in routine operations, whereas the cost of uniformity had remained invisible until a shared vulnerability was exposed. The revised plan treated resilience as an investment, without claiming that variety could eliminate all agricultural risk.",
+      "questions": [
+        {
+          "question": "Why did the pest cause simultaneous losses?",
+          "answer": "Many farms grew the same crop with similar planting patterns, sharing the same vulnerability."
+        },
+        {
+          "question": "What trade-off did diversification involve?",
+          "answer": "More logistical complexity and potentially lower returns for some crops, in exchange for reduced exposure to one common threat."
+        },
+        {
+          "question": "How does the adviser broaden the meaning of efficiency?",
+          "answer": "Routine efficiency should be considered alongside the system’s ability to withstand disruption."
+        }
+      ]
+    },
+    {
+      "id": "r039",
+      "level": "B2",
+      "title": "The phone-free help desk",
+      "text": "A council moved appointment booking to a website and expected fewer queues. The online service worked well for many residents, but others arrived without bookings because they did not own smartphones or could not complete the form. Staff began helping them informally, creating a second queue that was not included in the system's reports.\n\nThe council introduced a telephone booking line and a staffed desk at the library. Both used the same appointment calendar as the website, so residents were not offered fewer choices because of how they booked. Online use continued to grow, but the extra routes remained. The service manager concluded that digital improvement should reduce unnecessary work without making a device a condition of access. The original figures had shown faster processing for successful online users; they had said little about people who could not enter the process in the first place.",
+      "questions": [
+        {
+          "question": "Why did the original reports miss a queue?",
+          "answer": "They did not count people receiving informal help after failing to book online."
+        },
+        {
+          "question": "How were alternative users offered equal choices?",
+          "answer": "The phone line and library desk used the same appointment calendar as the website."
+        },
+        {
+          "question": "What limitation did the original success figures have?",
+          "answer": "They described successful online users but not people unable to access the online process."
+        }
+      ]
+    },
+    {
+      "id": "r040",
+      "level": "C1",
+      "title": "The temporary bridge",
+      "text": "After floods damaged a bridge, the council installed a temporary crossing designed to last two years. Five years later, it remained in use. Each annual extension was justified as cheaper than committing immediately to a permanent design. Maintenance costs were presented separately, so the cumulative expense was difficult for residents to see.\n\nAn auditor combined maintenance, inspection and delay costs in one report. The temporary solution no longer looked as economical, although a permanent bridge would still require substantial initial spending. The auditor did not criticise the original emergency decision. She criticised the repeated evaluation of another year's extension as if the earlier extensions had no bearing on the choice. A temporary arrangement can become permanent through a series of apparently modest decisions. The council adopted a deadline for selecting a long-term option and published the costs together. This did not supply an effortless answer, but it made the consequences of continued postponement comparable with the alternatives.",
+      "questions": [
+        {
+          "question": "Why did extensions appear economical?",
+          "answer": "Each was compared with immediate permanent construction, while cumulative maintenance and other costs were reported separately."
+        },
+        {
+          "question": "Did the auditor reject the original emergency crossing?",
+          "answer": "No. She criticised how repeated extensions were evaluated without their cumulative consequences."
+        },
+        {
+          "question": "What changes improved the decision process?",
+          "answer": "A deadline for selecting a long-term option and combined publication of maintenance, inspection and delay costs."
+        }
+      ]
+    },
+    {
+      "id": "r041",
+      "level": "B2",
+      "title": "The neighbour’s freezer",
+      "text": "When a storm interrupted electricity in the village, a shop owner offered space in a generator-powered freezer to neighbours storing important food supplies. The offer spread quickly through a local messaging group. However, several older residents who did not use the group learned about it only after their food had spoiled.\n\nThe emergency committee later arranged a telephone tree and printed notices for future incidents. Volunteers were assigned particular streets so that no household depended entirely on receiving an online message. The shop owner continued to participate but asked the committee to organise deliveries, since serving customers and answering dozens of individual calls had become difficult. The experience showed both the strength and the limits of spontaneous help. A generous resource was most effective when information reached everyone and practical work was shared. The village did not need to replace neighbourly initiative; it needed arrangements that helped the initiative reach beyond the people already connected.",
+      "questions": [
+        {
+          "question": "Why did some residents miss the freezer offer?",
+          "answer": "They did not use the messaging group through which the news first spread."
+        },
+        {
+          "question": "What communication arrangements were introduced?",
+          "answer": "A telephone tree, printed notices and volunteers responsible for particular streets."
+        },
+        {
+          "question": "Why did the owner ask for organised deliveries?",
+          "answer": "Handling many calls and deliveries while serving customers created too much work for one person."
+        }
+      ]
+    },
+    {
+      "id": "r042",
+      "level": "C1",
+      "title": "The value of a slower answer",
+      "text": "A legal advice centre introduced a chatbot to handle routine enquiries. Users praised immediate replies, but advisers noticed that some apparently simple questions concealed circumstances requiring careful discussion. A question about ending a rental contract could involve unsafe housing, shared liability or a threatened eviction.\n\nThe centre redesigned the tool to identify situations in which it should stop giving general information and offer contact with an adviser. This sometimes made the service feel less decisive. The director considered that an advantage when certainty would have been misleading. Response time remained a useful measure for genuinely routine requests, but the centre also tracked whether users reached the right kind of help. The aim was not to maximise the number of conversations completed without a person. It was to reserve professional attention for cases where context mattered. A fast answer could save time; a well-timed refusal to answer automatically could prevent a much more costly misunderstanding.",
+      "questions": [
+        {
+          "question": "Why could a simple rental question require an adviser?",
+          "answer": "It might conceal circumstances such as unsafe housing, shared liability or threatened eviction."
+        },
+        {
+          "question": "How was the chatbot changed?",
+          "answer": "It learned to identify situations requiring human advice and stop offering only general answers."
+        },
+        {
+          "question": "What broader outcome did the centre measure?",
+          "answer": "Whether users reached the appropriate kind of help, not merely how fast or how automatically an enquiry ended."
+        }
+      ]
+    },
+    {
+      "id": "r043",
+      "level": "B2",
+      "title": "The market’s reusable boxes",
+      "text": "A food market introduced reusable boxes with a small deposit. Customers could return them at any participating stall. Initially, traders expected deposits to cover most losses. Instead, boxes accumulated at two busy stalls while others ran out, and staff spent time explaining different return procedures.\n\nThe market agreed on one procedure and arranged a collection point near the exit. A volunteer moved clean boxes between stalls during the morning. Customers found returning them easier, and traders could see how many were actually available. The deposit remained, but it was no longer treated as the whole system. The organiser explained that reuse required convenient routines as well as an incentive. A customer might intend to return a box yet keep forgetting if the process was unclear. By coordinating the stalls, the market turned a set of separate efforts into a service that worked more consistently for both sellers and shoppers.",
+      "questions": [
+        {
+          "question": "What problems arose beyond lost boxes?",
+          "answer": "Boxes accumulated unevenly and stalls used different return procedures."
+        },
+        {
+          "question": "What coordination improved the system?",
+          "answer": "A common return procedure, a collection point and redistribution of clean boxes."
+        },
+        {
+          "question": "Why was the deposit insufficient by itself?",
+          "answer": "An incentive did not guarantee convenient, clear return routines or balanced supplies."
+        }
+      ]
+    },
+    {
+      "id": "r044",
+      "level": "C1",
+      "title": "The audience that did not answer",
+      "text": "A theatre surveyed ticket buyers about its programme. Most respondents preferred the familiar productions already on offer, so managers concluded that experimentation would be unwelcome. A new producer questioned whether the survey could reveal the interests of people who had stopped attending or never considered visiting.\n\nShe commissioned interviews outside the theatre and tested a small series of unfamiliar performances at lower financial risk. Existing customers were less enthusiastic, but the series attracted some younger visitors. Neither result established what the whole town wanted. The producer argued that the survey remained valuable as evidence about current buyers, provided it was not mistaken for a complete map of potential audiences. Programming exclusively for existing preferences could preserve today's customers while preventing tomorrow's from appearing. The managers decided to retain familiar productions and reserve part of the programme for experiments, measuring who attended as well as how satisfied established customers felt.",
+      "questions": [
+        {
+          "question": "Whose preferences did the original survey omit?",
+          "answer": "People who no longer attended and people who had never considered visiting."
+        },
+        {
+          "question": "What did the experimental series reveal?",
+          "answer": "Some unfamiliar performances attracted younger visitors even though existing customers were less enthusiastic."
+        },
+        {
+          "question": "Why did the producer still value the original survey?",
+          "answer": "It provided evidence about current buyers, as long as that evidence was not treated as representative of all potential audiences."
+        }
+      ]
+    },
+    {
+      "id": "r045",
+      "level": "B2",
+      "title": "The map made by walkers",
+      "text": "A town invited residents to mark places where walking felt unsafe. The resulting map showed concerns that were absent from accident statistics: narrow pavements, poor lighting and crossings that took too long to change. Officials initially hesitated to act because few recorded injuries had occurred at these locations.\n\nResidents explained that some people avoided the routes precisely because they felt unsafe. Low accident numbers might therefore reflect low use rather than comfortable conditions. The council tested improved lighting and a shorter crossing delay at two sites, then counted pedestrians and collected comments. Walking increased, although the short trial could not establish long-term safety outcomes. The map became a supplement to accident records, not a replacement. It helped officials investigate why certain places discouraged journeys and reminded them that a route can fail pedestrians even when its most visible problems have not yet produced a recorded collision.",
+      "questions": [
+        {
+          "question": "Which concerns were missing from accident statistics?",
+          "answer": "Narrow pavements, poor lighting and long waits at crossings."
+        },
+        {
+          "question": "Why might low accident numbers be misleading?",
+          "answer": "People could be avoiding routes they considered unsafe, reducing use and therefore recorded incidents."
+        },
+        {
+          "question": "How was the residents’ map used?",
+          "answer": "As a supplement to accident records that helped identify and investigate routes discouraging walking."
+        }
+      ]
+    },
+    {
+      "id": "r046",
+      "level": "C1",
+      "title": "The badge of responsible travel",
+      "text": "A travel platform awarded a green badge to accommodation meeting several environmental criteria. One criterion rewarded hotels that offered towel reuse. Smaller guesthouses complained that the checklist did not recognise lower-energy arrangements without formal programmes, while larger hotels could gain points through policies whose actual uptake was unknown.\n\nThe platform revised the scheme to separate verified performance from stated commitments. It also published what the badge did not assess, including the emissions generated by reaching the destination. Some users found the qualification less appealing than a simple symbol. The scheme's designer maintained that a badge should help compare a defined aspect of travel, not certify an entire holiday as harmless. Simplification was necessary for a usable interface, but it became misleading if it concealed the boundaries of the claim. The revised badge was more cautious, reflecting a narrower promise that the evidence could support rather than an attractive judgement about everything a traveller might do.",
+      "questions": [
+        {
+          "question": "Why did small guesthouses question the checklist?",
+          "answer": "It rewarded formal programmes but could overlook lower-energy practices without such programmes."
+        },
+        {
+          "question": "What did the revised scheme distinguish?",
+          "answer": "Verified environmental performance and stated commitments."
+        },
+        {
+          "question": "What important impact remained outside the badge?",
+          "answer": "Emissions from travelling to the destination, so the badge could not certify an entire holiday as harmless."
+        }
+      ]
+    },
+    {
+      "id": "r047",
+      "level": "B2",
+      "title": "The sports club’s second timetable",
+      "text": "A swimming club offered beginner lessons at seven every morning. The time suited retired members and early commuters, but parents working evening shifts often could not attend. When membership declined, the committee assumed that local interest in swimming had fallen.\n\nA short survey of former members suggested that scheduling was a major obstacle. The club added one late-afternoon session and provided a supervised area where accompanying children could wait. Attendance recovered, though the new session required extra staffing. The club reviewed costs after three months and retained it because demand remained steady. The committee learned that empty places did not automatically mean an unwanted activity. People could value a service while being unable to use it under the offered conditions. Changing the timetable and addressing a practical responsibility revealed demand that had been hidden by a single definition of a convenient time.",
+      "questions": [
+        {
+          "question": "What did the committee initially infer from falling membership?",
+          "answer": "It assumed that local interest in swimming had declined."
+        },
+        {
+          "question": "Which changes addressed former members’ obstacles?",
+          "answer": "A late-afternoon session and a supervised area for accompanying children."
+        },
+        {
+          "question": "What did the committee learn about empty places?",
+          "answer": "They can indicate inaccessible conditions rather than lack of interest in the activity."
+        }
+      ]
+    },
+    {
+      "id": "r048",
+      "level": "C1",
+      "title": "The language of a public apology",
+      "text": "After sending confidential documents to the wrong recipients, an organisation issued a statement saying that \"mistakes had been made\". The statement expressed regret but did not identify the action, its consequences or who would contact affected people. Readers interpreted the wording as an attempt to avoid responsibility.\n\nA revised statement described what had happened, acknowledged the limits of the current investigation and gave a schedule for individual notifications. It did not name an employee before the circumstances were established. The communications adviser distinguished accountability from premature blame: the organisation could explain its responsibilities without pretending that every cause was already known. The second statement was less polished but more useful. Affected readers needed practical information and a credible commitment to follow-up, not merely a stronger adjective beside the word \"regret\". The incident showed that clarity in an apology depends on actions, consequences and obligations, especially when uncertainty remains.",
+      "questions": [
+        {
+          "question": "Why did readers find the first statement evasive?",
+          "answer": "It used passive general wording and omitted the action, consequences and notification responsibilities."
+        },
+        {
+          "question": "Why did the revised statement avoid naming an employee?",
+          "answer": "The investigation had not established the circumstances, and accountability did not require premature blame."
+        },
+        {
+          "question": "What made the second statement more useful?",
+          "answer": "It explained what happened, acknowledged uncertainty and specified a notification schedule and follow-up obligations."
+        }
+      ]
+    },
+    {
+      "id": "r049",
+      "level": "B2",
+      "title": "The workshop with two teachers",
+      "text": "A college invited an experienced carpenter to teach a practical workshop with a mathematics tutor. The carpenter demonstrated how to measure and cut materials accurately, while the tutor explained the calculations behind the work. At first, students treated the calculation as a separate classroom exercise and rushed through it to reach the tools.\n\nThe teachers introduced a task in which each group had to predict how much material it needed before collecting supplies. Errors became visible when pieces did not fit or too much material remained. Students began discussing why a small measurement difference could matter. The carpenter also described occasions when she checked estimates rather than relying on habit. The workshop helped students connect formal knowledge with practical judgement. Neither teacher presented the other subject as merely supporting their own; the task required both, and the consequences gave students a reason to examine their thinking before acting.",
+      "questions": [
+        {
+          "question": "Why did students initially rush calculations?",
+          "answer": "They saw them as a separate classroom exercise delaying practical work."
+        },
+        {
+          "question": "What task made errors meaningful?",
+          "answer": "Groups predicted their material needs before collecting supplies, then saw whether pieces fitted and waste remained."
+        },
+        {
+          "question": "What relationship did the workshop show?",
+          "answer": "Formal calculations and practical judgement both contributed to successful work."
+        }
+      ]
+    },
+    {
+      "id": "r050",
+      "level": "C1",
+      "title": "The protected view",
+      "text": "A proposed wind farm would supply electricity to a rural district but alter a much-valued landscape. Supporters framed opposition as resistance to climate action; opponents described the development as an unnecessary industrial intrusion. Neither label captured the full disagreement.\n\nA residents' panel considered alternative locations, ownership arrangements and the distribution of benefits. Some participants became more supportive when offered community investment, while others maintained that the landscape loss could not be compensated financially. The panel's report included both positions instead of presenting the final recommendation as unanimous. It supported a smaller development with stricter design conditions. The process did not reconcile every value, but it made the trade-offs more explicit and revealed that attitudes were not fixed simply by being \"for\" or \"against\" renewable energy. Decisions about shared infrastructure required attention to where costs fell and who gained influence, alongside the project's contribution to a wider environmental goal.",
+      "questions": [
+        {
+          "question": "Why were the initial labels incomplete?",
+          "answer": "They reduced a disagreement involving landscape, location, ownership and benefits to support for or opposition to climate action."
+        },
+        {
+          "question": "Did community investment persuade everyone?",
+          "answer": "No. Some became more supportive, while others considered the landscape loss financially uncompensable."
+        },
+        {
+          "question": "What did the panel achieve despite disagreement?",
+          "answer": "It made trade-offs and the distribution of costs, benefits and influence more explicit, recommending a smaller project with stricter conditions."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1811 @@
+{
+  "schemaVersion": 1,
+  "language": "en",
+  "levelRange": [
+    "B2",
+    "C1"
+  ],
+  "origin": "Original authored exercises",
+  "items": [
+    {
+      "id": "g001",
+      "level": "B2",
+      "prompt": "Had I known about the delay, I ____ a different route.",
+      "answers": [
+        "would have taken"
+      ],
+      "completed": "Had I known about the delay, I would have taken a different route."
+    },
+    {
+      "id": "g002",
+      "level": "C1",
+      "prompt": "She wishes she ____ more carefully before signing the contract.",
+      "answers": [
+        "had read"
+      ],
+      "completed": "She wishes she had read more carefully before signing the contract."
+    },
+    {
+      "id": "g003",
+      "level": "B2",
+      "prompt": "By the time the delegates arrive, we ____ the report.",
+      "answers": [
+        "will have finished"
+      ],
+      "completed": "By the time the delegates arrive, we will have finished the report."
+    },
+    {
+      "id": "g004",
+      "level": "C1",
+      "prompt": "No sooner had the lecture begun ____ the fire alarm rang.",
+      "answers": [
+        "than"
+      ],
+      "completed": "No sooner had the lecture begun than the fire alarm rang."
+    },
+    {
+      "id": "g005",
+      "level": "B2",
+      "prompt": "Not only ____ the company cut costs, but it also improved service.",
+      "answers": [
+        "did"
+      ],
+      "completed": "Not only did the company cut costs, but it also improved service."
+    },
+    {
+      "id": "g006",
+      "level": "C1",
+      "prompt": "Were the grant withdrawn, the project ____ to a halt.",
+      "answers": [
+        "would come"
+      ],
+      "completed": "Were the grant withdrawn, the project would come to a halt."
+    },
+    {
+      "id": "g007",
+      "level": "B2",
+      "prompt": "I'd rather you ____ the figures before submitting them tomorrow.",
+      "answers": [
+        "checked"
+      ],
+      "completed": "I'd rather you checked the figures before submitting them tomorrow."
+    },
+    {
+      "id": "g008",
+      "level": "C1",
+      "prompt": "It is essential that every applicant ____ the declaration.",
+      "answers": [
+        "sign"
+      ],
+      "completed": "It is essential that every applicant sign the declaration."
+    },
+    {
+      "id": "g009",
+      "level": "B2",
+      "prompt": "The proposal was rejected on the grounds ____ it was too costly.",
+      "answers": [
+        "that"
+      ],
+      "completed": "The proposal was rejected on the grounds that it was too costly."
+    },
+    {
+      "id": "g010",
+      "level": "C1",
+      "prompt": "Hardly had we left the station ____ the train stopped.",
+      "answers": [
+        "when"
+      ],
+      "completed": "Hardly had we left the station when the train stopped."
+    },
+    {
+      "id": "g011",
+      "level": "B2",
+      "prompt": "She denied ____ confidential information to the press.",
+      "answers": [
+        "having disclosed"
+      ],
+      "completed": "She denied having disclosed confidential information to the press."
+    },
+    {
+      "id": "g012",
+      "level": "C1",
+      "prompt": "If only the council ____ us before closing the library last month.",
+      "answers": [
+        "had consulted"
+      ],
+      "completed": "If only the council had consulted us before closing the library last month."
+    },
+    {
+      "id": "g013",
+      "level": "B2",
+      "prompt": "The more carefully you plan, ____ likely you are to succeed.",
+      "answers": [
+        "the more"
+      ],
+      "completed": "The more carefully you plan, the more likely you are to succeed."
+    },
+    {
+      "id": "g014",
+      "level": "C1",
+      "prompt": "Despite ____ warned twice, he continued to ignore the rules.",
+      "answers": [
+        "being"
+      ],
+      "completed": "Despite being warned twice, he continued to ignore the rules."
+    },
+    {
+      "id": "g015",
+      "level": "B2",
+      "prompt": "The manuscript is believed ____ written in the seventeenth century.",
+      "answers": [
+        "to have been"
+      ],
+      "completed": "The manuscript is believed to have been written in the seventeenth century."
+    },
+    {
+      "id": "g016",
+      "level": "C1",
+      "prompt": "Only after reviewing the evidence ____ the judge announce a verdict.",
+      "answers": [
+        "did"
+      ],
+      "completed": "Only after reviewing the evidence did the judge announce a verdict."
+    },
+    {
+      "id": "g017",
+      "level": "B2",
+      "prompt": "I would have attended the meeting if I ____ invited.",
+      "answers": [
+        "had been"
+      ],
+      "completed": "I would have attended the meeting if I had been invited."
+    },
+    {
+      "id": "g018",
+      "level": "C1",
+      "prompt": "The committee insisted that the decision ____ postponed.",
+      "answers": [
+        "be"
+      ],
+      "completed": "The committee insisted that the decision be postponed."
+    },
+    {
+      "id": "g019",
+      "level": "B2",
+      "prompt": "He spoke as though he ____ personally witnessed the incident.",
+      "answers": [
+        "had"
+      ],
+      "completed": "He spoke as though he had personally witnessed the incident."
+    },
+    {
+      "id": "g020",
+      "level": "C1",
+      "prompt": "Under no circumstances ____ visitors enter the laboratory unaccompanied.",
+      "answers": [
+        "may"
+      ],
+      "completed": "Under no circumstances may visitors enter the laboratory unaccompanied."
+    },
+    {
+      "id": "g021",
+      "level": "B2",
+      "prompt": "If the software had been tested properly, it ____ now.",
+      "answers": [
+        "would be working"
+      ],
+      "completed": "If the software had been tested properly, it would be working now."
+    },
+    {
+      "id": "g022",
+      "level": "C1",
+      "prompt": "You needn't ____ a taxi; I could have picked you up.",
+      "answers": [
+        "have taken"
+      ],
+      "completed": "You needn't have taken a taxi; I could have picked you up."
+    },
+    {
+      "id": "g023",
+      "level": "B2",
+      "prompt": "The bridge, ____ construction took five years, opened yesterday.",
+      "answers": [
+        "whose"
+      ],
+      "completed": "The bridge, whose construction took five years, opened yesterday."
+    },
+    {
+      "id": "g024",
+      "level": "C1",
+      "prompt": "I am not accustomed ____ such detailed records.",
+      "answers": [
+        "to keeping"
+      ],
+      "completed": "I am not accustomed to keeping such detailed records."
+    },
+    {
+      "id": "g025",
+      "level": "B2",
+      "prompt": "Little ____ she realise that her discovery would change the field.",
+      "answers": [
+        "did"
+      ],
+      "completed": "Little did she realise that her discovery would change the field."
+    },
+    {
+      "id": "g026",
+      "level": "C1",
+      "prompt": "The harder he tried to explain, ____ confused the audience became.",
+      "answers": [
+        "the more"
+      ],
+      "completed": "The harder he tried to explain, the more confused the audience became."
+    },
+    {
+      "id": "g027",
+      "level": "B2",
+      "prompt": "We are having the damaged windows ____ next week.",
+      "answers": [
+        "replaced"
+      ],
+      "completed": "We are having the damaged windows replaced next week."
+    },
+    {
+      "id": "g028",
+      "level": "C1",
+      "prompt": "It's high time the organisation ____ its outdated policy.",
+      "answers": [
+        "revised"
+      ],
+      "completed": "It's high time the organisation revised its outdated policy."
+    },
+    {
+      "id": "g029",
+      "level": "B2",
+      "prompt": "She succeeded ____ persuading both sides to negotiate.",
+      "answers": [
+        "in"
+      ],
+      "completed": "She succeeded in persuading both sides to negotiate."
+    },
+    {
+      "id": "g030",
+      "level": "C1",
+      "prompt": "The candidate is unlikely ____ selected without relevant experience.",
+      "answers": [
+        "to be"
+      ],
+      "completed": "The candidate is unlikely to be selected without relevant experience."
+    },
+    {
+      "id": "g031",
+      "level": "B2",
+      "prompt": "I regret ____ you that your application has been unsuccessful.",
+      "answers": [
+        "to inform"
+      ],
+      "completed": "I regret to inform you that your application has been unsuccessful."
+    },
+    {
+      "id": "g032",
+      "level": "C1",
+      "prompt": "He objected ____ asked to work every weekend.",
+      "answers": [
+        "to being"
+      ],
+      "completed": "He objected to being asked to work every weekend."
+    },
+    {
+      "id": "g033",
+      "level": "B2",
+      "prompt": "Neither the manager nor the assistants ____ available yesterday.",
+      "answers": [
+        "were"
+      ],
+      "completed": "Neither the manager nor the assistants were available yesterday."
+    },
+    {
+      "id": "g034",
+      "level": "C1",
+      "prompt": "There is no point ____ the same complaint repeatedly.",
+      "answers": [
+        "in making"
+      ],
+      "completed": "There is no point in making the same complaint repeatedly."
+    },
+    {
+      "id": "g035",
+      "level": "B2",
+      "prompt": "Should you require further details, ____ our admissions office.",
+      "answers": [
+        "contact"
+      ],
+      "completed": "Should you require further details, contact our admissions office."
+    },
+    {
+      "id": "g036",
+      "level": "C1",
+      "prompt": "Rarely ____ we seen such a convincing performance.",
+      "answers": [
+        "have"
+      ],
+      "completed": "Rarely have we seen such a convincing performance."
+    },
+    {
+      "id": "g037",
+      "level": "B2",
+      "prompt": "The documents must ____ delivered before the deadline yesterday.",
+      "answers": [
+        "have been"
+      ],
+      "completed": "The documents must have been delivered before the deadline yesterday."
+    },
+    {
+      "id": "g038",
+      "level": "C1",
+      "prompt": "She would rather resign ____ accept the new conditions.",
+      "answers": [
+        "than"
+      ],
+      "completed": "She would rather resign than accept the new conditions."
+    },
+    {
+      "id": "g039",
+      "level": "B2",
+      "prompt": "The study was conducted with a view ____ improving public transport.",
+      "answers": [
+        "to"
+      ],
+      "completed": "The study was conducted with a view to improving public transport."
+    },
+    {
+      "id": "g040",
+      "level": "C1",
+      "prompt": "If I were you, I ____ the offer before rejecting it.",
+      "answers": [
+        "would reconsider"
+      ],
+      "completed": "If I were you, I would reconsider the offer before rejecting it."
+    },
+    {
+      "id": "g041",
+      "level": "B2",
+      "prompt": "The witness admitted ____ the suspect earlier that evening.",
+      "answers": [
+        "seeing"
+      ],
+      "completed": "The witness admitted seeing the suspect earlier that evening."
+    },
+    {
+      "id": "g042",
+      "level": "C1",
+      "prompt": "The report needs ____ before it can be circulated.",
+      "answers": [
+        "revising"
+      ],
+      "completed": "The report needs revising before it can be circulated."
+    },
+    {
+      "id": "g043",
+      "level": "B2",
+      "prompt": "Provided that funding ____ secured, the trial will begin in May.",
+      "answers": [
+        "is"
+      ],
+      "completed": "Provided that funding is secured, the trial will begin in May."
+    },
+    {
+      "id": "g044",
+      "level": "C1",
+      "prompt": "He apologised ____ having interrupted the discussion.",
+      "answers": [
+        "for"
+      ],
+      "completed": "He apologised for having interrupted the discussion."
+    },
+    {
+      "id": "g045",
+      "level": "B2",
+      "prompt": "What surprised me most ____ the lack of preparation.",
+      "answers": [
+        "was"
+      ],
+      "completed": "What surprised me most was the lack of preparation."
+    },
+    {
+      "id": "g046",
+      "level": "C1",
+      "prompt": "I prefer travelling by train ____ driving long distances.",
+      "answers": [
+        "to"
+      ],
+      "completed": "I prefer travelling by train to driving long distances."
+    },
+    {
+      "id": "g047",
+      "level": "B2",
+      "prompt": "The professor suggested ____ the sample size.",
+      "answers": [
+        "increasing"
+      ],
+      "completed": "The professor suggested increasing the sample size."
+    },
+    {
+      "id": "g048",
+      "level": "C1",
+      "prompt": "She can't ____ left already; her coat is still here.",
+      "answers": [
+        "have"
+      ],
+      "completed": "She can't have left already; her coat is still here."
+    },
+    {
+      "id": "g049",
+      "level": "B2",
+      "prompt": "The applicant, ____ qualifications impressed the panel, was shortlisted.",
+      "answers": [
+        "whose"
+      ],
+      "completed": "The applicant, whose qualifications impressed the panel, was shortlisted."
+    },
+    {
+      "id": "g050",
+      "level": "C1",
+      "prompt": "You should have the contract ____ by a lawyer.",
+      "answers": [
+        "checked"
+      ],
+      "completed": "You should have the contract checked by a lawyer."
+    },
+    {
+      "id": "g051",
+      "level": "B2",
+      "prompt": "I wish I ____ speak French fluently now.",
+      "answers": [
+        "could"
+      ],
+      "completed": "I wish I could speak French fluently now."
+    },
+    {
+      "id": "g052",
+      "level": "C1",
+      "prompt": "The exhibition would have attracted more visitors if it ____ advertised.",
+      "answers": [
+        "had been"
+      ],
+      "completed": "The exhibition would have attracted more visitors if it had been advertised."
+    },
+    {
+      "id": "g053",
+      "level": "B2",
+      "prompt": "Not until the final chapter ____ the mystery become clear.",
+      "answers": [
+        "does"
+      ],
+      "completed": "Not until the final chapter does the mystery become clear."
+    },
+    {
+      "id": "g054",
+      "level": "C1",
+      "prompt": "The data are too incomplete ____ draw a reliable conclusion.",
+      "answers": [
+        "to"
+      ],
+      "completed": "The data are too incomplete to draw a reliable conclusion."
+    },
+    {
+      "id": "g055",
+      "level": "B2",
+      "prompt": "She avoided ____ a direct answer to the question.",
+      "answers": [
+        "giving"
+      ],
+      "completed": "She avoided giving a direct answer to the question."
+    },
+    {
+      "id": "g056",
+      "level": "C1",
+      "prompt": "The policy is intended to prevent sensitive information ____ being leaked.",
+      "answers": [
+        "from"
+      ],
+      "completed": "The policy is intended to prevent sensitive information from being leaked."
+    },
+    {
+      "id": "g057",
+      "level": "B2",
+      "prompt": "I remember ____ him at the conference last year.",
+      "answers": [
+        "meeting"
+      ],
+      "completed": "I remember meeting him at the conference last year."
+    },
+    {
+      "id": "g058",
+      "level": "C1",
+      "prompt": "Remember ____ the backup before shutting down the server.",
+      "answers": [
+        "to save"
+      ],
+      "completed": "Remember to save the backup before shutting down the server."
+    },
+    {
+      "id": "g059",
+      "level": "B2",
+      "prompt": "It was such a demanding task ____ nobody finished early.",
+      "answers": [
+        "that"
+      ],
+      "completed": "It was such a demanding task that nobody finished early."
+    },
+    {
+      "id": "g060",
+      "level": "C1",
+      "prompt": "He is said ____ working on a new novel at present.",
+      "answers": [
+        "to be"
+      ],
+      "completed": "He is said to be working on a new novel at present."
+    },
+    {
+      "id": "g061",
+      "level": "B2",
+      "prompt": "Even though the evidence was limited, the researchers ____ a cautious conclusion.",
+      "answers": [
+        "reached"
+      ],
+      "completed": "Even though the evidence was limited, the researchers reached a cautious conclusion."
+    },
+    {
+      "id": "g062",
+      "level": "C1",
+      "prompt": "The negotiations broke down because neither side ____ willing to compromise.",
+      "answers": [
+        "was"
+      ],
+      "completed": "The negotiations broke down because neither side was willing to compromise."
+    },
+    {
+      "id": "g063",
+      "level": "B2",
+      "prompt": "Having ____ the final draft, she sent it to the editor.",
+      "answers": [
+        "revised"
+      ],
+      "completed": "Having revised the final draft, she sent it to the editor."
+    },
+    {
+      "id": "g064",
+      "level": "C1",
+      "prompt": "If it ____ for her advice, I would be completely lost now.",
+      "answers": [
+        "were not"
+      ],
+      "completed": "If it were not for her advice, I would be completely lost now."
+    },
+    {
+      "id": "g065",
+      "level": "B2",
+      "prompt": "The team has been working on the problem ____ January.",
+      "answers": [
+        "since"
+      ],
+      "completed": "The team has been working on the problem since January."
+    },
+    {
+      "id": "g066",
+      "level": "C1",
+      "prompt": "I would sooner ____ the journey than drive in this weather.",
+      "answers": [
+        "postpone"
+      ],
+      "completed": "I would sooner postpone the journey than drive in this weather."
+    },
+    {
+      "id": "g067",
+      "level": "B2",
+      "prompt": "The device allows users ____ energy consumption in real time.",
+      "answers": [
+        "to monitor"
+      ],
+      "completed": "The device allows users to monitor energy consumption in real time."
+    },
+    {
+      "id": "g068",
+      "level": "C1",
+      "prompt": "She accused him ____ withholding relevant information.",
+      "answers": [
+        "of"
+      ],
+      "completed": "She accused him of withholding relevant information."
+    },
+    {
+      "id": "g069",
+      "level": "B2",
+      "prompt": "We stopped ____ some water before continuing the hike.",
+      "answers": [
+        "to buy"
+      ],
+      "completed": "We stopped to buy some water before continuing the hike."
+    },
+    {
+      "id": "g070",
+      "level": "C1",
+      "prompt": "He stopped ____ when his doctor warned him about the risks.",
+      "answers": [
+        "smoking"
+      ],
+      "completed": "He stopped smoking when his doctor warned him about the risks."
+    },
+    {
+      "id": "g071",
+      "level": "B2",
+      "prompt": "Much as I ____ the offer, I cannot accept it.",
+      "answers": [
+        "appreciate"
+      ],
+      "completed": "Much as I appreciate the offer, I cannot accept it."
+    },
+    {
+      "id": "g072",
+      "level": "C1",
+      "prompt": "You will not be admitted unless you ____ valid identification.",
+      "answers": [
+        "show"
+      ],
+      "completed": "You will not be admitted unless you show valid identification."
+    },
+    {
+      "id": "g073",
+      "level": "B2",
+      "prompt": "The panel recommended that a new survey ____ carried out.",
+      "answers": [
+        "be"
+      ],
+      "completed": "The panel recommended that a new survey be carried out."
+    },
+    {
+      "id": "g074",
+      "level": "C1",
+      "prompt": "She got her passport ____ before travelling abroad.",
+      "answers": [
+        "renewed"
+      ],
+      "completed": "She got her passport renewed before travelling abroad."
+    },
+    {
+      "id": "g075",
+      "level": "B2",
+      "prompt": "This is the researcher ____ discovery won the international award.",
+      "answers": [
+        "whose"
+      ],
+      "completed": "This is the researcher whose discovery won the international award."
+    },
+    {
+      "id": "g076",
+      "level": "C1",
+      "prompt": "The argument was so persuasive ____ even the sceptics agreed.",
+      "answers": [
+        "that"
+      ],
+      "completed": "The argument was so persuasive that even the sceptics agreed."
+    },
+    {
+      "id": "g077",
+      "level": "B2",
+      "prompt": "I would rather you ____ told everyone about the surprise yesterday.",
+      "answers": [
+        "had not"
+      ],
+      "completed": "I would rather you had not told everyone about the surprise yesterday."
+    },
+    {
+      "id": "g078",
+      "level": "C1",
+      "prompt": "The survey, the results of ____ were published today, involved 800 participants.",
+      "answers": [
+        "which"
+      ],
+      "completed": "The survey, the results of which were published today, involved 800 participants."
+    },
+    {
+      "id": "g079",
+      "level": "B2",
+      "prompt": "Not a single complaint ____ received during the trial last month.",
+      "answers": [
+        "was"
+      ],
+      "completed": "Not a single complaint was received during the trial last month."
+    },
+    {
+      "id": "g080",
+      "level": "C1",
+      "prompt": "Had the warning arrived sooner, we ____ the evacuation earlier.",
+      "answers": [
+        "could have started"
+      ],
+      "completed": "Had the warning arrived sooner, we could have started the evacuation earlier."
+    },
+    {
+      "id": "g081",
+      "level": "B2",
+      "prompt": "There is little chance ____ the proposal will be approved without changes.",
+      "answers": [
+        "that"
+      ],
+      "completed": "There is little chance that the proposal will be approved without changes."
+    },
+    {
+      "id": "g082",
+      "level": "C1",
+      "prompt": "The new system is far ____ reliable than the previous one.",
+      "answers": [
+        "more"
+      ],
+      "completed": "The new system is far more reliable than the previous one."
+    },
+    {
+      "id": "g083",
+      "level": "B2",
+      "prompt": "He left the meeting without ____ a word.",
+      "answers": [
+        "saying"
+      ],
+      "completed": "He left the meeting without saying a word."
+    },
+    {
+      "id": "g084",
+      "level": "C1",
+      "prompt": "The responsibility for checking the figures lies ____ the finance team.",
+      "answers": [
+        "with"
+      ],
+      "completed": "The responsibility for checking the figures lies with the finance team."
+    },
+    {
+      "id": "g085",
+      "level": "B2",
+      "prompt": "As long as the weather ____ fine, the event will take place outdoors.",
+      "answers": [
+        "stays"
+      ],
+      "completed": "As long as the weather stays fine, the event will take place outdoors."
+    },
+    {
+      "id": "g086",
+      "level": "C1",
+      "prompt": "The company is expected ____ its results tomorrow.",
+      "answers": [
+        "to announce"
+      ],
+      "completed": "The company is expected to announce its results tomorrow."
+    },
+    {
+      "id": "g087",
+      "level": "B2",
+      "prompt": "I cannot help ____ that we have overlooked something.",
+      "answers": [
+        "thinking"
+      ],
+      "completed": "I cannot help thinking that we have overlooked something."
+    },
+    {
+      "id": "g088",
+      "level": "C1",
+      "prompt": "She was the only speaker ____ address the ethical implications.",
+      "answers": [
+        "to"
+      ],
+      "completed": "She was the only speaker to address the ethical implications."
+    },
+    {
+      "id": "g089",
+      "level": "B2",
+      "prompt": "The injured climber was prevented ____ continuing the ascent.",
+      "answers": [
+        "from"
+      ],
+      "completed": "The injured climber was prevented from continuing the ascent."
+    },
+    {
+      "id": "g090",
+      "level": "C1",
+      "prompt": "The council ought ____ consulted local residents before approving the plan.",
+      "answers": [
+        "to have"
+      ],
+      "completed": "The council ought to have consulted local residents before approving the plan."
+    },
+    {
+      "id": "g091",
+      "level": "B2",
+      "prompt": "Were I ____ your position, I would seek independent advice.",
+      "answers": [
+        "in"
+      ],
+      "completed": "Were I in your position, I would seek independent advice."
+    },
+    {
+      "id": "g092",
+      "level": "C1",
+      "prompt": "He resented ____ treated as an inexperienced employee.",
+      "answers": [
+        "being"
+      ],
+      "completed": "He resented being treated as an inexperienced employee."
+    },
+    {
+      "id": "g093",
+      "level": "B2",
+      "prompt": "A number of proposals ____ submitted last week.",
+      "answers": [
+        "were"
+      ],
+      "completed": "A number of proposals were submitted last week."
+    },
+    {
+      "id": "g094",
+      "level": "C1",
+      "prompt": "The number of complaints ____ fallen sharply this month.",
+      "answers": [
+        "has"
+      ],
+      "completed": "The number of complaints has fallen sharply this month."
+    },
+    {
+      "id": "g095",
+      "level": "B2",
+      "prompt": "They had difficulty ____ suitable accommodation.",
+      "answers": [
+        "finding"
+      ],
+      "completed": "They had difficulty finding suitable accommodation."
+    },
+    {
+      "id": "g096",
+      "level": "C1",
+      "prompt": "The discovery led ____ a complete rethink of the theory.",
+      "answers": [
+        "to"
+      ],
+      "completed": "The discovery led to a complete rethink of the theory."
+    },
+    {
+      "id": "g097",
+      "level": "B2",
+      "prompt": "She insisted ____ paying for the meal herself.",
+      "answers": [
+        "on"
+      ],
+      "completed": "She insisted on paying for the meal herself."
+    },
+    {
+      "id": "g098",
+      "level": "C1",
+      "prompt": "I look forward ____ hearing your comments.",
+      "answers": [
+        "to"
+      ],
+      "completed": "I look forward to hearing your comments."
+    },
+    {
+      "id": "g099",
+      "level": "B2",
+      "prompt": "The presentation was nowhere near ____ clear as I had expected.",
+      "answers": [
+        "as"
+      ],
+      "completed": "The presentation was nowhere near as clear as I had expected."
+    },
+    {
+      "id": "g100",
+      "level": "C1",
+      "prompt": "It was not until noon ____ the missing files were found.",
+      "answers": [
+        "that"
+      ],
+      "completed": "It was not until noon that the missing files were found."
+    },
+    {
+      "id": "g101",
+      "level": "B2",
+      "prompt": "All applications received after the deadline ____ be considered.",
+      "answers": [
+        "will not"
+      ],
+      "completed": "All applications received after the deadline will not be considered."
+    },
+    {
+      "id": "g102",
+      "level": "C1",
+      "prompt": "If she had accepted the scholarship, she ____ studying abroad now.",
+      "answers": [
+        "would be"
+      ],
+      "completed": "If she had accepted the scholarship, she would be studying abroad now."
+    },
+    {
+      "id": "g103",
+      "level": "B2",
+      "prompt": "The assistant reminded me ____ submit the expense claim.",
+      "answers": [
+        "to"
+      ],
+      "completed": "The assistant reminded me to submit the expense claim."
+    },
+    {
+      "id": "g104",
+      "level": "C1",
+      "prompt": "I am used to ____ under pressure.",
+      "answers": [
+        "working"
+      ],
+      "completed": "I am used to working under pressure."
+    },
+    {
+      "id": "g105",
+      "level": "B2",
+      "prompt": "The article focuses ____ the consequences of rapid urban growth.",
+      "answers": [
+        "on"
+      ],
+      "completed": "The article focuses on the consequences of rapid urban growth."
+    },
+    {
+      "id": "g106",
+      "level": "C1",
+      "prompt": "The samples were stored carefully so ____ they would not deteriorate.",
+      "answers": [
+        "that"
+      ],
+      "completed": "The samples were stored carefully so that they would not deteriorate."
+    },
+    {
+      "id": "g107",
+      "level": "B2",
+      "prompt": "The revised estimate is considerably ____ than the original.",
+      "answers": [
+        "higher"
+      ],
+      "completed": "The revised estimate is considerably higher than the original."
+    },
+    {
+      "id": "g108",
+      "level": "C1",
+      "prompt": "The more evidence we gather, the ____ our conclusion becomes.",
+      "answers": [
+        "stronger"
+      ],
+      "completed": "The more evidence we gather, the stronger our conclusion becomes."
+    },
+    {
+      "id": "g109",
+      "level": "B2",
+      "prompt": "She congratulated him ____ winning the fellowship.",
+      "answers": [
+        "on"
+      ],
+      "completed": "She congratulated him on winning the fellowship."
+    },
+    {
+      "id": "g110",
+      "level": "C1",
+      "prompt": "At no point ____ the speaker mention the cost.",
+      "answers": [
+        "did"
+      ],
+      "completed": "At no point did the speaker mention the cost."
+    },
+    {
+      "id": "g111",
+      "level": "B2",
+      "prompt": "The minister refused ____ drawn into the controversy.",
+      "answers": [
+        "to be"
+      ],
+      "completed": "The minister refused to be drawn into the controversy."
+    },
+    {
+      "id": "g112",
+      "level": "C1",
+      "prompt": "The proposal involves ____ several smaller departments.",
+      "answers": [
+        "merging"
+      ],
+      "completed": "The proposal involves merging several smaller departments."
+    },
+    {
+      "id": "g113",
+      "level": "B2",
+      "prompt": "By next July, I ____ here for ten years.",
+      "answers": [
+        "will have been working"
+      ],
+      "completed": "By next July, I will have been working here for ten years."
+    },
+    {
+      "id": "g114",
+      "level": "C1",
+      "prompt": "The instructions were not clear enough ____ beginners to follow.",
+      "answers": [
+        "for"
+      ],
+      "completed": "The instructions were not clear enough for beginners to follow."
+    },
+    {
+      "id": "g115",
+      "level": "B2",
+      "prompt": "I don't mind ____ for a few minutes.",
+      "answers": [
+        "waiting"
+      ],
+      "completed": "I don't mind waiting for a few minutes."
+    },
+    {
+      "id": "g116",
+      "level": "C1",
+      "prompt": "The committee has yet ____ a final decision.",
+      "answers": [
+        "to reach"
+      ],
+      "completed": "The committee has yet to reach a final decision."
+    },
+    {
+      "id": "g117",
+      "level": "B2",
+      "prompt": "She is responsible ____ overseeing the entire programme.",
+      "answers": [
+        "for"
+      ],
+      "completed": "She is responsible for overseeing the entire programme."
+    },
+    {
+      "id": "g118",
+      "level": "C1",
+      "prompt": "He demanded to know why the meeting ____ cancelled.",
+      "answers": [
+        "had been"
+      ],
+      "completed": "He demanded to know why the meeting had been cancelled."
+    },
+    {
+      "id": "g119",
+      "level": "B2",
+      "prompt": "We must take into account the extent ____ which costs may rise.",
+      "answers": [
+        "to"
+      ],
+      "completed": "We must take into account the extent to which costs may rise."
+    },
+    {
+      "id": "g120",
+      "level": "C1",
+      "prompt": "Not having ____ the instructions, he assembled the device incorrectly.",
+      "answers": [
+        "read"
+      ],
+      "completed": "Not having read the instructions, he assembled the device incorrectly."
+    },
+    {
+      "id": "g121",
+      "level": "B2",
+      "prompt": "The chairperson asked that everyone ____ seated until the vote was complete.",
+      "answers": [
+        "remain"
+      ],
+      "completed": "The chairperson asked that everyone remain seated until the vote was complete."
+    },
+    {
+      "id": "g122",
+      "level": "C1",
+      "prompt": "The review was carried out in order ____ identify weaknesses.",
+      "answers": [
+        "to"
+      ],
+      "completed": "The review was carried out in order to identify weaknesses."
+    },
+    {
+      "id": "g123",
+      "level": "B2",
+      "prompt": "I would have finished sooner but ____ the repeated interruptions.",
+      "answers": [
+        "for"
+      ],
+      "completed": "I would have finished sooner but for the repeated interruptions."
+    },
+    {
+      "id": "g124",
+      "level": "C1",
+      "prompt": "The scientist whose work we discussed ____ awarded a prize yesterday.",
+      "answers": [
+        "was"
+      ],
+      "completed": "The scientist whose work we discussed was awarded a prize yesterday."
+    },
+    {
+      "id": "g125",
+      "level": "B2",
+      "prompt": "If you should encounter any problems, ____ the support team.",
+      "answers": [
+        "notify"
+      ],
+      "completed": "If you should encounter any problems, notify the support team."
+    },
+    {
+      "id": "g126",
+      "level": "C1",
+      "prompt": "The charity relies ____ donations from the public.",
+      "answers": [
+        "on"
+      ],
+      "completed": "The charity relies on donations from the public."
+    },
+    {
+      "id": "g127",
+      "level": "B2",
+      "prompt": "I didn't mean ____ offence with my comment.",
+      "answers": [
+        "to cause"
+      ],
+      "completed": "I didn't mean to cause offence with my comment."
+    },
+    {
+      "id": "g128",
+      "level": "C1",
+      "prompt": "Accepting the position will mean ____ to another city.",
+      "answers": [
+        "moving"
+      ],
+      "completed": "Accepting the position will mean moving to another city."
+    },
+    {
+      "id": "g129",
+      "level": "B2",
+      "prompt": "She persuaded the board ____ invest in training.",
+      "answers": [
+        "to"
+      ],
+      "completed": "She persuaded the board to invest in training."
+    },
+    {
+      "id": "g130",
+      "level": "C1",
+      "prompt": "He blamed the failure ____ inadequate preparation.",
+      "answers": [
+        "on"
+      ],
+      "completed": "He blamed the failure on inadequate preparation."
+    },
+    {
+      "id": "g131",
+      "level": "B2",
+      "prompt": "We ought to avoid ____ conclusions from such a small sample.",
+      "answers": [
+        "drawing"
+      ],
+      "completed": "We ought to avoid drawing conclusions from such a small sample."
+    },
+    {
+      "id": "g132",
+      "level": "C1",
+      "prompt": "The speech was aimed ____ reassuring worried investors.",
+      "answers": [
+        "at"
+      ],
+      "completed": "The speech was aimed at reassuring worried investors."
+    },
+    {
+      "id": "g133",
+      "level": "B2",
+      "prompt": "She appears ____ misunderstood the instructions.",
+      "answers": [
+        "to have"
+      ],
+      "completed": "She appears to have misunderstood the instructions."
+    },
+    {
+      "id": "g134",
+      "level": "C1",
+      "prompt": "He has no intention ____ withdrawing his complaint.",
+      "answers": [
+        "of"
+      ],
+      "completed": "He has no intention of withdrawing his complaint."
+    },
+    {
+      "id": "g135",
+      "level": "B2",
+      "prompt": "It's about time we ____ a proper discussion about the budget.",
+      "answers": [
+        "had"
+      ],
+      "completed": "It's about time we had a proper discussion about the budget."
+    },
+    {
+      "id": "g136",
+      "level": "C1",
+      "prompt": "The task proved ____ difficult than anyone had anticipated.",
+      "answers": [
+        "more"
+      ],
+      "completed": "The task proved more difficult than anyone had anticipated."
+    },
+    {
+      "id": "g137",
+      "level": "B2",
+      "prompt": "The manager had the team ____ the calculations again.",
+      "answers": [
+        "check"
+      ],
+      "completed": "The manager had the team check the calculations again."
+    },
+    {
+      "id": "g138",
+      "level": "C1",
+      "prompt": "I had my bag ____ while I was waiting at the station.",
+      "answers": [
+        "stolen"
+      ],
+      "completed": "I had my bag stolen while I was waiting at the station."
+    },
+    {
+      "id": "g139",
+      "level": "B2",
+      "prompt": "The book is well worth ____ even if you disagree with its argument.",
+      "answers": [
+        "reading"
+      ],
+      "completed": "The book is well worth reading even if you disagree with its argument."
+    },
+    {
+      "id": "g140",
+      "level": "C1",
+      "prompt": "The village would have been flooded had the barrier ____ held.",
+      "answers": [
+        "not"
+      ],
+      "completed": "The village would have been flooded had the barrier not held."
+    },
+    {
+      "id": "g141",
+      "level": "B2",
+      "prompt": "The evidence suggests that the painting ____ genuine.",
+      "answers": [
+        "is"
+      ],
+      "completed": "The evidence suggests that the painting is genuine."
+    },
+    {
+      "id": "g142",
+      "level": "C1",
+      "prompt": "The findings are consistent ____ earlier research.",
+      "answers": [
+        "with"
+      ],
+      "completed": "The findings are consistent with earlier research."
+    },
+    {
+      "id": "g143",
+      "level": "B2",
+      "prompt": "The interviewer wanted to know whether I ____ worked abroad before.",
+      "answers": [
+        "had"
+      ],
+      "completed": "The interviewer wanted to know whether I had worked abroad before."
+    },
+    {
+      "id": "g144",
+      "level": "C1",
+      "prompt": "You mustn't ____ the laboratory without protective clothing.",
+      "answers": [
+        "enter"
+      ],
+      "completed": "You mustn't enter the laboratory without protective clothing."
+    },
+    {
+      "id": "g145",
+      "level": "B2",
+      "prompt": "He needn't have ____ so much food; only three guests came.",
+      "answers": [
+        "bought"
+      ],
+      "completed": "He needn't have bought so much food; only three guests came."
+    },
+    {
+      "id": "g146",
+      "level": "C1",
+      "prompt": "The budget allows for unexpected expenses, ____ is reassuring.",
+      "answers": [
+        "which"
+      ],
+      "completed": "The budget allows for unexpected expenses, which is reassuring."
+    },
+    {
+      "id": "g147",
+      "level": "B2",
+      "prompt": "She gave a detailed account of what ____ happened.",
+      "answers": [
+        "had"
+      ],
+      "completed": "She gave a detailed account of what had happened."
+    },
+    {
+      "id": "g148",
+      "level": "C1",
+      "prompt": "We cannot proceed until the agreement ____ signed.",
+      "answers": [
+        "has been"
+      ],
+      "completed": "We cannot proceed until the agreement has been signed."
+    },
+    {
+      "id": "g149",
+      "level": "B2",
+      "prompt": "The board made him ____ the statement publicly.",
+      "answers": [
+        "withdraw"
+      ],
+      "completed": "The board made him withdraw the statement publicly."
+    },
+    {
+      "id": "g150",
+      "level": "C1",
+      "prompt": "He was made ____ apologise for the error.",
+      "answers": [
+        "to"
+      ],
+      "completed": "He was made to apologise for the error."
+    },
+    {
+      "id": "g151",
+      "level": "B2",
+      "prompt": "The city is known ____ its innovative public transport system.",
+      "answers": [
+        "for"
+      ],
+      "completed": "The city is known for its innovative public transport system."
+    },
+    {
+      "id": "g152",
+      "level": "C1",
+      "prompt": "The new director is committed ____ reducing waste.",
+      "answers": [
+        "to"
+      ],
+      "completed": "The new director is committed to reducing waste."
+    },
+    {
+      "id": "g153",
+      "level": "B2",
+      "prompt": "I find it difficult ____ distinguish between the two versions.",
+      "answers": [
+        "to"
+      ],
+      "completed": "I find it difficult to distinguish between the two versions."
+    },
+    {
+      "id": "g154",
+      "level": "C1",
+      "prompt": "He is thought ____ left the country last month.",
+      "answers": [
+        "to have"
+      ],
+      "completed": "He is thought to have left the country last month."
+    },
+    {
+      "id": "g155",
+      "level": "B2",
+      "prompt": "Had it not been for the volunteers, the event ____ cancelled.",
+      "answers": [
+        "would have been"
+      ],
+      "completed": "Had it not been for the volunteers, the event would have been cancelled."
+    },
+    {
+      "id": "g156",
+      "level": "C1",
+      "prompt": "She spoke quietly lest she ____ disturb the sleeping child.",
+      "answers": [
+        "should"
+      ],
+      "completed": "She spoke quietly lest she should disturb the sleeping child."
+    },
+    {
+      "id": "g157",
+      "level": "B2",
+      "prompt": "The witness could not recall ____ the car had been parked.",
+      "answers": [
+        "where"
+      ],
+      "completed": "The witness could not recall where the car had been parked."
+    },
+    {
+      "id": "g158",
+      "level": "C1",
+      "prompt": "I would prefer ____ the issue privately.",
+      "answers": [
+        "to discuss"
+      ],
+      "completed": "I would prefer to discuss the issue privately."
+    },
+    {
+      "id": "g159",
+      "level": "B2",
+      "prompt": "The delay resulted ____ a technical fault.",
+      "answers": [
+        "from"
+      ],
+      "completed": "The delay resulted from a technical fault."
+    },
+    {
+      "id": "g160",
+      "level": "C1",
+      "prompt": "The technical fault resulted ____ a lengthy delay.",
+      "answers": [
+        "in"
+      ],
+      "completed": "The technical fault resulted in a lengthy delay."
+    },
+    {
+      "id": "g161",
+      "level": "B2",
+      "prompt": "Notwithstanding the objections, the scheme ____ ahead last year.",
+      "answers": [
+        "went"
+      ],
+      "completed": "Notwithstanding the objections, the scheme went ahead last year."
+    },
+    {
+      "id": "g162",
+      "level": "C1",
+      "prompt": "So convincing ____ his explanation that nobody challenged it.",
+      "answers": [
+        "was"
+      ],
+      "completed": "So convincing was his explanation that nobody challenged it."
+    },
+    {
+      "id": "g163",
+      "level": "B2",
+      "prompt": "Such ____ the demand that extra tickets were released.",
+      "answers": [
+        "was"
+      ],
+      "completed": "Such was the demand that extra tickets were released."
+    },
+    {
+      "id": "g164",
+      "level": "C1",
+      "prompt": "The sooner we act, the ____ the damage will be.",
+      "answers": [
+        "less"
+      ],
+      "completed": "The sooner we act, the less the damage will be."
+    },
+    {
+      "id": "g165",
+      "level": "B2",
+      "prompt": "He was on the point ____ leaving when the phone rang.",
+      "answers": [
+        "of"
+      ],
+      "completed": "He was on the point of leaving when the phone rang."
+    },
+    {
+      "id": "g166",
+      "level": "C1",
+      "prompt": "The delegates agreed ____ principle but disputed the details.",
+      "answers": [
+        "in"
+      ],
+      "completed": "The delegates agreed in principle but disputed the details."
+    },
+    {
+      "id": "g167",
+      "level": "B2",
+      "prompt": "She is capable ____ managing the project independently.",
+      "answers": [
+        "of"
+      ],
+      "completed": "She is capable of managing the project independently."
+    },
+    {
+      "id": "g168",
+      "level": "C1",
+      "prompt": "The findings have given rise ____ a heated debate.",
+      "answers": [
+        "to"
+      ],
+      "completed": "The findings have given rise to a heated debate."
+    },
+    {
+      "id": "g169",
+      "level": "B2",
+      "prompt": "The proposal met ____ considerable resistance.",
+      "answers": [
+        "with"
+      ],
+      "completed": "The proposal met with considerable resistance."
+    },
+    {
+      "id": "g170",
+      "level": "C1",
+      "prompt": "The results fell short ____ our expectations.",
+      "answers": [
+        "of"
+      ],
+      "completed": "The results fell short of our expectations."
+    },
+    {
+      "id": "g171",
+      "level": "B2",
+      "prompt": "She took exception ____ his dismissive tone.",
+      "answers": [
+        "to"
+      ],
+      "completed": "She took exception to his dismissive tone."
+    },
+    {
+      "id": "g172",
+      "level": "C1",
+      "prompt": "He went to great lengths ____ protect the source's identity.",
+      "answers": [
+        "to"
+      ],
+      "completed": "He went to great lengths to protect the source's identity."
+    },
+    {
+      "id": "g173",
+      "level": "B2",
+      "prompt": "For all its advantages, the system still ____ limitations.",
+      "answers": [
+        "has"
+      ],
+      "completed": "For all its advantages, the system still has limitations."
+    },
+    {
+      "id": "g174",
+      "level": "C1",
+      "prompt": "The research team set ____ to test an alternative explanation.",
+      "answers": [
+        "out"
+      ],
+      "completed": "The research team set out to test an alternative explanation."
+    },
+    {
+      "id": "g175",
+      "level": "B2",
+      "prompt": "The author draws ____ her own experience throughout the novel.",
+      "answers": [
+        "on"
+      ],
+      "completed": "The author draws on her own experience throughout the novel."
+    },
+    {
+      "id": "g176",
+      "level": "C1",
+      "prompt": "The issue boils down ____ a lack of resources.",
+      "answers": [
+        "to"
+      ],
+      "completed": "The issue boils down to a lack of resources."
+    },
+    {
+      "id": "g177",
+      "level": "B2",
+      "prompt": "The company should ____ invested in staff training years ago.",
+      "answers": [
+        "have"
+      ],
+      "completed": "The company should have invested in staff training years ago."
+    },
+    {
+      "id": "g178",
+      "level": "C1",
+      "prompt": "If only I ____ the courage to speak up at yesterday's meeting.",
+      "answers": [
+        "had had"
+      ],
+      "completed": "If only I had had the courage to speak up at yesterday's meeting."
+    },
+    {
+      "id": "g179",
+      "level": "B2",
+      "prompt": "She has difficulty making herself ____ in a noisy room.",
+      "answers": [
+        "heard"
+      ],
+      "completed": "She has difficulty making herself heard in a noisy room."
+    },
+    {
+      "id": "g180",
+      "level": "C1",
+      "prompt": "He was reluctant ____ acknowledge the error.",
+      "answers": [
+        "to"
+      ],
+      "completed": "He was reluctant to acknowledge the error."
+    },
+    {
+      "id": "g181",
+      "level": "B2",
+      "prompt": "The scheme is designed ____ benefit smaller businesses.",
+      "answers": [
+        "to"
+      ],
+      "completed": "The scheme is designed to benefit smaller businesses."
+    },
+    {
+      "id": "g182",
+      "level": "C1",
+      "prompt": "Few people were aware ____ the consequences at the time.",
+      "answers": [
+        "of"
+      ],
+      "completed": "Few people were aware of the consequences at the time."
+    },
+    {
+      "id": "g183",
+      "level": "B2",
+      "prompt": "We would be grateful if you ____ confirm your attendance.",
+      "answers": [
+        "could"
+      ],
+      "completed": "We would be grateful if you could confirm your attendance."
+    },
+    {
+      "id": "g184",
+      "level": "C1",
+      "prompt": "The committee ruled out ____ the deadline again.",
+      "answers": [
+        "extending"
+      ],
+      "completed": "The committee ruled out extending the deadline again."
+    },
+    {
+      "id": "g185",
+      "level": "B2",
+      "prompt": "She is keen ____ gain practical experience.",
+      "answers": [
+        "to"
+      ],
+      "completed": "She is keen to gain practical experience."
+    },
+    {
+      "id": "g186",
+      "level": "C1",
+      "prompt": "The policy came ____ effect at the beginning of the year.",
+      "answers": [
+        "into"
+      ],
+      "completed": "The policy came into effect at the beginning of the year."
+    },
+    {
+      "id": "g187",
+      "level": "B2",
+      "prompt": "You can borrow the equipment on condition ____ you return it tomorrow.",
+      "answers": [
+        "that"
+      ],
+      "completed": "You can borrow the equipment on condition that you return it tomorrow."
+    },
+    {
+      "id": "g188",
+      "level": "C1",
+      "prompt": "I was under the impression ____ the meeting had been postponed.",
+      "answers": [
+        "that"
+      ],
+      "completed": "I was under the impression that the meeting had been postponed."
+    },
+    {
+      "id": "g189",
+      "level": "B2",
+      "prompt": "The project is due ____ completed in November.",
+      "answers": [
+        "to be"
+      ],
+      "completed": "The project is due to be completed in November."
+    },
+    {
+      "id": "g190",
+      "level": "C1",
+      "prompt": "He is unlikely ____ have forgotten such an important appointment.",
+      "answers": [
+        "to"
+      ],
+      "completed": "He is unlikely to have forgotten such an important appointment."
+    },
+    {
+      "id": "g191",
+      "level": "B2",
+      "prompt": "The report takes issue ____ the assumptions behind the forecast.",
+      "answers": [
+        "with"
+      ],
+      "completed": "The report takes issue with the assumptions behind the forecast."
+    },
+    {
+      "id": "g192",
+      "level": "C1",
+      "prompt": "The figures should be interpreted ____ caution.",
+      "answers": [
+        "with"
+      ],
+      "completed": "The figures should be interpreted with caution."
+    },
+    {
+      "id": "g193",
+      "level": "B2",
+      "prompt": "She had no choice but ____ accept the revised terms.",
+      "answers": [
+        "to"
+      ],
+      "completed": "She had no choice but to accept the revised terms."
+    },
+    {
+      "id": "g194",
+      "level": "C1",
+      "prompt": "The argument rests ____ two assumptions that remain untested.",
+      "answers": [
+        "on"
+      ],
+      "completed": "The argument rests on two assumptions that remain untested."
+    },
+    {
+      "id": "g195",
+      "level": "B2",
+      "prompt": "The case for reform is stronger ____ ever.",
+      "answers": [
+        "than"
+      ],
+      "completed": "The case for reform is stronger than ever."
+    },
+    {
+      "id": "g196",
+      "level": "C1",
+      "prompt": "We cannot afford ____ ignore the warning signs.",
+      "answers": [
+        "to"
+      ],
+      "completed": "We cannot afford to ignore the warning signs."
+    },
+    {
+      "id": "g197",
+      "level": "B2",
+      "prompt": "The interviewer asked me what I ____ do if the project failed.",
+      "answers": [
+        "would"
+      ],
+      "completed": "The interviewer asked me what I would do if the project failed."
+    },
+    {
+      "id": "g198",
+      "level": "C1",
+      "prompt": "No matter how carefully you plan, unexpected problems ____ arise.",
+      "answers": [
+        "may"
+      ],
+      "completed": "No matter how carefully you plan, unexpected problems may arise."
+    },
+    {
+      "id": "g199",
+      "level": "B2",
+      "prompt": "The discovery sheds light ____ an unresolved question.",
+      "answers": [
+        "on"
+      ],
+      "completed": "The discovery sheds light on an unresolved question."
+    },
+    {
+      "id": "g200",
+      "level": "C1",
+      "prompt": "She found it hard to come ____ terms with the decision.",
+      "answers": [
+        "to"
+      ],
+      "completed": "She found it hard to come to terms with the decision."
+    }
+  ]
+}

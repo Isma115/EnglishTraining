@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self'; connect-src 'none'; object-src 'none'; base-uri 'none'">
+  <title>Aquí tú me hablas español</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="core.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <header><nav aria-label="Secciones">
+    <button data-view="grammar" aria-current="page">Grammar</button>
+    <button data-view="reading">Reading</button>
+    <button data-view="writing">Writing</button>
+    <button data-view="vocabulary">Vocabulary</button>
+    <button id="settings-open">Ajustes</button>
+  </nav></header>
+  <main id="content" aria-live="polite"><p>Cargando…</p></main>
+  <dialog id="settings" aria-labelledby="settings-title">
+    <h2 id="settings-title">Ajustes</h2>
+    <form method="dialog"><button>Cerrar</button></form>
+  </dialog>
+</body>
+</html>

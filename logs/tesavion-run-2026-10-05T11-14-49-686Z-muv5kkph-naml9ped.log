@@ -1,0 +1,10 @@
+[2026-10-05T11:14:49.686Z] [INFO] Inicio de proyecto · run.sh
+[2026-10-05T11:14:50.044Z] [STDERR]
+npm error Missing script: "dev"
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run
+[2026-10-05T11:14:50.044Z] [STDERR]
+npm error A complete log of this run can be found in: /Users/ismaelmoraledalopez/.npm/_logs/2026-10-05T11_14_49_961Z-debug-0.log
+[2026-10-05T11:14:50.049Z] [INFO]
+Fin de ejecución · código=1 · señal=ninguna

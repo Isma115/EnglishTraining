@@ -1,0 +1,3 @@
+# Index code only; project Markdown must not be read by the indexer.
+*.md
+**/*.md

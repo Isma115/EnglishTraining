@@ -1,0 +1,31 @@
+:root { color-scheme: dark; font-family: system-ui, sans-serif; color: #e6ece8; background: #171b19; }
+* { box-sizing: border-box; }
+body { margin: 0; }
+header { padding: 18px 24px; border-bottom: 1px solid #46534b; background: #222a25; }
+nav { display: flex; gap: 6px; }
+nav button { flex: 1; min-width: 0; padding-inline: 6px; }
+button, input, textarea, select { font: inherit; }
+button { border: 1px solid #46534b; border-radius: 0; background: #222a25; padding: 11px 17px; color: inherit; cursor: pointer; }
+button:hover { background: #34453a; }
+button[aria-current], button.primary { background: #245b46; border-color: #245b46; color: white; }
+button:disabled { opacity: .5; cursor: default; }
+button:focus-visible, input:focus-visible, textarea:focus-visible, select:focus-visible { outline: 3px solid #b08b3a; outline-offset: 3px; }
+main { max-width: 800px; margin: 0 auto; padding: 48px 28px; }
+h1 { font-size: 26px; margin: 0 0 30px; }
+h2 { font-size: 21px; }
+p, article { line-height: 1.8; white-space: pre-wrap; }
+.sentence { font-size: 23px; line-height: 1.7; }
+.center { min-height: 55vh; display: grid; place-items: center; }
+input, textarea, select { border: 1px solid #59695e; background: #222a25; border-radius: 0; padding: 12px; color: inherit; }
+input, textarea { display: block; width: 100%; margin: 12px 0; }
+textarea { min-height: 110px; resize: vertical; line-height: 1.7; }
+.writing { min-height: 45vh; }
+.actions { display: flex; gap: 12px; margin-top: 24px; }
+.correct { color: #8dd8af; }
+.incorrect { color: #ffaaa2; }
+.question { margin: 30px 0; }
+.toolbar { display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 35px; align-items: center; }
+dialog { border: 1px solid #59695e; border-radius: 0; padding: 28px; max-width: calc(100vw - 32px); width: min(360px, calc(100vw - 32px), calc(100dvh - 32px)); }
+dialog#settings { aspect-ratio: 1; }
+dialog::backdrop { background: #142b2180; }
+@media (max-width: 600px) { header { padding: 12px 8px; } nav { gap: 3px; } nav button { padding: 9px 2px; font-size: clamp(10px, 2.6vw, 14px); } main { padding: 30px 20px; } }
