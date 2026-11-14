@@ -1,0 +1,86 @@
+[
+  {
+    "original": "I has a dog.",
+    "corrected": "I have a dog.",
+    "expected": [
+      {
+        "kind": "equal",
+        "text": "I "
+      },
+      {
+        "kind": "removed",
+        "text": "has"
+      },
+      {
+        "kind": "added",
+        "text": "have"
+      },
+      {
+        "kind": "equal",
+        "text": " a dog."
+      }
+    ]
+  },
+  {
+    "original": "Hello world",
+    "corrected": "Hello, world",
+    "expected": [
+      {
+        "kind": "equal",
+        "text": "Hello"
+      },
+      {
+        "kind": "added",
+        "text": ","
+      },
+      {
+        "kind": "equal",
+        "text": " world"
+      }
+    ]
+  },
+  {
+    "original": "Really very good.",
+    "corrected": "Really good."
+  },
+  {
+    "original": "Same text.\n\nSecond paragraph.",
+    "corrected": "Same text.\n\nSecond paragraph."
+  },
+  {
+    "original": "I like cats.\nShe like dogs.",
+    "corrected": "I like cats.\nShe likes dogs."
+  },
+  {
+    "original": "one  two\nthree",
+    "corrected": "one two\n\nthree"
+  },
+  {
+    "original": "",
+    "corrected": "New text"
+  },
+  {
+    "original": "Deleted text",
+    "corrected": ""
+  },
+  {
+    "original": "",
+    "corrected": ""
+  },
+  {
+    "original": "a b a b",
+    "corrected": "b a b a"
+  },
+  {
+    "original": "<script>alert(1)</script>",
+    "corrected": "<b>Hello</b>"
+  },
+  {
+    "original": "Café ☕ — great!",
+    "corrected": "Café ☕ — excellent!"
+  },
+  {
+    "original": "hello",
+    "corrected": "Hello"
+  }
+]

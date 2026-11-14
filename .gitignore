@@ -6,6 +6,7 @@ dist/
 build/
 __pycache__/
 .codebase-memory/
+tmp/tooling/
 mobile/android/.gradle/
 mobile/android/local.properties
 mobile/ios/Pods/

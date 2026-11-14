@@ -1,0 +1,178 @@
+{
+  "answers": [
+    {
+      "answer": "  WOULD   HAVE BEEN. ",
+      "accepted": [
+        "would have been"
+      ],
+      "correct": true
+    },
+    {
+      "answer": "Hadn’t",
+      "accepted": [
+        "hadn't"
+      ],
+      "correct": true
+    },
+    {
+      "answer": "café",
+      "accepted": [
+        "café"
+      ],
+      "correct": true
+    },
+    {
+      "answer": "ＳＴＡＴＩＯＮ",
+      "accepted": [
+        "station"
+      ],
+      "correct": true
+    },
+    {
+      "answer": "oﬃce",
+      "accepted": [
+        "office"
+      ],
+      "correct": true
+    },
+    {
+      "answer": " train station!",
+      "accepted": [
+        "train station"
+      ],
+      "correct": true
+    },
+    {
+      "answer": "si",
+      "accepted": [
+        "sí"
+      ],
+      "correct": false
+    },
+    {
+      "answer": "would be",
+      "accepted": [
+        "would have been"
+      ],
+      "correct": false
+    },
+    {
+      "answer": "  \n",
+      "accepted": [
+        "meeting"
+      ],
+      "correct": false
+    },
+    {
+      "answer": "TRAVELLING?",
+      "accepted": [
+        "traveling",
+        "travelling"
+      ],
+      "correct": true
+    }
+  ],
+  "progress": [
+    {
+      "text": null,
+      "expected": {}
+    },
+    {
+      "text": "{}",
+      "expected": {}
+    },
+    {
+      "text": "{\"en-es:v1\":{\"due\":300.5,\"ease\":2.5,\"interval\":1,\"repetitions\":1.0},\"bad\":null}",
+      "expected": {
+        "en-es:v1": {
+          "due": 300.5,
+          "ease": 2.5,
+          "interval": 1,
+          "repetitions": 1
+        }
+      }
+    },
+    {
+      "text": "{\"bad\":{\"due\":1e400,\"ease\":2.5,\"interval\":1,\"repetitions\":1}}",
+      "expected": {}
+    },
+    {
+      "text": "{\"bad\":{\"due\":30,\"ease\":2.5,\"interval\":1,\"repetitions\":1.5}}",
+      "expected": {}
+    },
+    {
+      "text": "{\"bad\":{\"due\":\"30\",\"ease\":2.5,\"interval\":1,\"repetitions\":1}}",
+      "expected": {}
+    },
+    {
+      "text": "{\"bad\":{\"due\":30,\"interval\":1,\"repetitions\":1}}",
+      "expected": {}
+    },
+    {
+      "text": "[]",
+      "error": true
+    },
+    {
+      "text": "null",
+      "error": true
+    },
+    {
+      "text": "42",
+      "error": true
+    },
+    {
+      "text": "\"text\"",
+      "error": true
+    },
+    {
+      "text": "{",
+      "error": true
+    },
+    {
+      "text": "",
+      "error": true
+    }
+  ],
+  "reviews": [
+    {
+      "correct": true,
+      "now": 0,
+      "repetitions": 1,
+      "interval": 1,
+      "ease": 2.6,
+      "due": 86400000
+    },
+    {
+      "correct": true,
+      "now": 1000,
+      "repetitions": 2,
+      "interval": 3,
+      "ease": 2.7,
+      "due": 259201000
+    },
+    {
+      "correct": true,
+      "now": 2000,
+      "repetitions": 3,
+      "interval": 8,
+      "ease": 2.8,
+      "due": 691202000
+    },
+    {
+      "correct": false,
+      "now": 3000,
+      "repetitions": 0,
+      "interval": 0,
+      "ease": 2.6,
+      "due": 63000
+    },
+    {
+      "correct": true,
+      "now": 4000,
+      "repetitions": 1,
+      "interval": 1,
+      "ease": 2.7,
+      "due": 86404000
+    }
+  ]
+}

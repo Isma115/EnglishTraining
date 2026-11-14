@@ -8,11 +8,12 @@
 La dificultad será entre un nivel de B2 de inglés a C1
 
 
-- 4 ventanas, una para cada sección de la aplicación
+- 5 vistas, una para cada sección de la aplicación
 			- Vista de Grammar por defecto estará esta vista seleccionada
 			- Vista de Reading
 			- Vista de Writing
 			- Vista de Vocabulary
+			- Vista de Traducción
 
 - El menú que permitirá entrar una vista estará ubicada arriba de la ventana como un menú superior pero dentro de la propia ventana, todos los botones para cada vista de la aplicación ocuparán todo el ancho disponible
 

@@ -1,6 +1,6 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
-const { matches, pick, review, nextCard } = require('../desktop/renderer/core.js');
+const { matches, pick, shuffle, review, nextCard } = require('../desktop/renderer/core.js');
 
 test('correction tolerates case, spacing, smart apostrophes and final punctuation', () => {
   assert.ok(matches('  WOULD   HAVE BEEN. ', ['would have been']));
@@ -12,6 +12,15 @@ test('a new random exercise does not immediately repeat the previous one', () =>
   const cards = [{ id: 'a' }, { id: 'b' }];
   assert.equal(pick(cards, 'a', () => 0).id, 'b');
   assert.equal(pick([{ id: 'a' }], 'a', () => 0).id, 'a');
+});
+
+test('shuffle mixes all topics without duplicates or changing the original order', () => {
+  const cards = [{ id: 'a', topic: 'one' }, { id: 'b', topic: 'two' }, { id: 'c', topic: 'one' }];
+  assert.deepEqual(shuffle(cards, () => 0).map(card => card.id), ['b', 'c', 'a']);
+  assert.deepEqual(cards.map(card => card.id), ['a', 'b', 'c']);
+  assert.deepEqual(shuffle(cards, () => 0.999), cards);
+  assert.deepEqual(shuffle([]), []);
+  assert.deepEqual(shuffle(cards.slice(0, 1)), cards.slice(0, 1));
 });
 test('successful recall expands intervals and failed recall returns soon', () => {
   const first = review(null, true, 0);

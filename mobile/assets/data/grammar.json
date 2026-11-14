@@ -2,1810 +2,2465 @@
   "schemaVersion": 1,
   "language": "en",
   "levelRange": [
-    "B2",
-    "C1"
+    "B2"
   ],
   "origin": "Original authored exercises",
   "items": [
     {
       "id": "g001",
       "level": "B2",
-      "prompt": "Had I known about the delay, I ____ a different route.",
+      "topic": "Third conditional",
+      "context": "yesterday",
+      "verb": "catch",
+      "prompt": "I missed the last bus. If I had left earlier, I would ____ it. (catch; yesterday)",
       "answers": [
-        "would have taken"
+        "have caught"
       ],
-      "completed": "Had I known about the delay, I would have taken a different route."
+      "completed": "I missed the last bus. If I had left earlier, I would have caught it. (catch; yesterday)"
     },
     {
       "id": "g002",
-      "level": "C1",
-      "prompt": "She wishes she ____ more carefully before signing the contract.",
+      "level": "B2",
+      "topic": "Third conditional",
+      "context": "yesterday",
+      "verb": "avoid",
+      "prompt": "We found the restaurant closed. If we had checked its hours, we would ____ the wasted journey. (avoid; yesterday)",
       "answers": [
-        "had read"
+        "have avoided"
       ],
-      "completed": "She wishes she had read more carefully before signing the contract."
+      "completed": "We found the restaurant closed. If we had checked its hours, we would have avoided the wasted journey. (avoid; yesterday)"
     },
     {
       "id": "g003",
       "level": "B2",
-      "prompt": "By the time the delegates arrive, we ____ the report.",
+      "topic": "Third conditional",
+      "context": "yesterday",
+      "verb": "pass",
+      "prompt": "Anna failed the exam. If she had revised, she would ____ it. (pass; yesterday)",
       "answers": [
-        "will have finished"
+        "have passed"
       ],
-      "completed": "By the time the delegates arrive, we will have finished the report."
+      "completed": "Anna failed the exam. If she had revised, she would have passed it. (pass; yesterday)"
     },
     {
       "id": "g004",
-      "level": "C1",
-      "prompt": "No sooner had the lecture begun ____ the fire alarm rang.",
+      "level": "B2",
+      "topic": "Third conditional",
+      "context": "yesterday",
+      "verb": "have",
+      "prompt": "Our best player was injured. If he had been fit, we would ____ a better chance of winning. (have; yesterday)",
       "answers": [
-        "than"
+        "have had"
       ],
-      "completed": "No sooner had the lecture begun than the fire alarm rang."
+      "completed": "Our best player was injured. If he had been fit, we would have had a better chance of winning. (have; yesterday)"
     },
     {
       "id": "g005",
       "level": "B2",
-      "prompt": "Not only ____ the company cut costs, but it also improved service.",
+      "topic": "Third conditional",
+      "context": "yesterday",
+      "verb": "save",
+      "prompt": "I lost my files. If I had made a backup, I would ____ them. (save; yesterday)",
       "answers": [
-        "did"
+        "have saved"
       ],
-      "completed": "Not only did the company cut costs, but it also improved service."
+      "completed": "I lost my files. If I had made a backup, I would have saved them. (save; yesterday)"
     },
     {
       "id": "g006",
-      "level": "C1",
-      "prompt": "Were the grant withdrawn, the project ____ to a halt.",
+      "level": "B2",
+      "topic": "Second conditional",
+      "context": "now",
+      "verb": "own",
+      "prompt": "I do not own a car. If I ____ one, I would drive you home. (own; now)",
       "answers": [
-        "would come"
+        "owned"
       ],
-      "completed": "Were the grant withdrawn, the project would come to a halt."
+      "completed": "I do not own a car. If I owned one, I would drive you home. (own; now)"
     },
     {
       "id": "g007",
       "level": "B2",
-      "prompt": "I'd rather you ____ the figures before submitting them tomorrow.",
+      "topic": "Second conditional",
+      "context": "now",
+      "verb": "live",
+      "prompt": "Lena lives far from work. If she ____ nearer, she would spend less time travelling. (live; now)",
       "answers": [
-        "checked"
+        "lived"
       ],
-      "completed": "I'd rather you checked the figures before submitting them tomorrow."
+      "completed": "Lena lives far from work. If she lived nearer, she would spend less time travelling. (live; now)"
     },
     {
       "id": "g008",
-      "level": "C1",
-      "prompt": "It is essential that every applicant ____ the declaration.",
+      "level": "B2",
+      "topic": "Second conditional",
+      "context": "now",
+      "verb": "earn",
+      "prompt": "We cannot afford a bigger flat. If we ____ twice as much, we would rent one. (earn; now)",
       "answers": [
-        "sign"
+        "earned"
       ],
-      "completed": "It is essential that every applicant sign the declaration."
+      "completed": "We cannot afford a bigger flat. If we earned twice as much, we would rent one. (earn; now)"
     },
     {
       "id": "g009",
       "level": "B2",
-      "prompt": "The proposal was rejected on the grounds ____ it was too costly.",
+      "topic": "Second conditional",
+      "context": "now",
+      "verb": "speak",
+      "prompt": "Sam does not speak Japanese. If he ____ it, he would be able to apply. (speak; now)",
       "answers": [
-        "that"
+        "spoke"
       ],
-      "completed": "The proposal was rejected on the grounds that it was too costly."
+      "completed": "Sam does not speak Japanese. If he spoke it, he would be able to apply. (speak; now)"
     },
     {
       "id": "g010",
-      "level": "C1",
-      "prompt": "Hardly had we left the station ____ the train stopped.",
+      "level": "B2",
+      "topic": "Second conditional",
+      "context": "now",
+      "verb": "be",
+      "prompt": "Our kitchen is tiny. If it ____ larger, we would put a table in it. (be; now)",
       "answers": [
-        "when"
+        "were",
+        "was"
       ],
-      "completed": "Hardly had we left the station when the train stopped."
+      "completed": "Our kitchen is tiny. If it were larger, we would put a table in it. (be; now)"
     },
     {
       "id": "g011",
       "level": "B2",
-      "prompt": "She denied ____ confidential information to the press.",
+      "topic": "Mixed conditional",
+      "context": "now",
+      "verb": "be",
+      "prompt": "I stayed up late and feel exhausted. If I had gone to bed earlier, I would ____ less tired now. (be; now)",
       "answers": [
-        "having disclosed"
+        "be"
       ],
-      "completed": "She denied having disclosed confidential information to the press."
+      "completed": "I stayed up late and feel exhausted. If I had gone to bed earlier, I would be less tired now. (be; now)"
     },
     {
       "id": "g012",
-      "level": "C1",
-      "prompt": "If only the council ____ us before closing the library last month.",
+      "level": "B2",
+      "topic": "Mixed conditional",
+      "context": "now",
+      "verb": "be",
+      "prompt": "Eva missed yesterday's flight and is still at home. If she had caught it, she would ____ on the beach now. (be; now)",
       "answers": [
-        "had consulted"
+        "be"
       ],
-      "completed": "If only the council had consulted us before closing the library last month."
+      "completed": "Eva missed yesterday's flight and is still at home. If she had caught it, she would be on the beach now. (be; now)"
     },
     {
       "id": "g013",
       "level": "B2",
-      "prompt": "The more carefully you plan, ____ likely you are to succeed.",
+      "topic": "Mixed conditional",
+      "context": "now",
+      "verb": "be",
+      "prompt": "We ignored the map and are lost. If we had followed it, we would ____ on the right path now. (be; now)",
       "answers": [
-        "the more"
+        "be"
       ],
-      "completed": "The more carefully you plan, the more likely you are to succeed."
+      "completed": "We ignored the map and are lost. If we had followed it, we would be on the right path now. (be; now)"
     },
     {
       "id": "g014",
-      "level": "C1",
-      "prompt": "Despite ____ warned twice, he continued to ignore the rules.",
+      "level": "B2",
+      "topic": "Mixed conditional",
+      "context": "now",
+      "verb": "be",
+      "prompt": "Tom rejected the job and is unemployed. If he had accepted it, he would ____ employed now. (be; now)",
       "answers": [
-        "being"
+        "be"
       ],
-      "completed": "Despite being warned twice, he continued to ignore the rules."
+      "completed": "Tom rejected the job and is unemployed. If he had accepted it, he would be employed now. (be; now)"
     },
     {
       "id": "g015",
       "level": "B2",
-      "prompt": "The manuscript is believed ____ written in the seventeenth century.",
+      "topic": "Mixed conditional",
+      "context": "now",
+      "verb": "be",
+      "prompt": "The roof was not fixed and the room is wet. If it had been fixed, the room would ____ dry now. (be; now)",
       "answers": [
-        "to have been"
+        "be"
       ],
-      "completed": "The manuscript is believed to have been written in the seventeenth century."
+      "completed": "The roof was not fixed and the room is wet. If it had been fixed, the room would be dry now. (be; now)"
     },
     {
       "id": "g016",
-      "level": "C1",
-      "prompt": "Only after reviewing the evidence ____ the judge announce a verdict.",
+      "level": "B2",
+      "topic": "Future time clauses",
+      "context": "tomorrow",
+      "verb": "arrive",
+      "prompt": "We will sign the form as soon as the courier ____. (arrive; tomorrow)",
       "answers": [
-        "did"
+        "arrives",
+        "has arrived"
       ],
-      "completed": "Only after reviewing the evidence did the judge announce a verdict."
+      "completed": "We will sign the form as soon as the courier arrives. (arrive; tomorrow)"
     },
     {
       "id": "g017",
       "level": "B2",
-      "prompt": "I would have attended the meeting if I ____ invited.",
+      "topic": "Future time clauses",
+      "context": "tomorrow",
+      "verb": "arrive",
+      "prompt": "I will be at the station when her train ____. (arrive; tomorrow)",
       "answers": [
-        "had been"
+        "arrives",
+        "has arrived"
       ],
-      "completed": "I would have attended the meeting if I had been invited."
+      "completed": "I will be at the station when her train arrives. (arrive; tomorrow)"
     },
     {
       "id": "g018",
-      "level": "C1",
-      "prompt": "The committee insisted that the decision ____ postponed.",
+      "level": "B2",
+      "topic": "Future time clauses",
+      "context": "tomorrow",
+      "verb": "arrive",
+      "prompt": "We will not restart the server until the technician ____. (arrive; tomorrow)",
       "answers": [
-        "be"
+        "arrives",
+        "has arrived"
       ],
-      "completed": "The committee insisted that the decision be postponed."
+      "completed": "We will not restart the server until the technician arrives. (arrive; tomorrow)"
     },
     {
       "id": "g019",
       "level": "B2",
-      "prompt": "He spoke as though he ____ personally witnessed the incident.",
+      "topic": "Future time clauses",
+      "context": "tomorrow",
+      "verb": "arrive",
+      "prompt": "The organiser will introduce the speaker as soon as she ____. (arrive; tomorrow)",
       "answers": [
-        "had"
+        "arrives",
+        "has arrived"
       ],
-      "completed": "He spoke as though he had personally witnessed the incident."
+      "completed": "The organiser will introduce the speaker as soon as she arrives. (arrive; tomorrow)"
     },
     {
       "id": "g020",
-      "level": "C1",
-      "prompt": "Under no circumstances ____ visitors enter the laboratory unaccompanied.",
+      "level": "B2",
+      "topic": "Future time clauses",
+      "context": "tomorrow",
+      "verb": "arrive",
+      "prompt": "We will test the equipment after it ____. (arrive; tomorrow)",
       "answers": [
-        "may"
+        "arrives",
+        "has arrived"
       ],
-      "completed": "Under no circumstances may visitors enter the laboratory unaccompanied."
+      "completed": "We will test the equipment after it arrives. (arrive; tomorrow)"
     },
     {
       "id": "g021",
       "level": "B2",
-      "prompt": "If the software had been tested properly, it ____ now.",
+      "topic": "Past perfect simple",
+      "context": "before 8:10 yesterday",
+      "verb": "leave",
+      "prompt": "The train departed at eight. By the time we reached the platform at 8:10, it ____ already. (leave; before 8:10 yesterday)",
       "answers": [
-        "would be working"
+        "had left"
       ],
-      "completed": "If the software had been tested properly, it would be working now."
+      "completed": "The train departed at eight. By the time we reached the platform at 8:10, it had left already. (leave; before 8:10 yesterday)"
     },
     {
       "id": "g022",
-      "level": "C1",
-      "prompt": "You needn't ____ a taxi; I could have picked you up.",
+      "level": "B2",
+      "topic": "Past perfect simple",
+      "context": "before 6:30 yesterday",
+      "verb": "leave",
+      "prompt": "Nora went home at six. When I arrived at 6:30, she ____ already. (leave; before 6:30 yesterday)",
       "answers": [
-        "have taken"
+        "had left"
       ],
-      "completed": "You needn't have taken a taxi; I could have picked you up."
+      "completed": "Nora went home at six. When I arrived at 6:30, she had left already. (leave; before 6:30 yesterday)"
     },
     {
       "id": "g023",
       "level": "B2",
-      "prompt": "The bridge, ____ construction took five years, opened yesterday.",
+      "topic": "Past perfect simple",
+      "context": "before midnight yesterday",
+      "verb": "leave",
+      "prompt": "The guests went home at ten. When we returned at midnight, they ____ already. (leave; before midnight yesterday)",
       "answers": [
-        "whose"
+        "had left"
       ],
-      "completed": "The bridge, whose construction took five years, opened yesterday."
+      "completed": "The guests went home at ten. When we returned at midnight, they had left already. (leave; before midnight yesterday)"
     },
     {
       "id": "g024",
-      "level": "C1",
-      "prompt": "I am not accustomed ____ such detailed records.",
+      "level": "B2",
+      "topic": "Past perfect simple",
+      "context": "before 9:10 yesterday",
+      "verb": "leave",
+      "prompt": "The bus departed at nine. I had to walk because it ____ before I reached the stop at 9:10. (leave; before 9:10 yesterday)",
       "answers": [
-        "to keeping"
+        "had left",
+        "left"
       ],
-      "completed": "I am not accustomed to keeping such detailed records."
+      "completed": "The bus departed at nine. I had to walk because it had left before I reached the stop at 9:10. (leave; before 9:10 yesterday)"
     },
     {
       "id": "g025",
       "level": "B2",
-      "prompt": "Little ____ she realise that her discovery would change the field.",
+      "topic": "Past perfect simple",
+      "context": "before 7:30 yesterday",
+      "verb": "leave",
+      "prompt": "The cleaner went home at seven. When the manager arrived at 7:30, she ____ already. (leave; before 7:30 yesterday)",
       "answers": [
-        "did"
+        "had left"
       ],
-      "completed": "Little did she realise that her discovery would change the field."
+      "completed": "The cleaner went home at seven. When the manager arrived at 7:30, she had left already. (leave; before 7:30 yesterday)"
     },
     {
       "id": "g026",
-      "level": "C1",
-      "prompt": "The harder he tried to explain, ____ confused the audience became.",
+      "level": "B2",
+      "topic": "Present perfect continuous",
+      "context": "until now",
+      "verb": "work",
+      "prompt": "The report is still unfinished. I ____ on it for three hours so far. (work; until now)",
       "answers": [
-        "the more"
+        "have been working",
+        "have worked"
       ],
-      "completed": "The harder he tried to explain, the more confused the audience became."
+      "completed": "The report is still unfinished. I have been working on it for three hours so far. (work; until now)"
     },
     {
       "id": "g027",
       "level": "B2",
-      "prompt": "We are having the damaged windows ____ next week.",
+      "topic": "Present perfect continuous",
+      "context": "until now",
+      "verb": "work",
+      "prompt": "The bike is still in pieces. We ____ on it for two hours so far. (work; until now)",
       "answers": [
-        "replaced"
+        "have been working",
+        "have worked"
       ],
-      "completed": "We are having the damaged windows replaced next week."
+      "completed": "The bike is still in pieces. We have been working on it for two hours so far. (work; until now)"
     },
     {
       "id": "g028",
-      "level": "C1",
-      "prompt": "It's high time the organisation ____ its outdated policy.",
+      "level": "B2",
+      "topic": "Present perfect continuous",
+      "context": "until now",
+      "verb": "work",
+      "prompt": "The website is still under development. I ____ on it since Monday. (work; until now)",
       "answers": [
-        "revised"
+        "have been working",
+        "have worked"
       ],
-      "completed": "It's high time the organisation revised its outdated policy."
+      "completed": "The website is still under development. I have been working on it since Monday. (work; until now)"
     },
     {
       "id": "g029",
       "level": "B2",
-      "prompt": "She succeeded ____ persuading both sides to negotiate.",
+      "topic": "Present perfect continuous",
+      "context": "until now",
+      "verb": "work",
+      "prompt": "The research is still in progress. We ____ on it since January. (work; until now)",
       "answers": [
-        "in"
+        "have been working",
+        "have worked"
       ],
-      "completed": "She succeeded in persuading both sides to negotiate."
+      "completed": "The research is still in progress. We have been working on it since January. (work; until now)"
     },
     {
       "id": "g030",
-      "level": "C1",
-      "prompt": "The candidate is unlikely ____ selected without relevant experience.",
+      "level": "B2",
+      "topic": "Present perfect continuous",
+      "context": "until now",
+      "verb": "work",
+      "prompt": "The chapter is still unfinished. I ____ on it for two hours so far. (work; until now)",
       "answers": [
-        "to be"
+        "have been working",
+        "have worked"
       ],
-      "completed": "The candidate is unlikely to be selected without relevant experience."
+      "completed": "The chapter is still unfinished. I have been working on it for two hours so far. (work; until now)"
     },
     {
       "id": "g031",
       "level": "B2",
-      "prompt": "I regret ____ you that your application has been unsuccessful.",
+      "topic": "Future perfect",
+      "context": "by noon tomorrow",
+      "verb": "finish",
+      "prompt": "The report is nearly ready. By noon tomorrow, we will have ____ it. (finish; by noon tomorrow)",
       "answers": [
-        "to inform"
+        "finished"
       ],
-      "completed": "I regret to inform you that your application has been unsuccessful."
+      "completed": "The report is nearly ready. By noon tomorrow, we will have finished it. (finish; by noon tomorrow)"
     },
     {
       "id": "g032",
-      "level": "C1",
-      "prompt": "He objected ____ asked to work every weekend.",
+      "level": "B2",
+      "topic": "Future perfect",
+      "context": "by Friday evening",
+      "verb": "finish",
+      "prompt": "Only one wall remains. By Friday evening, we will have ____ painting the house. (finish; by Friday evening)",
       "answers": [
-        "to being"
+        "finished"
       ],
-      "completed": "He objected to being asked to work every weekend."
+      "completed": "Only one wall remains. By Friday evening, we will have finished painting the house. (finish; by Friday evening)"
     },
     {
       "id": "g033",
       "level": "B2",
-      "prompt": "Neither the manager nor the assistants ____ available yesterday.",
+      "topic": "Future perfect",
+      "context": "by Wednesday",
+      "verb": "finish",
+      "prompt": "Our final lesson is on Tuesday. By our trip on Wednesday, we will have ____ the course. (finish; by Wednesday)",
       "answers": [
-        "were"
+        "finished"
       ],
-      "completed": "Neither the manager nor the assistants were available yesterday."
+      "completed": "Our final lesson is on Tuesday. By our trip on Wednesday, we will have finished the course. (finish; by Wednesday)"
     },
     {
       "id": "g034",
-      "level": "C1",
-      "prompt": "There is no point ____ the same complaint repeatedly.",
+      "level": "B2",
+      "topic": "Future perfect",
+      "context": "by next week",
+      "verb": "finish",
+      "prompt": "We are checking the last entries. By next week's meeting, we will have ____ checking the accounts. (finish; by next week)",
       "answers": [
-        "in making"
+        "finished"
       ],
-      "completed": "There is no point in making the same complaint repeatedly."
+      "completed": "We are checking the last entries. By next week's meeting, we will have finished checking the accounts. (finish; by next week)"
     },
     {
       "id": "g035",
       "level": "B2",
-      "prompt": "Should you require further details, ____ our admissions office.",
+      "topic": "Future perfect",
+      "context": "by next month",
+      "verb": "finish",
+      "prompt": "The builders are doing the final repairs. By next month's opening, they will have ____ the renovations. (finish; by next month)",
       "answers": [
-        "contact"
+        "finished"
       ],
-      "completed": "Should you require further details, contact our admissions office."
+      "completed": "The builders are doing the final repairs. By next month's opening, they will have finished the renovations. (finish; by next month)"
     },
     {
       "id": "g036",
-      "level": "C1",
-      "prompt": "Rarely ____ we seen such a convincing performance.",
+      "level": "B2",
+      "topic": "Past continuous",
+      "context": "at seven yesterday",
+      "verb": "cook",
+      "prompt": "Dinner was half prepared when the phone rang. I ____ it at that moment. (cook; at seven yesterday)",
       "answers": [
-        "have"
+        "was cooking"
       ],
-      "completed": "Rarely have we seen such a convincing performance."
+      "completed": "Dinner was half prepared when the phone rang. I was cooking it at that moment. (cook; at seven yesterday)"
     },
     {
       "id": "g037",
       "level": "B2",
-      "prompt": "The documents must ____ delivered before the deadline yesterday.",
+      "topic": "Past continuous",
+      "context": "at noon yesterday",
+      "verb": "cook",
+      "prompt": "Lunch was half prepared when the power went off. I ____ it at that moment. (cook; at noon yesterday)",
       "answers": [
-        "have been"
+        "was cooking"
       ],
-      "completed": "The documents must have been delivered before the deadline yesterday."
+      "completed": "Lunch was half prepared when the power went off. I was cooking it at that moment. (cook; at noon yesterday)"
     },
     {
       "id": "g038",
-      "level": "C1",
-      "prompt": "She would rather resign ____ accept the new conditions.",
+      "level": "B2",
+      "topic": "Past continuous",
+      "context": "at noon yesterday",
+      "verb": "cook",
+      "prompt": "The soup was still on the stove when the doorbell rang. Maya ____ it at that moment. (cook; at noon yesterday)",
       "answers": [
-        "than"
+        "was cooking"
       ],
-      "completed": "She would rather resign than accept the new conditions."
+      "completed": "The soup was still on the stove when the doorbell rang. Maya was cooking it at that moment. (cook; at noon yesterday)"
     },
     {
       "id": "g039",
       "level": "B2",
-      "prompt": "The study was conducted with a view ____ improving public transport.",
+      "topic": "Past continuous",
+      "context": "at six yesterday",
+      "verb": "cook",
+      "prompt": "Ben was halfway through preparing a curry when I arrived. He ____ it at that moment. (cook; at six yesterday)",
       "answers": [
-        "to"
+        "was cooking"
       ],
-      "completed": "The study was conducted with a view to improving public transport."
+      "completed": "Ben was halfway through preparing a curry when I arrived. He was cooking it at that moment. (cook; at six yesterday)"
     },
     {
       "id": "g040",
-      "level": "C1",
-      "prompt": "If I were you, I ____ the offer before rejecting it.",
+      "level": "B2",
+      "topic": "Past continuous",
+      "context": "at eight yesterday",
+      "verb": "cook",
+      "prompt": "The pasta was still in the pan when the alarm rang. I ____ it at that moment. (cook; at eight yesterday)",
       "answers": [
-        "would reconsider"
+        "was cooking"
       ],
-      "completed": "If I were you, I would reconsider the offer before rejecting it."
+      "completed": "The pasta was still in the pan when the alarm rang. I was cooking it at that moment. (cook; at eight yesterday)"
     },
     {
       "id": "g041",
       "level": "B2",
-      "prompt": "The witness admitted ____ the suspect earlier that evening.",
+      "topic": "Past regret with wish",
+      "context": "yesterday",
+      "verb": "buy",
+      "prompt": "I spent too much on my phone yesterday. I wish I ____ a cheaper one. (buy; yesterday)",
       "answers": [
-        "seeing"
+        "had bought"
       ],
-      "completed": "The witness admitted seeing the suspect earlier that evening."
+      "completed": "I spent too much on my phone yesterday. I wish I had bought a cheaper one. (buy; yesterday)"
     },
     {
       "id": "g042",
-      "level": "C1",
-      "prompt": "The report needs ____ before it can be circulated.",
+      "level": "B2",
+      "topic": "Past regret with wish",
+      "context": "yesterday",
+      "verb": "book",
+      "prompt": "We booked too late and missed yesterday's concert. We wish we ____ our tickets earlier. (book; yesterday)",
       "answers": [
-        "revising"
+        "had booked"
       ],
-      "completed": "The report needs revising before it can be circulated."
+      "completed": "We booked too late and missed yesterday's concert. We wish we had booked our tickets earlier. (book; yesterday)"
     },
     {
       "id": "g043",
       "level": "B2",
-      "prompt": "Provided that funding ____ secured, the trial will begin in May.",
+      "topic": "Past regret with wish",
+      "context": "yesterday",
+      "verb": "read",
+      "prompt": "Ella signed without reading yesterday and regrets it. She wishes she ____ the contract first. (read; yesterday)",
       "answers": [
-        "is"
+        "had read"
       ],
-      "completed": "Provided that funding is secured, the trial will begin in May."
+      "completed": "Ella signed without reading yesterday and regrets it. She wishes she had read the contract first. (read; yesterday)"
     },
     {
       "id": "g044",
-      "level": "C1",
-      "prompt": "He apologised ____ having interrupted the discussion.",
+      "level": "B2",
+      "topic": "Past regret with wish",
+      "context": "yesterday",
+      "verb": "take",
+      "prompt": "I left my umbrella at home yesterday and got soaked. I wish I ____ it with me. (take; yesterday)",
       "answers": [
-        "for"
+        "had taken"
       ],
-      "completed": "He apologised for having interrupted the discussion."
+      "completed": "I left my umbrella at home yesterday and got soaked. I wish I had taken it with me. (take; yesterday)"
     },
     {
       "id": "g045",
       "level": "B2",
-      "prompt": "What surprised me most ____ the lack of preparation.",
+      "topic": "Past regret with wish",
+      "context": "yesterday",
+      "verb": "accept",
+      "prompt": "Dan rejected yesterday's invitation and regrets missing the party. He wishes he ____ it. (accept; yesterday)",
       "answers": [
-        "was"
+        "had accepted"
       ],
-      "completed": "What surprised me most was the lack of preparation."
+      "completed": "Dan rejected yesterday's invitation and regrets missing the party. He wishes he had accepted it. (accept; yesterday)"
     },
     {
       "id": "g046",
-      "level": "C1",
-      "prompt": "I prefer travelling by train ____ driving long distances.",
+      "level": "B2",
+      "topic": "Present wish",
+      "context": "now",
+      "verb": "know",
+      "prompt": "I wish I ____ the answer. (know; now)",
       "answers": [
-        "to"
+        "knew"
       ],
-      "completed": "I prefer travelling by train to driving long distances."
+      "completed": "I wish I knew the answer. (know; now)"
     },
     {
       "id": "g047",
       "level": "B2",
-      "prompt": "The professor suggested ____ the sample size.",
+      "topic": "Present wish",
+      "context": "now",
+      "verb": "know",
+      "prompt": "We wish we ____ our neighbours better. (know; now)",
       "answers": [
-        "increasing"
+        "knew"
       ],
-      "completed": "The professor suggested increasing the sample size."
+      "completed": "We wish we knew our neighbours better. (know; now)"
     },
     {
       "id": "g048",
-      "level": "C1",
-      "prompt": "She can't ____ left already; her coat is still here.",
+      "level": "B2",
+      "topic": "Present wish",
+      "context": "now",
+      "verb": "know",
+      "prompt": "Sara wishes she ____ how to swim. (know; now)",
       "answers": [
-        "have"
+        "knew"
       ],
-      "completed": "She can't have left already; her coat is still here."
+      "completed": "Sara wishes she knew how to swim. (know; now)"
     },
     {
       "id": "g049",
       "level": "B2",
-      "prompt": "The applicant, ____ qualifications impressed the panel, was shortlisted.",
+      "topic": "Present wish",
+      "context": "now",
+      "verb": "know",
+      "prompt": "I wish I ____ the Wi-Fi password. (know; now)",
       "answers": [
-        "whose"
+        "knew"
       ],
-      "completed": "The applicant, whose qualifications impressed the panel, was shortlisted."
+      "completed": "I wish I knew the Wi-Fi password. (know; now)"
     },
     {
       "id": "g050",
-      "level": "C1",
-      "prompt": "You should have the contract ____ by a lawyer.",
+      "level": "B2",
+      "topic": "Present wish",
+      "context": "now",
+      "verb": "know",
+      "prompt": "Leo wishes he ____ the way to the hospital. (know; now)",
       "answers": [
-        "checked"
+        "knew"
       ],
-      "completed": "You should have the contract checked by a lawyer."
+      "completed": "Leo wishes he knew the way to the hospital. (know; now)"
     },
     {
       "id": "g051",
       "level": "B2",
-      "prompt": "I wish I ____ speak French fluently now.",
+      "topic": "Would rather: another person",
+      "context": "tomorrow",
+      "verb": "tell",
+      "prompt": "The party is a secret. I would rather you ____ anyone about it tomorrow. (tell; tomorrow)",
       "answers": [
-        "could"
+        "did not tell",
+        "didn't tell"
       ],
-      "completed": "I wish I could speak French fluently now."
+      "completed": "The party is a secret. I would rather you did not tell anyone about it tomorrow. (tell; tomorrow)"
     },
     {
       "id": "g052",
-      "level": "C1",
-      "prompt": "The exhibition would have attracted more visitors if it ____ advertised.",
+      "level": "B2",
+      "topic": "Would rather: another person",
+      "context": "next week",
+      "verb": "call",
+      "prompt": "I want a holiday without work calls. I would rather you ____ me next week. (call; next week)",
       "answers": [
-        "had been"
+        "did not call",
+        "didn't call"
       ],
-      "completed": "The exhibition would have attracted more visitors if it had been advertised."
+      "completed": "I want a holiday without work calls. I would rather you did not call me next week. (call; next week)"
     },
     {
       "id": "g053",
       "level": "B2",
-      "prompt": "Not until the final chapter ____ the mystery become clear.",
+      "topic": "Would rather: another person",
+      "context": "tonight",
+      "verb": "borrow",
+      "prompt": "I need my car tonight. I would rather you ____ it. (borrow; tonight)",
       "answers": [
-        "does"
+        "did not borrow",
+        "didn't borrow"
       ],
-      "completed": "Not until the final chapter does the mystery become clear."
+      "completed": "I need my car tonight. I would rather you did not borrow it. (borrow; tonight)"
     },
     {
       "id": "g054",
-      "level": "C1",
-      "prompt": "The data are too incomplete ____ draw a reliable conclusion.",
+      "level": "B2",
+      "topic": "Would rather: another person",
+      "context": "tomorrow",
+      "verb": "bring",
+      "prompt": "Pets are not allowed in my flat. I would rather you ____ your dog tomorrow. (bring; tomorrow)",
       "answers": [
-        "to"
+        "did not bring",
+        "didn't bring"
       ],
-      "completed": "The data are too incomplete to draw a reliable conclusion."
+      "completed": "Pets are not allowed in my flat. I would rather you did not bring your dog tomorrow. (bring; tomorrow)"
     },
     {
       "id": "g055",
       "level": "B2",
-      "prompt": "She avoided ____ a direct answer to the question.",
+      "topic": "Would rather: another person",
+      "context": "tomorrow",
+      "verb": "share",
+      "prompt": "The draft must stay confidential. I would rather you ____ it online tomorrow. (share; tomorrow)",
       "answers": [
-        "giving"
+        "did not share",
+        "didn't share"
       ],
-      "completed": "She avoided giving a direct answer to the question."
+      "completed": "The draft must stay confidential. I would rather you did not share it online tomorrow. (share; tomorrow)"
     },
     {
       "id": "g056",
-      "level": "C1",
-      "prompt": "The policy is intended to prevent sensitive information ____ being leaked.",
+      "level": "B2",
+      "topic": "Used to and past habits",
+      "context": "years ago",
+      "verb": "walk",
+      "prompt": "I take the bus now, but I used ____ three kilometres to school every day. (walk; years ago)",
       "answers": [
-        "from"
+        "to walk"
       ],
-      "completed": "The policy is intended to prevent sensitive information from being leaked."
+      "completed": "I take the bus now, but I used to walk three kilometres to school every day. (walk; years ago)"
     },
     {
       "id": "g057",
       "level": "B2",
-      "prompt": "I remember ____ him at the conference last year.",
+      "topic": "Used to and past habits",
+      "context": "years ago",
+      "verb": "go",
+      "prompt": "We stay in hotels now, but we used ____ camping every summer. (go; years ago)",
       "answers": [
-        "meeting"
+        "to go"
       ],
-      "completed": "I remember meeting him at the conference last year."
+      "completed": "We stay in hotels now, but we used to go camping every summer. (go; years ago)"
     },
     {
       "id": "g058",
-      "level": "C1",
-      "prompt": "Remember ____ the backup before shutting down the server.",
+      "level": "B2",
+      "topic": "Used to and past habits",
+      "context": "years ago",
+      "verb": "smoke",
+      "prompt": "My father has quit, but he used ____ every day. (smoke; years ago)",
       "answers": [
-        "to save"
+        "to smoke"
       ],
-      "completed": "Remember to save the backup before shutting down the server."
+      "completed": "My father has quit, but he used to smoke every day. (smoke; years ago)"
     },
     {
       "id": "g059",
       "level": "B2",
-      "prompt": "It was such a demanding task ____ nobody finished early.",
-      "answers": [
-        "that"
-      ],
-      "completed": "It was such a demanding task that nobody finished early."
-    },
-    {
-      "id": "g060",
-      "level": "C1",
-      "prompt": "He is said ____ working on a new novel at present.",
+      "topic": "Used to and past habits",
+      "context": "years ago",
+      "verb": "be",
+      "prompt": "This building is a restaurant now, but it used ____ a library. (be; years ago)",
       "answers": [
         "to be"
       ],
-      "completed": "He is said to be working on a new novel at present."
+      "completed": "This building is a restaurant now, but it used to be a library. (be; years ago)"
+    },
+    {
+      "id": "g060",
+      "level": "B2",
+      "topic": "Used to and past habits",
+      "context": "years ago",
+      "verb": "be",
+      "prompt": "I love dogs now, but I used ____ afraid of them. (be; years ago)",
+      "answers": [
+        "to be"
+      ],
+      "completed": "I love dogs now, but I used to be afraid of them. (be; years ago)"
     },
     {
       "id": "g061",
       "level": "B2",
-      "prompt": "Even though the evidence was limited, the researchers ____ a cautious conclusion.",
+      "topic": "Be used to and gerunds",
+      "context": "now",
+      "verb": "work",
+      "prompt": "I am used to ____ at night. (work; now)",
       "answers": [
-        "reached"
+        "working"
       ],
-      "completed": "Even though the evidence was limited, the researchers reached a cautious conclusion."
+      "completed": "I am used to working at night. (work; now)"
     },
     {
       "id": "g062",
-      "level": "C1",
-      "prompt": "The negotiations broke down because neither side ____ willing to compromise.",
+      "level": "B2",
+      "topic": "Be used to and gerunds",
+      "context": "now",
+      "verb": "work",
+      "prompt": "Sara is used to ____ from home. (work; now)",
       "answers": [
-        "was"
+        "working"
       ],
-      "completed": "The negotiations broke down because neither side was willing to compromise."
+      "completed": "Sara is used to working from home. (work; now)"
     },
     {
       "id": "g063",
       "level": "B2",
-      "prompt": "Having ____ the final draft, she sent it to the editor.",
+      "topic": "Be used to and gerunds",
+      "context": "now",
+      "verb": "work",
+      "prompt": "We are used to ____ at weekends. (work; now)",
       "answers": [
-        "revised"
+        "working"
       ],
-      "completed": "Having revised the final draft, she sent it to the editor."
+      "completed": "We are used to working at weekends. (work; now)"
     },
     {
       "id": "g064",
-      "level": "C1",
-      "prompt": "If it ____ for her advice, I would be completely lost now.",
+      "level": "B2",
+      "topic": "Be used to and gerunds",
+      "context": "now",
+      "verb": "work",
+      "prompt": "Ben is used to ____ in a noisy office. (work; now)",
       "answers": [
-        "were not"
+        "working"
       ],
-      "completed": "If it were not for her advice, I would be completely lost now."
+      "completed": "Ben is used to working in a noisy office. (work; now)"
     },
     {
       "id": "g065",
       "level": "B2",
-      "prompt": "The team has been working on the problem ____ January.",
+      "topic": "Be used to and gerunds",
+      "context": "now",
+      "verb": "work",
+      "prompt": "We are used to ____ under pressure. (work; now)",
       "answers": [
-        "since"
+        "working"
       ],
-      "completed": "The team has been working on the problem since January."
+      "completed": "We are used to working under pressure. (work; now)"
     },
     {
       "id": "g066",
-      "level": "C1",
-      "prompt": "I would sooner ____ the journey than drive in this weather.",
+      "level": "B2",
+      "topic": "Perfect modal: unnecessary past action",
+      "context": "yesterday",
+      "verb": "buy",
+      "prompt": "I bought bread, but we already had plenty. I need not ____ any. (buy; yesterday)",
       "answers": [
-        "postpone"
+        "have bought"
       ],
-      "completed": "I would sooner postpone the journey than drive in this weather."
+      "completed": "I bought bread, but we already had plenty. I need not have bought any. (buy; yesterday)"
     },
     {
       "id": "g067",
       "level": "B2",
-      "prompt": "The device allows users ____ energy consumption in real time.",
+      "topic": "Perfect modal: unnecessary past action",
+      "context": "yesterday",
+      "verb": "pay",
+      "prompt": "You paid for a taxi, but a free shuttle was available. You need not ____ for one. (pay; yesterday)",
       "answers": [
-        "to monitor"
+        "have paid"
       ],
-      "completed": "The device allows users to monitor energy consumption in real time."
+      "completed": "You paid for a taxi, but a free shuttle was available. You need not have paid for one. (pay; yesterday)"
     },
     {
       "id": "g068",
-      "level": "C1",
-      "prompt": "She accused him ____ withholding relevant information.",
+      "level": "B2",
+      "topic": "Perfect modal: unnecessary past action",
+      "context": "yesterday",
+      "verb": "print",
+      "prompt": "We printed the documents, but digital copies were accepted. We need not ____ them. (print; yesterday)",
       "answers": [
-        "of"
+        "have printed"
       ],
-      "completed": "She accused him of withholding relevant information."
+      "completed": "We printed the documents, but digital copies were accepted. We need not have printed them. (print; yesterday)"
     },
     {
       "id": "g069",
       "level": "B2",
-      "prompt": "We stopped ____ some water before continuing the hike.",
+      "topic": "Perfect modal: unnecessary past action",
+      "context": "yesterday",
+      "verb": "book",
+      "prompt": "Mia booked a table, but the restaurant was empty. She need not ____ one. (book; yesterday)",
       "answers": [
-        "to buy"
+        "have booked"
       ],
-      "completed": "We stopped to buy some water before continuing the hike."
+      "completed": "Mia booked a table, but the restaurant was empty. She need not have booked one. (book; yesterday)"
     },
     {
       "id": "g070",
-      "level": "C1",
-      "prompt": "He stopped ____ when his doctor warned him about the risks.",
+      "level": "B2",
+      "topic": "Perfect modal: unnecessary past action",
+      "context": "yesterday",
+      "verb": "bring",
+      "prompt": "They brought their own chairs, but the venue supplied enough. They need not ____ any. (bring; yesterday)",
       "answers": [
-        "smoking"
+        "have brought"
       ],
-      "completed": "He stopped smoking when his doctor warned him about the risks."
+      "completed": "They brought their own chairs, but the venue supplied enough. They need not have brought any. (bring; yesterday)"
     },
     {
       "id": "g071",
       "level": "B2",
-      "prompt": "Much as I ____ the offer, I cannot accept it.",
+      "topic": "Perfect modal: negative deduction",
+      "context": "yesterday",
+      "verb": "commit",
+      "prompt": "Alex was in London all day yesterday, so he cannot ____ yesterday's robbery in Rome. (commit; yesterday)",
       "answers": [
-        "appreciate"
+        "have committed"
       ],
-      "completed": "Much as I appreciate the offer, I cannot accept it."
+      "completed": "Alex was in London all day yesterday, so he cannot have committed yesterday's robbery in Rome. (commit; yesterday)"
     },
     {
       "id": "g072",
-      "level": "C1",
-      "prompt": "You will not be admitted unless you ____ valid identification.",
+      "level": "B2",
+      "topic": "Perfect modal: negative deduction",
+      "context": "yesterday",
+      "verb": "cause",
+      "prompt": "Yesterday's meal contained no peanuts, so peanuts in it cannot ____ her reaction. (cause; yesterday)",
       "answers": [
-        "show"
+        "have caused"
       ],
-      "completed": "You will not be admitted unless you show valid identification."
+      "completed": "Yesterday's meal contained no peanuts, so peanuts in it cannot have caused her reaction. (cause; yesterday)"
     },
     {
       "id": "g073",
       "level": "B2",
-      "prompt": "The panel recommended that a new survey ____ carried out.",
+      "topic": "Perfect modal: negative deduction",
+      "context": "yesterday at nine",
+      "verb": "send",
+      "prompt": "Our server was offline until ten yesterday, so it cannot ____ the email at nine. (send; yesterday at nine)",
       "answers": [
-        "be"
+        "have sent"
       ],
-      "completed": "The panel recommended that a new survey be carried out."
+      "completed": "Our server was offline until ten yesterday, so it cannot have sent the email at nine. (send; yesterday at nine)"
     },
     {
       "id": "g074",
-      "level": "C1",
-      "prompt": "She got her passport ____ before travelling abroad.",
+      "level": "B2",
+      "topic": "Perfect modal: negative deduction",
+      "context": "yesterday",
+      "verb": "take",
+      "prompt": "The opening was too small and undamaged, so the thieves cannot ____ the painting through it yesterday. (take; yesterday)",
       "answers": [
-        "renewed"
+        "have taken"
       ],
-      "completed": "She got her passport renewed before travelling abroad."
+      "completed": "The opening was too small and undamaged, so the thieves cannot have taken the painting through it yesterday. (take; yesterday)"
     },
     {
       "id": "g075",
       "level": "B2",
-      "prompt": "This is the researcher ____ discovery won the international award.",
+      "topic": "Perfect modal: negative deduction",
+      "context": "this morning",
+      "verb": "put",
+      "prompt": "The parcel was sealed last night and remains unopened, so they cannot ____ this morning's documents inside it. (put; this morning)",
       "answers": [
-        "whose"
+        "have put"
       ],
-      "completed": "This is the researcher whose discovery won the international award."
+      "completed": "The parcel was sealed last night and remains unopened, so they cannot have put this morning's documents inside it. (put; this morning)"
     },
     {
       "id": "g076",
-      "level": "C1",
-      "prompt": "The argument was so persuasive ____ even the sceptics agreed.",
+      "level": "B2",
+      "topic": "Perfect modal: criticism",
+      "context": "yesterday",
+      "verb": "drive",
+      "prompt": "You drove too fast and crashed yesterday. You should ____ more slowly. (drive; yesterday)",
       "answers": [
-        "that"
+        "have driven",
+        "have been driving"
       ],
-      "completed": "The argument was so persuasive that even the sceptics agreed."
+      "completed": "You drove too fast and crashed yesterday. You should have driven more slowly. (drive; yesterday)"
     },
     {
       "id": "g077",
       "level": "B2",
-      "prompt": "I would rather you ____ told everyone about the surprise yesterday.",
+      "topic": "Perfect modal: criticism",
+      "context": "yesterday",
+      "verb": "leave",
+      "prompt": "Dan missed yesterday's interview because he left late. He should ____ home earlier. (leave; yesterday)",
       "answers": [
-        "had not"
+        "have left"
       ],
-      "completed": "I would rather you had not told everyone about the surprise yesterday."
+      "completed": "Dan missed yesterday's interview because he left late. He should have left home earlier. (leave; yesterday)"
     },
     {
       "id": "g078",
-      "level": "C1",
-      "prompt": "The survey, the results of ____ were published today, involved 800 participants.",
+      "level": "B2",
+      "topic": "Perfect modal: criticism",
+      "context": "yesterday",
+      "verb": "back up",
+      "prompt": "We lost our files yesterday without a backup. We should ____ them. (back up; yesterday)",
       "answers": [
-        "which"
+        "have backed up"
       ],
-      "completed": "The survey, the results of which were published today, involved 800 participants."
+      "completed": "We lost our files yesterday without a backup. We should have backed up them. (back up; yesterday)"
     },
     {
       "id": "g079",
       "level": "B2",
-      "prompt": "Not a single complaint ____ received during the trial last month.",
+      "topic": "Perfect modal: criticism",
+      "context": "yesterday",
+      "verb": "wear",
+      "prompt": "Sara got sunburnt yesterday without sunscreen. She should ____ some. (wear; yesterday)",
       "answers": [
-        "was"
+        "have worn",
+        "have been wearing"
       ],
-      "completed": "Not a single complaint was received during the trial last month."
+      "completed": "Sara got sunburnt yesterday without sunscreen. She should have worn some. (wear; yesterday)"
     },
     {
       "id": "g080",
-      "level": "C1",
-      "prompt": "Had the warning arrived sooner, we ____ the evacuation earlier.",
+      "level": "B2",
+      "topic": "Perfect modal: criticism",
+      "context": "yesterday",
+      "verb": "read",
+      "prompt": "You missed the hidden fees in yesterday's contract. You should ____ it before signing. (read; yesterday)",
       "answers": [
-        "could have started"
+        "have read"
       ],
-      "completed": "Had the warning arrived sooner, we could have started the evacuation earlier."
+      "completed": "You missed the hidden fees in yesterday's contract. You should have read it before signing. (read; yesterday)"
     },
     {
       "id": "g081",
       "level": "B2",
-      "prompt": "There is little chance ____ the proposal will be approved without changes.",
+      "topic": "Prohibition versus lack of obligation",
+      "context": "now",
+      "verb": "take",
+      "prompt": "Photography is forbidden. Visitors must not ____ photographs inside the laboratory. (take; now)",
       "answers": [
-        "that"
+        "take"
       ],
-      "completed": "There is little chance that the proposal will be approved without changes."
+      "completed": "Photography is forbidden. Visitors must not take photographs inside the laboratory. (take; now)"
     },
     {
       "id": "g082",
-      "level": "C1",
-      "prompt": "The new system is far ____ reliable than the previous one.",
+      "level": "B2",
+      "topic": "Prohibition versus lack of obligation",
+      "context": "now",
+      "verb": "use",
+      "prompt": "Phones are forbidden. Candidates must not ____ a phone during the exam. (use; now)",
       "answers": [
-        "more"
+        "use"
       ],
-      "completed": "The new system is far more reliable than the previous one."
+      "completed": "Phones are forbidden. Candidates must not use a phone during the exam. (use; now)"
     },
     {
       "id": "g083",
       "level": "B2",
-      "prompt": "He left the meeting without ____ a word.",
+      "topic": "Prohibition versus lack of obligation",
+      "context": "now",
+      "verb": "smoke",
+      "prompt": "Smoking is forbidden. Patients must not ____ inside the building. (smoke; now)",
       "answers": [
-        "saying"
+        "smoke"
       ],
-      "completed": "He left the meeting without saying a word."
+      "completed": "Smoking is forbidden. Patients must not smoke inside the building. (smoke; now)"
     },
     {
       "id": "g084",
-      "level": "C1",
-      "prompt": "The responsibility for checking the figures lies ____ the finance team.",
+      "level": "B2",
+      "topic": "Prohibition versus lack of obligation",
+      "context": "now",
+      "verb": "share",
+      "prompt": "Passwords are confidential. Employees must not ____ them. (share; now)",
       "answers": [
-        "with"
+        "share"
       ],
-      "completed": "The responsibility for checking the figures lies with the finance team."
+      "completed": "Passwords are confidential. Employees must not share them. (share; now)"
     },
     {
       "id": "g085",
       "level": "B2",
-      "prompt": "As long as the weather ____ fine, the event will take place outdoors.",
+      "topic": "Prohibition versus lack of obligation",
+      "context": "now",
+      "verb": "block",
+      "prompt": "This is an emergency exit. You must not ____ this door. (block; now)",
       "answers": [
-        "stays"
+        "block"
       ],
-      "completed": "As long as the weather stays fine, the event will take place outdoors."
+      "completed": "This is an emergency exit. You must not block this door. (block; now)"
     },
     {
       "id": "g086",
-      "level": "C1",
-      "prompt": "The company is expected ____ its results tomorrow.",
+      "level": "B2",
+      "topic": "Lack of obligation",
+      "context": "today",
+      "verb": "bring",
+      "prompt": "Lunch is provided. You do not have ____ your own lunch. (bring; today)",
       "answers": [
-        "to announce"
+        "to bring"
       ],
-      "completed": "The company is expected to announce its results tomorrow."
+      "completed": "Lunch is provided. You do not have to bring your own lunch. (bring; today)"
     },
     {
       "id": "g087",
       "level": "B2",
-      "prompt": "I cannot help ____ that we have overlooked something.",
+      "topic": "Lack of obligation",
+      "context": "today",
+      "verb": "attend",
+      "prompt": "Attendance is optional. You do not have ____ the meeting. (attend; today)",
       "answers": [
-        "thinking"
+        "to attend"
       ],
-      "completed": "I cannot help thinking that we have overlooked something."
+      "completed": "Attendance is optional. You do not have to attend the meeting. (attend; today)"
     },
     {
       "id": "g088",
-      "level": "C1",
-      "prompt": "She was the only speaker ____ address the ethical implications.",
+      "level": "B2",
+      "topic": "Lack of obligation",
+      "context": "today",
+      "verb": "pay",
+      "prompt": "Entry is free. You do not have ____ to enter the museum. (pay; today)",
       "answers": [
-        "to"
+        "to pay"
       ],
-      "completed": "She was the only speaker to address the ethical implications."
+      "completed": "Entry is free. You do not have to pay to enter the museum. (pay; today)"
     },
     {
       "id": "g089",
       "level": "B2",
-      "prompt": "The injured climber was prevented ____ continuing the ascent.",
+      "topic": "Lack of obligation",
+      "context": "today",
+      "verb": "bring",
+      "prompt": "Towels are provided. You do not have ____ your own towels. (bring; today)",
       "answers": [
-        "from"
+        "to bring"
       ],
-      "completed": "The injured climber was prevented from continuing the ascent."
+      "completed": "Towels are provided. You do not have to bring your own towels. (bring; today)"
     },
     {
       "id": "g090",
-      "level": "C1",
-      "prompt": "The council ought ____ consulted local residents before approving the plan.",
+      "level": "B2",
+      "topic": "Lack of obligation",
+      "context": "today",
+      "verb": "complete",
+      "prompt": "This is optional extra practice. You do not have ____ this task. (complete; today)",
       "answers": [
-        "to have"
+        "to complete"
       ],
-      "completed": "The council ought to have consulted local residents before approving the plan."
+      "completed": "This is optional extra practice. You do not have to complete this task. (complete; today)"
     },
     {
       "id": "g091",
       "level": "B2",
-      "prompt": "Were I ____ your position, I would seek independent advice.",
+      "topic": "Past simple passive",
+      "context": "1880",
+      "verb": "build",
+      "prompt": "The old bridge was ____ in 1880 and opened that December. (build; 1880)",
       "answers": [
-        "in"
+        "built"
       ],
-      "completed": "Were I in your position, I would seek independent advice."
+      "completed": "The old bridge was built in 1880 and opened that December. (build; 1880)"
     },
     {
       "id": "g092",
-      "level": "C1",
-      "prompt": "He resented ____ treated as an inexperienced employee.",
+      "level": "B2",
+      "topic": "Past simple passive",
+      "context": "1965",
+      "verb": "build",
+      "prompt": "This school was ____ in 1965 and welcomed its first pupils that September. (build; 1965)",
       "answers": [
-        "being"
+        "built"
       ],
-      "completed": "He resented being treated as an inexperienced employee."
+      "completed": "This school was built in 1965 and welcomed its first pupils that September. (build; 1965)"
     },
     {
       "id": "g093",
       "level": "B2",
-      "prompt": "A number of proposals ____ submitted last week.",
+      "topic": "Past simple passive",
+      "context": "1920",
+      "verb": "build",
+      "prompt": "The village hall was ____ in 1920 and opened that autumn. (build; 1920)",
       "answers": [
-        "were"
+        "built"
       ],
-      "completed": "A number of proposals were submitted last week."
+      "completed": "The village hall was built in 1920 and opened that autumn. (build; 1920)"
     },
     {
       "id": "g094",
-      "level": "C1",
-      "prompt": "The number of complaints ____ fallen sharply this month.",
+      "level": "B2",
+      "topic": "Past simple passive",
+      "context": "1998",
+      "verb": "build",
+      "prompt": "This tunnel was ____ in 1998 and opened to traffic that summer. (build; 1998)",
       "answers": [
-        "has"
+        "built"
       ],
-      "completed": "The number of complaints has fallen sharply this month."
+      "completed": "This tunnel was built in 1998 and opened to traffic that summer. (build; 1998)"
     },
     {
       "id": "g095",
       "level": "B2",
-      "prompt": "They had difficulty ____ suitable accommodation.",
+      "topic": "Past simple passive",
+      "context": "1902",
+      "verb": "build",
+      "prompt": "The farmhouse was ____ in 1902 and first occupied that winter. (build; 1902)",
       "answers": [
-        "finding"
+        "built"
       ],
-      "completed": "They had difficulty finding suitable accommodation."
+      "completed": "The farmhouse was built in 1902 and first occupied that winter. (build; 1902)"
     },
     {
       "id": "g096",
-      "level": "C1",
-      "prompt": "The discovery led ____ a complete rethink of the theory.",
+      "level": "B2",
+      "topic": "Present continuous passive",
+      "context": "right now",
+      "verb": "repair",
+      "prompt": "The mechanics are still working on my car. It ____ right now. (repair; right now)",
       "answers": [
-        "to"
+        "is being repaired",
+        "is getting repaired"
       ],
-      "completed": "The discovery led to a complete rethink of the theory."
+      "completed": "The mechanics are still working on my car. It is being repaired right now. (repair; right now)"
     },
     {
       "id": "g097",
       "level": "B2",
-      "prompt": "She insisted ____ paying for the meal herself.",
+      "topic": "Present continuous passive",
+      "context": "right now",
+      "verb": "repair",
+      "prompt": "Workers are still fixing the bridge. It ____ at the moment. (repair; right now)",
       "answers": [
-        "on"
+        "is being repaired",
+        "is getting repaired"
       ],
-      "completed": "She insisted on paying for the meal herself."
+      "completed": "Workers are still fixing the bridge. It is being repaired at the moment. (repair; right now)"
     },
     {
       "id": "g098",
-      "level": "C1",
-      "prompt": "I look forward ____ hearing your comments.",
+      "level": "B2",
+      "topic": "Present continuous passive",
+      "context": "right now",
+      "verb": "repair",
+      "prompt": "The technician is still working on our printer. It ____ right now. (repair; right now)",
       "answers": [
-        "to"
+        "is being repaired",
+        "is getting repaired"
       ],
-      "completed": "I look forward to hearing your comments."
+      "completed": "The technician is still working on our printer. It is being repaired right now. (repair; right now)"
     },
     {
       "id": "g099",
       "level": "B2",
-      "prompt": "The presentation was nowhere near ____ clear as I had expected.",
+      "topic": "Present continuous passive",
+      "context": "right now",
+      "verb": "repair",
+      "prompt": "The plumber is still fixing the boiler. It ____ at the moment. (repair; right now)",
       "answers": [
-        "as"
+        "is being repaired",
+        "is getting repaired"
       ],
-      "completed": "The presentation was nowhere near as clear as I had expected."
+      "completed": "The plumber is still fixing the boiler. It is being repaired at the moment. (repair; right now)"
     },
     {
       "id": "g100",
-      "level": "C1",
-      "prompt": "It was not until noon ____ the missing files were found.",
+      "level": "B2",
+      "topic": "Present continuous passive",
+      "context": "right now",
+      "verb": "repair",
+      "prompt": "Builders are still fixing the roof. It ____ right now. (repair; right now)",
       "answers": [
-        "that"
+        "is being repaired",
+        "is getting repaired"
       ],
-      "completed": "It was not until noon that the missing files were found."
+      "completed": "Builders are still fixing the roof. It is being repaired right now. (repair; right now)"
     },
     {
       "id": "g101",
       "level": "B2",
-      "prompt": "All applications received after the deadline ____ be considered.",
+      "topic": "Have something done",
+      "context": "tomorrow",
+      "verb": "repair",
+      "prompt": "I am having my bicycle ____ tomorrow. (repair; tomorrow)",
       "answers": [
-        "will not"
+        "repaired"
       ],
-      "completed": "All applications received after the deadline will not be considered."
+      "completed": "I am having my bicycle repaired tomorrow. (repair; tomorrow)"
     },
     {
       "id": "g102",
-      "level": "C1",
-      "prompt": "If she had accepted the scholarship, she ____ studying abroad now.",
+      "level": "B2",
+      "topic": "Have something done",
+      "context": "Friday",
+      "verb": "repair",
+      "prompt": "We are having our oven ____ on Friday. (repair; Friday)",
       "answers": [
-        "would be"
+        "repaired"
       ],
-      "completed": "If she had accepted the scholarship, she would be studying abroad now."
+      "completed": "We are having our oven repaired on Friday. (repair; Friday)"
     },
     {
       "id": "g103",
       "level": "B2",
-      "prompt": "The assistant reminded me ____ submit the expense claim.",
+      "topic": "Have something done",
+      "context": "next week",
+      "verb": "repair",
+      "prompt": "Sara is having her watch ____ next week. (repair; next week)",
       "answers": [
-        "to"
+        "repaired"
       ],
-      "completed": "The assistant reminded me to submit the expense claim."
+      "completed": "Sara is having her watch repaired next week. (repair; next week)"
     },
     {
       "id": "g104",
-      "level": "C1",
-      "prompt": "I am used to ____ under pressure.",
+      "level": "B2",
+      "topic": "Have something done",
+      "context": "this afternoon",
+      "verb": "repair",
+      "prompt": "I am having my laptop screen ____ this afternoon. (repair; this afternoon)",
       "answers": [
-        "working"
+        "repaired"
       ],
-      "completed": "I am used to working under pressure."
+      "completed": "I am having my laptop screen repaired this afternoon. (repair; this afternoon)"
     },
     {
       "id": "g105",
       "level": "B2",
-      "prompt": "The article focuses ____ the consequences of rapid urban growth.",
+      "topic": "Have something done",
+      "context": "Monday",
+      "verb": "repair",
+      "prompt": "We are having our garage door ____ on Monday. (repair; Monday)",
       "answers": [
-        "on"
+        "repaired"
       ],
-      "completed": "The article focuses on the consequences of rapid urban growth."
+      "completed": "We are having our garage door repaired on Monday. (repair; Monday)"
     },
     {
       "id": "g106",
-      "level": "C1",
-      "prompt": "The samples were stored carefully so ____ they would not deteriorate.",
+      "level": "B2",
+      "topic": "Reported statements",
+      "context": "last Monday",
+      "verb": "finish",
+      "prompt": "Jo said she had ____ the report before Monday's deadline. (finish; last Monday)",
       "answers": [
-        "that"
+        "finished"
       ],
-      "completed": "The samples were stored carefully so that they would not deteriorate."
+      "completed": "Jo said she had finished the report before Monday's deadline. (finish; last Monday)"
     },
     {
       "id": "g107",
       "level": "B2",
-      "prompt": "The revised estimate is considerably ____ than the original.",
+      "topic": "Reported statements",
+      "context": "last Tuesday",
+      "verb": "lose",
+      "prompt": "Max said he had ____ his keys before Tuesday's meeting. (lose; last Tuesday)",
       "answers": [
-        "higher"
+        "lost"
       ],
-      "completed": "The revised estimate is considerably higher than the original."
+      "completed": "Max said he had lost his keys before Tuesday's meeting. (lose; last Tuesday)"
     },
     {
       "id": "g108",
-      "level": "C1",
-      "prompt": "The more evidence we gather, the ____ our conclusion becomes.",
+      "level": "B2",
+      "topic": "Reported statements",
+      "context": "last Wednesday",
+      "verb": "book",
+      "prompt": "Ella said she had ____ the tickets before Wednesday's trip. (book; last Wednesday)",
       "answers": [
-        "stronger"
+        "booked"
       ],
-      "completed": "The more evidence we gather, the stronger our conclusion becomes."
+      "completed": "Ella said she had booked the tickets before Wednesday's trip. (book; last Wednesday)"
     },
     {
       "id": "g109",
       "level": "B2",
-      "prompt": "She congratulated him ____ winning the fellowship.",
+      "topic": "Reported statements",
+      "context": "last Thursday",
+      "verb": "complete",
+      "prompt": "The workers said they had ____ the repairs before Thursday's inspection. (complete; last Thursday)",
       "answers": [
-        "on"
+        "completed"
       ],
-      "completed": "She congratulated him on winning the fellowship."
+      "completed": "The workers said they had completed the repairs before Thursday's inspection. (complete; last Thursday)"
     },
     {
       "id": "g110",
-      "level": "C1",
-      "prompt": "At no point ____ the speaker mention the cost.",
+      "level": "B2",
+      "topic": "Reported statements",
+      "context": "last Friday",
+      "verb": "pass",
+      "prompt": "Leo said he had ____ the test before Friday's interview. (pass; last Friday)",
       "answers": [
-        "did"
+        "passed"
       ],
-      "completed": "At no point did the speaker mention the cost."
+      "completed": "Leo said he had passed the test before Friday's interview. (pass; last Friday)"
     },
     {
       "id": "g111",
       "level": "B2",
-      "prompt": "The minister refused ____ drawn into the controversy.",
+      "topic": "Indirect questions",
+      "context": "in 1990",
+      "verb": "be",
+      "prompt": "The station was demolished in 2000. The tourist asked me where it ____ in 1990. (be; in 1990)",
       "answers": [
-        "to be"
+        "was",
+        "had been"
       ],
-      "completed": "The minister refused to be drawn into the controversy."
+      "completed": "The station was demolished in 2000. The tourist asked me where it was in 1990. (be; in 1990)"
     },
     {
       "id": "g112",
-      "level": "C1",
-      "prompt": "The proposal involves ____ several smaller departments.",
+      "level": "B2",
+      "topic": "Indirect questions",
+      "context": "in 1980",
+      "verb": "be",
+      "prompt": "The bus depot closed in 1990. The driver asked us where it ____ in 1980. (be; in 1980)",
       "answers": [
-        "merging"
+        "was",
+        "had been"
       ],
-      "completed": "The proposal involves merging several smaller departments."
+      "completed": "The bus depot closed in 1990. The driver asked us where it was in 1980. (be; in 1980)"
     },
     {
       "id": "g113",
       "level": "B2",
-      "prompt": "By next July, I ____ here for ten years.",
+      "topic": "Indirect questions",
+      "context": "in 1970",
+      "verb": "be",
+      "prompt": "The museum moved in 1980. The visitor asked Anna where it ____ in 1970. (be; in 1970)",
       "answers": [
-        "will have been working"
+        "was",
+        "had been"
       ],
-      "completed": "By next July, I will have been working here for ten years."
+      "completed": "The museum moved in 1980. The visitor asked Anna where it was in 1970. (be; in 1970)"
     },
     {
       "id": "g114",
-      "level": "C1",
-      "prompt": "The instructions were not clear enough ____ beginners to follow.",
+      "level": "B2",
+      "topic": "Indirect questions",
+      "context": "in 1960",
+      "verb": "be",
+      "prompt": "The airport moved in 1970. The passenger asked the receptionist where it ____ in 1960. (be; in 1960)",
       "answers": [
-        "for"
+        "was",
+        "had been"
       ],
-      "completed": "The instructions were not clear enough for beginners to follow."
+      "completed": "The airport moved in 1970. The passenger asked the receptionist where it was in 1960. (be; in 1960)"
     },
     {
       "id": "g115",
       "level": "B2",
-      "prompt": "I don't mind ____ for a few minutes.",
+      "topic": "Indirect questions",
+      "context": "in 1950",
+      "verb": "be",
+      "prompt": "The bridge was demolished in 1960. The cyclist asked my brother where it ____ in 1950. (be; in 1950)",
       "answers": [
-        "waiting"
+        "was",
+        "had been"
       ],
-      "completed": "I don't mind waiting for a few minutes."
+      "completed": "The bridge was demolished in 1960. The cyclist asked my brother where it was in 1950. (be; in 1950)"
     },
     {
       "id": "g116",
-      "level": "C1",
-      "prompt": "The committee has yet ____ a final decision.",
+      "level": "B2",
+      "topic": "Reported requests",
+      "context": "yesterday",
+      "verb": "send",
+      "prompt": "My manager asked me ____ her the report. (send; yesterday)",
       "answers": [
-        "to reach"
+        "to send"
       ],
-      "completed": "The committee has yet to reach a final decision."
+      "completed": "My manager asked me to send her the report. (send; yesterday)"
     },
     {
       "id": "g117",
       "level": "B2",
-      "prompt": "She is responsible ____ overseeing the entire programme.",
+      "topic": "Reported requests",
+      "context": "yesterday",
+      "verb": "send",
+      "prompt": "The tutor asked me ____ him my essay. (send; yesterday)",
       "answers": [
-        "for"
+        "to send"
       ],
-      "completed": "She is responsible for overseeing the entire programme."
+      "completed": "The tutor asked me to send him my essay. (send; yesterday)"
     },
     {
       "id": "g118",
-      "level": "C1",
-      "prompt": "He demanded to know why the meeting ____ cancelled.",
+      "level": "B2",
+      "topic": "Reported requests",
+      "context": "yesterday",
+      "verb": "send",
+      "prompt": "The customer asked us ____ her a receipt. (send; yesterday)",
       "answers": [
-        "had been"
+        "to send"
       ],
-      "completed": "He demanded to know why the meeting had been cancelled."
+      "completed": "The customer asked us to send her a receipt. (send; yesterday)"
     },
     {
       "id": "g119",
       "level": "B2",
-      "prompt": "We must take into account the extent ____ which costs may rise.",
+      "topic": "Reported requests",
+      "context": "yesterday",
+      "verb": "send",
+      "prompt": "Our lawyer asked us ____ her the contract. (send; yesterday)",
       "answers": [
-        "to"
+        "to send"
       ],
-      "completed": "We must take into account the extent to which costs may rise."
+      "completed": "Our lawyer asked us to send her the contract. (send; yesterday)"
     },
     {
       "id": "g120",
-      "level": "C1",
-      "prompt": "Not having ____ the instructions, he assembled the device incorrectly.",
+      "level": "B2",
+      "topic": "Reported requests",
+      "context": "yesterday",
+      "verb": "send",
+      "prompt": "The organiser asked me ____ him my details. (send; yesterday)",
       "answers": [
-        "read"
+        "to send"
       ],
-      "completed": "Not having read the instructions, he assembled the device incorrectly."
+      "completed": "The organiser asked me to send him my details. (send; yesterday)"
     },
     {
       "id": "g121",
       "level": "B2",
-      "prompt": "The chairperson asked that everyone ____ seated until the vote was complete.",
+      "topic": "Gerund after suggest",
+      "context": "yesterday",
+      "verb": "revise",
+      "prompt": "Our tutor suggested ____ the difficult chapters. (revise; yesterday)",
       "answers": [
-        "remain"
+        "revising"
       ],
-      "completed": "The chairperson asked that everyone remain seated until the vote was complete."
+      "completed": "Our tutor suggested revising the difficult chapters. (revise; yesterday)"
     },
     {
       "id": "g122",
-      "level": "C1",
-      "prompt": "The review was carried out in order ____ identify weaknesses.",
+      "level": "B2",
+      "topic": "Gerund after suggest",
+      "context": "yesterday",
+      "verb": "take",
+      "prompt": "The doctor suggested ____ a few days off. (take; yesterday)",
       "answers": [
-        "to"
+        "taking"
       ],
-      "completed": "The review was carried out in order to identify weaknesses."
+      "completed": "The doctor suggested taking a few days off. (take; yesterday)"
     },
     {
       "id": "g123",
       "level": "B2",
-      "prompt": "I would have finished sooner but ____ the repeated interruptions.",
+      "topic": "Gerund after suggest",
+      "context": "yesterday",
+      "verb": "book",
+      "prompt": "Maya suggested ____ our tickets online. (book; yesterday)",
       "answers": [
-        "for"
+        "booking"
       ],
-      "completed": "I would have finished sooner but for the repeated interruptions."
+      "completed": "Maya suggested booking our tickets online. (book; yesterday)"
     },
     {
       "id": "g124",
-      "level": "C1",
-      "prompt": "The scientist whose work we discussed ____ awarded a prize yesterday.",
+      "level": "B2",
+      "topic": "Gerund after suggest",
+      "context": "yesterday",
+      "verb": "leave",
+      "prompt": "The guide suggested ____ before sunrise. (leave; yesterday)",
       "answers": [
-        "was"
+        "leaving"
       ],
-      "completed": "The scientist whose work we discussed was awarded a prize yesterday."
+      "completed": "The guide suggested leaving before sunrise. (leave; yesterday)"
     },
     {
       "id": "g125",
       "level": "B2",
-      "prompt": "If you should encounter any problems, ____ the support team.",
+      "topic": "Gerund after suggest",
+      "context": "yesterday",
+      "verb": "meet",
+      "prompt": "Dan suggested ____ outside the station. (meet; yesterday)",
       "answers": [
-        "notify"
+        "meeting"
       ],
-      "completed": "If you should encounter any problems, notify the support team."
+      "completed": "Dan suggested meeting outside the station. (meet; yesterday)"
     },
     {
       "id": "g126",
-      "level": "C1",
-      "prompt": "The charity relies ____ donations from the public.",
+      "level": "B2",
+      "topic": "Gerund after avoid",
+      "context": "yesterday",
+      "verb": "make",
+      "prompt": "The driver avoided ____ a dangerous mistake. (make; yesterday)",
       "answers": [
-        "on"
+        "making"
       ],
-      "completed": "The charity relies on donations from the public."
+      "completed": "The driver avoided making a dangerous mistake. (make; yesterday)"
     },
     {
       "id": "g127",
       "level": "B2",
-      "prompt": "I didn't mean ____ offence with my comment.",
+      "topic": "Gerund after avoid",
+      "context": "yesterday",
+      "verb": "answer",
+      "prompt": "The witness avoided ____ the question. (answer; yesterday)",
       "answers": [
-        "to cause"
+        "answering"
       ],
-      "completed": "I didn't mean to cause offence with my comment."
+      "completed": "The witness avoided answering the question. (answer; yesterday)"
     },
     {
       "id": "g128",
-      "level": "C1",
-      "prompt": "Accepting the position will mean ____ to another city.",
+      "level": "B2",
+      "topic": "Gerund after avoid",
+      "context": "yesterday",
+      "verb": "use",
+      "prompt": "We avoided ____ the busy main road. (use; yesterday)",
       "answers": [
-        "moving"
+        "using"
       ],
-      "completed": "Accepting the position will mean moving to another city."
+      "completed": "We avoided using the busy main road. (use; yesterday)"
     },
     {
       "id": "g129",
       "level": "B2",
-      "prompt": "She persuaded the board ____ invest in training.",
+      "topic": "Gerund after avoid",
+      "context": "yesterday",
+      "verb": "discuss",
+      "prompt": "Sara avoided ____ the confidential report. (discuss; yesterday)",
       "answers": [
-        "to"
+        "discussing"
       ],
-      "completed": "She persuaded the board to invest in training."
+      "completed": "Sara avoided discussing the confidential report. (discuss; yesterday)"
     },
     {
       "id": "g130",
-      "level": "C1",
-      "prompt": "He blamed the failure ____ inadequate preparation.",
+      "level": "B2",
+      "topic": "Gerund after avoid",
+      "context": "yesterday",
+      "verb": "pay",
+      "prompt": "They avoided ____ extra fees by booking early. (pay; yesterday)",
       "answers": [
-        "on"
+        "paying"
       ],
-      "completed": "He blamed the failure on inadequate preparation."
+      "completed": "They avoided paying extra fees by booking early. (pay; yesterday)"
     },
     {
       "id": "g131",
       "level": "B2",
-      "prompt": "We ought to avoid ____ conclusions from such a small sample.",
+      "topic": "Object and infinitive after allow",
+      "context": "yesterday",
+      "verb": "leave",
+      "prompt": "The teacher allowed us ____ early. (leave; yesterday)",
       "answers": [
-        "drawing"
+        "to leave"
       ],
-      "completed": "We ought to avoid drawing conclusions from such a small sample."
+      "completed": "The teacher allowed us to leave early. (leave; yesterday)"
     },
     {
       "id": "g132",
-      "level": "C1",
-      "prompt": "The speech was aimed ____ reassuring worried investors.",
+      "level": "B2",
+      "topic": "Object and infinitive after allow",
+      "context": "yesterday",
+      "verb": "use",
+      "prompt": "The librarian allowed me ____ the computer. (use; yesterday)",
       "answers": [
-        "at"
+        "to use"
       ],
-      "completed": "The speech was aimed at reassuring worried investors."
+      "completed": "The librarian allowed me to use the computer. (use; yesterday)"
     },
     {
       "id": "g133",
       "level": "B2",
-      "prompt": "She appears ____ misunderstood the instructions.",
+      "topic": "Object and infinitive after allow",
+      "context": "yesterday",
+      "verb": "enter",
+      "prompt": "The guard allowed them ____ the building. (enter; yesterday)",
       "answers": [
-        "to have"
+        "to enter"
       ],
-      "completed": "She appears to have misunderstood the instructions."
+      "completed": "The guard allowed them to enter the building. (enter; yesterday)"
     },
     {
       "id": "g134",
-      "level": "C1",
-      "prompt": "He has no intention ____ withdrawing his complaint.",
+      "level": "B2",
+      "topic": "Object and infinitive after allow",
+      "context": "yesterday",
+      "verb": "stay",
+      "prompt": "Our host allowed us ____ another night. (stay; yesterday)",
       "answers": [
-        "of"
+        "to stay"
       ],
-      "completed": "He has no intention of withdrawing his complaint."
+      "completed": "Our host allowed us to stay another night. (stay; yesterday)"
     },
     {
       "id": "g135",
       "level": "B2",
-      "prompt": "It's about time we ____ a proper discussion about the budget.",
+      "topic": "Object and infinitive after allow",
+      "context": "yesterday",
+      "verb": "borrow",
+      "prompt": "My colleague allowed me ____ her laptop. (borrow; yesterday)",
       "answers": [
-        "had"
+        "to borrow"
       ],
-      "completed": "It's about time we had a proper discussion about the budget."
+      "completed": "My colleague allowed me to borrow her laptop. (borrow; yesterday)"
     },
     {
       "id": "g136",
-      "level": "C1",
-      "prompt": "The task proved ____ difficult than anyone had anticipated.",
+      "level": "B2",
+      "topic": "Gerund after deny",
+      "context": "yesterday",
+      "verb": "take",
+      "prompt": "The suspect denied ____ the money. (take; yesterday)",
       "answers": [
-        "more"
+        "taking",
+        "having taken"
       ],
-      "completed": "The task proved more difficult than anyone had anticipated."
+      "completed": "The suspect denied taking the money. (take; yesterday)"
     },
     {
       "id": "g137",
       "level": "B2",
-      "prompt": "The manager had the team ____ the calculations again.",
+      "topic": "Gerund after deny",
+      "context": "yesterday",
+      "verb": "take",
+      "prompt": "Ben denied ____ my keys. (take; yesterday)",
       "answers": [
-        "check"
+        "taking",
+        "having taken"
       ],
-      "completed": "The manager had the team check the calculations again."
+      "completed": "Ben denied taking my keys. (take; yesterday)"
     },
     {
       "id": "g138",
-      "level": "C1",
-      "prompt": "I had my bag ____ while I was waiting at the station.",
+      "level": "B2",
+      "topic": "Gerund after deny",
+      "context": "yesterday",
+      "verb": "take",
+      "prompt": "The employee denied ____ the photos. (take; yesterday)",
       "answers": [
-        "stolen"
+        "taking",
+        "having taken"
       ],
-      "completed": "I had my bag stolen while I was waiting at the station."
+      "completed": "The employee denied taking the photos. (take; yesterday)"
     },
     {
       "id": "g139",
       "level": "B2",
-      "prompt": "The book is well worth ____ even if you disagree with its argument.",
+      "topic": "Gerund after deny",
+      "context": "yesterday",
+      "verb": "take",
+      "prompt": "Mia denied ____ the last ticket. (take; yesterday)",
       "answers": [
-        "reading"
+        "taking",
+        "having taken"
       ],
-      "completed": "The book is well worth reading even if you disagree with its argument."
+      "completed": "Mia denied taking the last ticket. (take; yesterday)"
     },
     {
       "id": "g140",
-      "level": "C1",
-      "prompt": "The village would have been flooded had the barrier ____ held.",
+      "level": "B2",
+      "topic": "Gerund after deny",
+      "context": "yesterday",
+      "verb": "take",
+      "prompt": "The student denied ____ the exam for his friend. (take; yesterday)",
       "answers": [
-        "not"
+        "taking",
+        "having taken"
       ],
-      "completed": "The village would have been flooded had the barrier not held."
+      "completed": "The student denied taking the exam for his friend. (take; yesterday)"
     },
     {
       "id": "g141",
       "level": "B2",
-      "prompt": "The evidence suggests that the painting ____ genuine.",
+      "topic": "Infinitive after remind",
+      "context": "tonight",
+      "verb": "lock",
+      "prompt": "Please remind me ____ the door before I leave. (lock; tonight)",
       "answers": [
-        "is"
+        "to lock"
       ],
-      "completed": "The evidence suggests that the painting is genuine."
+      "completed": "Please remind me to lock the door before I leave. (lock; tonight)"
     },
     {
       "id": "g142",
-      "level": "C1",
-      "prompt": "The findings are consistent ____ earlier research.",
+      "level": "B2",
+      "topic": "Infinitive after remind",
+      "context": "tonight",
+      "verb": "lock",
+      "prompt": "Please remind me ____ the gate tonight. (lock; tonight)",
       "answers": [
-        "with"
+        "to lock"
       ],
-      "completed": "The findings are consistent with earlier research."
+      "completed": "Please remind me to lock the gate tonight. (lock; tonight)"
     },
     {
       "id": "g143",
       "level": "B2",
-      "prompt": "The interviewer wanted to know whether I ____ worked abroad before.",
+      "topic": "Infinitive after remind",
+      "context": "tonight",
+      "verb": "lock",
+      "prompt": "Please remind us ____ the office after the meeting. (lock; tonight)",
       "answers": [
-        "had"
+        "to lock"
       ],
-      "completed": "The interviewer wanted to know whether I had worked abroad before."
+      "completed": "Please remind us to lock the office after the meeting. (lock; tonight)"
     },
     {
       "id": "g144",
-      "level": "C1",
-      "prompt": "You mustn't ____ the laboratory without protective clothing.",
+      "level": "B2",
+      "topic": "Infinitive after remind",
+      "context": "tonight",
+      "verb": "lock",
+      "prompt": "Please remind Dad ____ the garage before bed. (lock; tonight)",
       "answers": [
-        "enter"
+        "to lock"
       ],
-      "completed": "You mustn't enter the laboratory without protective clothing."
+      "completed": "Please remind Dad to lock the garage before bed. (lock; tonight)"
     },
     {
       "id": "g145",
       "level": "B2",
-      "prompt": "He needn't have ____ so much food; only three guests came.",
+      "topic": "Infinitive after remind",
+      "context": "tonight",
+      "verb": "lock",
+      "prompt": "Please remind Sara ____ the cupboard after use. (lock; tonight)",
       "answers": [
-        "bought"
+        "to lock"
       ],
-      "completed": "He needn't have bought so much food; only three guests came."
+      "completed": "Please remind Sara to lock the cupboard after use. (lock; tonight)"
     },
     {
       "id": "g146",
-      "level": "C1",
-      "prompt": "The budget allows for unexpected expenses, ____ is reassuring.",
+      "level": "B2",
+      "topic": "Remember: memory of a past action",
+      "context": "in 2022",
+      "verb": "meet",
+      "prompt": "I still remember ____ your brother in Paris in 2022. (meet; in 2022)",
       "answers": [
-        "which"
+        "meeting",
+        "having met"
       ],
-      "completed": "The budget allows for unexpected expenses, which is reassuring."
+      "completed": "I still remember meeting your brother in Paris in 2022. (meet; in 2022)"
     },
     {
       "id": "g147",
       "level": "B2",
-      "prompt": "She gave a detailed account of what ____ happened.",
+      "topic": "Remember: memory of a past action",
+      "context": "last summer",
+      "verb": "meet",
+      "prompt": "We still remember ____ our guide at the airport last summer. (meet; last summer)",
       "answers": [
-        "had"
+        "meeting",
+        "having met"
       ],
-      "completed": "She gave a detailed account of what had happened."
+      "completed": "We still remember meeting our guide at the airport last summer. (meet; last summer)"
     },
     {
       "id": "g148",
-      "level": "C1",
-      "prompt": "We cannot proceed until the agreement ____ signed.",
+      "level": "B2",
+      "topic": "Remember: memory of a past action",
+      "context": "last September",
+      "verb": "meet",
+      "prompt": "I still remember ____ my teacher for the first time last September. (meet; last September)",
       "answers": [
-        "has been"
+        "meeting",
+        "having met"
       ],
-      "completed": "We cannot proceed until the agreement has been signed."
+      "completed": "I still remember meeting my teacher for the first time last September. (meet; last September)"
     },
     {
       "id": "g149",
       "level": "B2",
-      "prompt": "The board made him ____ the statement publicly.",
+      "topic": "Remember: memory of a past action",
+      "context": "last year",
+      "verb": "meet",
+      "prompt": "Lena still remembers ____ her favourite author at last year's festival. (meet; last year)",
       "answers": [
-        "withdraw"
+        "meeting",
+        "having met"
       ],
-      "completed": "The board made him withdraw the statement publicly."
+      "completed": "Lena still remembers meeting her favourite author at last year's festival. (meet; last year)"
     },
     {
       "id": "g150",
-      "level": "C1",
-      "prompt": "He was made ____ apologise for the error.",
+      "level": "B2",
+      "topic": "Remember: memory of a past action",
+      "context": "five years ago",
+      "verb": "meet",
+      "prompt": "I still remember ____ my neighbour at a barbecue five years ago. (meet; five years ago)",
       "answers": [
-        "to"
+        "meeting",
+        "having met"
       ],
-      "completed": "He was made to apologise for the error."
+      "completed": "I still remember meeting my neighbour at a barbecue five years ago. (meet; five years ago)"
     },
     {
       "id": "g151",
       "level": "B2",
-      "prompt": "The city is known ____ its innovative public transport system.",
+      "topic": "Stop: purpose versus ending an activity",
+      "context": "yesterday",
+      "verb": "buy",
+      "prompt": "We paused our journey in order ____ some water. (buy; yesterday)",
       "answers": [
-        "for"
+        "to buy"
       ],
-      "completed": "The city is known for its innovative public transport system."
+      "completed": "We paused our journey in order to buy some water. (buy; yesterday)"
     },
     {
       "id": "g152",
-      "level": "C1",
-      "prompt": "The new director is committed ____ reducing waste.",
+      "level": "B2",
+      "topic": "Stop: purpose versus ending an activity",
+      "context": "yesterday",
+      "verb": "buy",
+      "prompt": "I went into a bakery in order ____ some bread. (buy; yesterday)",
       "answers": [
-        "to"
+        "to buy"
       ],
-      "completed": "The new director is committed to reducing waste."
+      "completed": "I went into a bakery in order to buy some bread. (buy; yesterday)"
     },
     {
       "id": "g153",
       "level": "B2",
-      "prompt": "I find it difficult ____ distinguish between the two versions.",
+      "topic": "Stop: purpose versus ending an activity",
+      "context": "yesterday",
+      "verb": "buy",
+      "prompt": "They stopped at a shop in order ____ snacks for the rest of their ride. (buy; yesterday)",
       "answers": [
-        "to"
+        "to buy"
       ],
-      "completed": "I find it difficult to distinguish between the two versions."
+      "completed": "They stopped at a shop in order to buy snacks for the rest of their ride. (buy; yesterday)"
     },
     {
       "id": "g154",
-      "level": "C1",
-      "prompt": "He is thought ____ left the country last month.",
+      "level": "B2",
+      "topic": "Stop: purpose versus ending an activity",
+      "context": "yesterday",
+      "verb": "buy",
+      "prompt": "Sara stopped at a petrol station in order ____ fuel for her car. (buy; yesterday)",
       "answers": [
-        "to have"
+        "to buy"
       ],
-      "completed": "He is thought to have left the country last month."
+      "completed": "Sara stopped at a petrol station in order to buy fuel for her car. (buy; yesterday)"
     },
     {
       "id": "g155",
       "level": "B2",
-      "prompt": "Had it not been for the volunteers, the event ____ cancelled.",
+      "topic": "Stop: purpose versus ending an activity",
+      "context": "yesterday",
+      "verb": "buy",
+      "prompt": "We visited a kiosk in order ____ a map for our walk. (buy; yesterday)",
       "answers": [
-        "would have been"
+        "to buy"
       ],
-      "completed": "Had it not been for the volunteers, the event would have been cancelled."
+      "completed": "We visited a kiosk in order to buy a map for our walk. (buy; yesterday)"
     },
     {
       "id": "g156",
-      "level": "C1",
-      "prompt": "She spoke quietly lest she ____ disturb the sleeping child.",
+      "level": "B2",
+      "topic": "Concession with despite",
+      "context": "yesterday",
+      "verb": "be",
+      "prompt": "Despite ____ tired, we completed the hike. (be; yesterday)",
       "answers": [
-        "should"
+        "being",
+        "having been"
       ],
-      "completed": "She spoke quietly lest she should disturb the sleeping child."
+      "completed": "Despite being tired, we completed the hike. (be; yesterday)"
     },
     {
       "id": "g157",
       "level": "B2",
-      "prompt": "The witness could not recall ____ the car had been parked.",
+      "topic": "Concession with despite",
+      "context": "yesterday",
+      "verb": "be",
+      "prompt": "Despite ____ expensive, the restaurant was fully booked. (be; yesterday)",
       "answers": [
-        "where"
+        "being",
+        "having been"
       ],
-      "completed": "The witness could not recall where the car had been parked."
+      "completed": "Despite being expensive, the restaurant was fully booked. (be; yesterday)"
     },
     {
       "id": "g158",
-      "level": "C1",
-      "prompt": "I would prefer ____ the issue privately.",
+      "level": "B2",
+      "topic": "Concession with despite",
+      "context": "yesterday",
+      "verb": "be",
+      "prompt": "Despite ____ inexperienced, Maya performed well. (be; yesterday)",
       "answers": [
-        "to discuss"
+        "being",
+        "having been"
       ],
-      "completed": "I would prefer to discuss the issue privately."
+      "completed": "Despite being inexperienced, Maya performed well. (be; yesterday)"
     },
     {
       "id": "g159",
       "level": "B2",
-      "prompt": "The delay resulted ____ a technical fault.",
+      "topic": "Concession with despite",
+      "context": "yesterday",
+      "verb": "be",
+      "prompt": "Despite ____ narrow, the road was safe to drive on. (be; yesterday)",
       "answers": [
-        "from"
+        "being",
+        "having been"
       ],
-      "completed": "The delay resulted from a technical fault."
+      "completed": "Despite being narrow, the road was safe to drive on. (be; yesterday)"
     },
     {
       "id": "g160",
-      "level": "C1",
-      "prompt": "The technical fault resulted ____ a lengthy delay.",
+      "level": "B2",
+      "topic": "Concession with despite",
+      "context": "yesterday",
+      "verb": "be",
+      "prompt": "Despite ____ long, the instructions were easy to follow. (be; yesterday)",
       "answers": [
-        "in"
+        "being",
+        "having been"
       ],
-      "completed": "The technical fault resulted in a lengthy delay."
+      "completed": "Despite being long, the instructions were easy to follow. (be; yesterday)"
     },
     {
       "id": "g161",
       "level": "B2",
-      "prompt": "Notwithstanding the objections, the scheme ____ ahead last year.",
+      "topic": "Past actions in concessive clauses",
+      "context": "yesterday",
+      "verb": "go",
+      "prompt": "Although it was raining, we ____ hiking yesterday. (go; yesterday)",
       "answers": [
         "went"
       ],
-      "completed": "Notwithstanding the objections, the scheme went ahead last year."
+      "completed": "Although it was raining, we went hiking yesterday. (go; yesterday)"
     },
     {
       "id": "g162",
-      "level": "C1",
-      "prompt": "So convincing ____ his explanation that nobody challenged it.",
+      "level": "B2",
+      "topic": "Past actions in concessive clauses",
+      "context": "last night",
+      "verb": "book",
+      "prompt": "Although the hotel was expensive, we ____ a room last night. (book; last night)",
       "answers": [
-        "was"
+        "booked"
       ],
-      "completed": "So convincing was his explanation that nobody challenged it."
+      "completed": "Although the hotel was expensive, we booked a room last night. (book; last night)"
     },
     {
       "id": "g163",
       "level": "B2",
-      "prompt": "Such ____ the demand that extra tickets were released.",
+      "topic": "Past actions in concessive clauses",
+      "context": "yesterday",
+      "verb": "find",
+      "prompt": "Although I had revised, I ____ the exam difficult yesterday. (find; yesterday)",
       "answers": [
-        "was"
+        "found"
       ],
-      "completed": "Such was the demand that extra tickets were released."
+      "completed": "Although I had revised, I found the exam difficult yesterday. (find; yesterday)"
     },
     {
       "id": "g164",
-      "level": "C1",
-      "prompt": "The sooner we act, the ____ the damage will be.",
+      "level": "B2",
+      "topic": "Past actions in concessive clauses",
+      "context": "last night",
+      "verb": "finish",
+      "prompt": "Although Sara was tired, she ____ the report last night. (finish; last night)",
       "answers": [
-        "less"
+        "finished"
       ],
-      "completed": "The sooner we act, the less the damage will be."
+      "completed": "Although Sara was tired, she finished the report last night. (finish; last night)"
     },
     {
       "id": "g165",
       "level": "B2",
-      "prompt": "He was on the point ____ leaving when the phone rang.",
+      "topic": "Past actions in concessive clauses",
+      "context": "yesterday",
+      "verb": "arrive",
+      "prompt": "Although the train was delayed, we ____ on time yesterday. (arrive; yesterday)",
       "answers": [
-        "of"
+        "arrived"
       ],
-      "completed": "He was on the point of leaving when the phone rang."
+      "completed": "Although the train was delayed, we arrived on time yesterday. (arrive; yesterday)"
     },
     {
       "id": "g166",
-      "level": "C1",
-      "prompt": "The delegates agreed ____ principle but disputed the details.",
+      "level": "B2",
+      "topic": "Gerund after cannot help",
+      "context": "last night",
+      "verb": "cry",
+      "prompt": "The film was so moving that I could not help ____. (cry; last night)",
       "answers": [
-        "in"
+        "crying",
+        "but cry"
       ],
-      "completed": "The delegates agreed in principle but disputed the details."
+      "completed": "The film was so moving that I could not help crying. (cry; last night)"
     },
     {
       "id": "g167",
       "level": "B2",
-      "prompt": "She is capable ____ managing the project independently.",
+      "topic": "Gerund after cannot help",
+      "context": "yesterday",
+      "verb": "laugh",
+      "prompt": "His joke was so funny that I could not help ____. (laugh; yesterday)",
       "answers": [
-        "of"
+        "laughing",
+        "but laugh"
       ],
-      "completed": "She is capable of managing the project independently."
+      "completed": "His joke was so funny that I could not help laughing. (laugh; yesterday)"
     },
     {
       "id": "g168",
-      "level": "C1",
-      "prompt": "The findings have given rise ____ a heated debate.",
+      "level": "B2",
+      "topic": "Gerund after cannot help",
+      "context": "yesterday",
+      "verb": "smile",
+      "prompt": "The news was so good that Maya could not help ____. (smile; yesterday)",
       "answers": [
-        "to"
+        "smiling",
+        "but smile"
       ],
-      "completed": "The findings have given rise to a heated debate."
+      "completed": "The news was so good that Maya could not help smiling. (smile; yesterday)"
     },
     {
       "id": "g169",
       "level": "B2",
-      "prompt": "The proposal met ____ considerable resistance.",
+      "topic": "Gerund after cannot help",
+      "context": "last night",
+      "verb": "worry",
+      "prompt": "The storm was so severe that we could not help ____. (worry; last night)",
       "answers": [
-        "with"
+        "worrying",
+        "but worry"
       ],
-      "completed": "The proposal met with considerable resistance."
+      "completed": "The storm was so severe that we could not help worrying. (worry; last night)"
     },
     {
       "id": "g170",
-      "level": "C1",
-      "prompt": "The results fell short ____ our expectations.",
+      "level": "B2",
+      "topic": "Gerund after cannot help",
+      "context": "yesterday",
+      "verb": "stare",
+      "prompt": "The painting was so unusual that visitors could not help ____. (stare; yesterday)",
       "answers": [
-        "of"
+        "staring",
+        "but stare"
       ],
-      "completed": "The results fell short of our expectations."
+      "completed": "The painting was so unusual that visitors could not help staring. (stare; yesterday)"
     },
     {
       "id": "g171",
       "level": "B2",
-      "prompt": "She took exception ____ his dismissive tone.",
+      "topic": "Infinitive after enough",
+      "context": "now",
+      "verb": "reach",
+      "prompt": "I am not tall enough ____ the shelf. (reach; now)",
       "answers": [
-        "to"
+        "to reach"
       ],
-      "completed": "She took exception to his dismissive tone."
+      "completed": "I am not tall enough to reach the shelf. (reach; now)"
     },
     {
       "id": "g172",
-      "level": "C1",
-      "prompt": "He went to great lengths ____ protect the source's identity.",
+      "level": "B2",
+      "topic": "Infinitive after enough",
+      "context": "now",
+      "verb": "drive",
+      "prompt": "Leo is not old enough ____ a car. (drive; now)",
       "answers": [
-        "to"
+        "to drive"
       ],
-      "completed": "He went to great lengths to protect the source's identity."
+      "completed": "Leo is not old enough to drive a car. (drive; now)"
     },
     {
       "id": "g173",
       "level": "B2",
-      "prompt": "For all its advantages, the system still ____ limitations.",
+      "topic": "Infinitive after enough",
+      "context": "now",
+      "verb": "buy",
+      "prompt": "We have enough money ____ the tickets. (buy; now)",
       "answers": [
-        "has"
+        "to buy"
       ],
-      "completed": "For all its advantages, the system still has limitations."
+      "completed": "We have enough money to buy the tickets. (buy; now)"
     },
     {
       "id": "g174",
-      "level": "C1",
-      "prompt": "The research team set ____ to test an alternative explanation.",
+      "level": "B2",
+      "topic": "Infinitive after enough",
+      "context": "now",
+      "verb": "carry",
+      "prompt": "Mia is strong enough ____ the suitcase. (carry; now)",
       "answers": [
-        "out"
+        "to carry"
       ],
-      "completed": "The research team set out to test an alternative explanation."
+      "completed": "Mia is strong enough to carry the suitcase. (carry; now)"
     },
     {
       "id": "g175",
       "level": "B2",
-      "prompt": "The author draws ____ her own experience throughout the novel.",
+      "topic": "Infinitive after enough",
+      "context": "today",
+      "verb": "finish",
+      "prompt": "There is enough time ____ the report. (finish; today)",
       "answers": [
-        "on"
+        "to finish"
       ],
-      "completed": "The author draws on her own experience throughout the novel."
+      "completed": "There is enough time to finish the report. (finish; today)"
     },
     {
       "id": "g176",
-      "level": "C1",
-      "prompt": "The issue boils down ____ a lack of resources.",
+      "level": "B2",
+      "topic": "Gerund after look forward to",
+      "context": "next week",
+      "verb": "meet",
+      "prompt": "We look forward to ____ our new colleagues. (meet; next week)",
       "answers": [
-        "to"
+        "meeting"
       ],
-      "completed": "The issue boils down to a lack of resources."
+      "completed": "We look forward to meeting our new colleagues. (meet; next week)"
     },
     {
       "id": "g177",
       "level": "B2",
-      "prompt": "The company should ____ invested in staff training years ago.",
+      "topic": "Gerund after look forward to",
+      "context": "next month",
+      "verb": "visit",
+      "prompt": "I look forward to ____ the new museum. (visit; next month)",
       "answers": [
-        "have"
+        "visiting"
       ],
-      "completed": "The company should have invested in staff training years ago."
+      "completed": "I look forward to visiting the new museum. (visit; next month)"
     },
     {
       "id": "g178",
-      "level": "C1",
-      "prompt": "If only I ____ the courage to speak up at yesterday's meeting.",
+      "level": "B2",
+      "topic": "Gerund after look forward to",
+      "context": "tomorrow",
+      "verb": "hear",
+      "prompt": "Sara looks forward to ____ your presentation. (hear; tomorrow)",
       "answers": [
-        "had had"
+        "hearing"
       ],
-      "completed": "If only I had had the courage to speak up at yesterday's meeting."
+      "completed": "Sara looks forward to hearing your presentation. (hear; tomorrow)"
     },
     {
       "id": "g179",
       "level": "B2",
-      "prompt": "She has difficulty making herself ____ in a noisy room.",
+      "topic": "Gerund after look forward to",
+      "context": "next week",
+      "verb": "see",
+      "prompt": "They look forward to ____ their grandchildren. (see; next week)",
       "answers": [
-        "heard"
+        "seeing"
       ],
-      "completed": "She has difficulty making herself heard in a noisy room."
+      "completed": "They look forward to seeing their grandchildren. (see; next week)"
     },
     {
       "id": "g180",
-      "level": "C1",
-      "prompt": "He was reluctant ____ acknowledge the error.",
+      "level": "B2",
+      "topic": "Gerund after look forward to",
+      "context": "next summer",
+      "verb": "travel",
+      "prompt": "Dan looks forward to ____ abroad. (travel; next summer)",
       "answers": [
-        "to"
+        "travelling",
+        "traveling"
       ],
-      "completed": "He was reluctant to acknowledge the error."
+      "completed": "Dan looks forward to travelling abroad. (travel; next summer)"
     },
     {
       "id": "g181",
       "level": "B2",
-      "prompt": "The scheme is designed ____ benefit smaller businesses.",
+      "topic": "Infinitive after would prefer",
+      "context": "tomorrow",
+      "verb": "travel",
+      "prompt": "I would prefer ____ by train. (travel; tomorrow)",
       "answers": [
-        "to"
+        "to travel",
+        "travelling",
+        "traveling"
       ],
-      "completed": "The scheme is designed to benefit smaller businesses."
+      "completed": "I would prefer to travel by train. (travel; tomorrow)"
     },
     {
       "id": "g182",
-      "level": "C1",
-      "prompt": "Few people were aware ____ the consequences at the time.",
+      "level": "B2",
+      "topic": "Infinitive after would prefer",
+      "context": "tonight",
+      "verb": "stay",
+      "prompt": "We would prefer ____ at home. (stay; tonight)",
       "answers": [
-        "of"
+        "to stay",
+        "staying"
       ],
-      "completed": "Few people were aware of the consequences at the time."
+      "completed": "We would prefer to stay at home. (stay; tonight)"
     },
     {
       "id": "g183",
       "level": "B2",
-      "prompt": "We would be grateful if you ____ confirm your attendance.",
+      "topic": "Infinitive after would prefer",
+      "context": "next week",
+      "verb": "start",
+      "prompt": "Maya would prefer ____ the course on Monday. (start; next week)",
       "answers": [
-        "could"
+        "to start",
+        "starting"
       ],
-      "completed": "We would be grateful if you could confirm your attendance."
+      "completed": "Maya would prefer to start the course on Monday. (start; next week)"
     },
     {
       "id": "g184",
-      "level": "C1",
-      "prompt": "The committee ruled out ____ the deadline again.",
+      "level": "B2",
+      "topic": "Infinitive after would prefer",
+      "context": "tonight",
+      "verb": "eat",
+      "prompt": "They would prefer ____ at the hotel. (eat; tonight)",
       "answers": [
-        "extending"
+        "to eat",
+        "eating"
       ],
-      "completed": "The committee ruled out extending the deadline again."
+      "completed": "They would prefer to eat at the hotel. (eat; tonight)"
     },
     {
       "id": "g185",
       "level": "B2",
-      "prompt": "She is keen ____ gain practical experience.",
+      "topic": "Infinitive after would prefer",
+      "context": "tomorrow",
+      "verb": "discuss",
+      "prompt": "Leo would prefer ____ the matter in person. (discuss; tomorrow)",
       "answers": [
-        "to"
+        "to discuss",
+        "discussing"
       ],
-      "completed": "She is keen to gain practical experience."
+      "completed": "Leo would prefer to discuss the matter in person. (discuss; tomorrow)"
     },
     {
       "id": "g186",
-      "level": "C1",
-      "prompt": "The policy came ____ effect at the beginning of the year.",
+      "level": "B2",
+      "topic": "Negative question tags",
+      "context": "until now",
+      "verb": "have",
+      "prompt": "You have not submitted your application yet, ____? (have; until now)",
       "answers": [
-        "into"
+        "have you"
       ],
-      "completed": "The policy came into effect at the beginning of the year."
+      "completed": "You have not submitted your application yet, have you? (have; until now)"
     },
     {
       "id": "g187",
       "level": "B2",
-      "prompt": "You can borrow the equipment on condition ____ you return it tomorrow.",
+      "topic": "Negative question tags",
+      "context": "until now",
+      "verb": "have",
+      "prompt": "You have not met our new neighbour, ____? (have; until now)",
       "answers": [
-        "that"
+        "have you"
       ],
-      "completed": "You can borrow the equipment on condition that you return it tomorrow."
+      "completed": "You have not met our new neighbour, have you? (have; until now)"
     },
     {
       "id": "g188",
-      "level": "C1",
-      "prompt": "I was under the impression ____ the meeting had been postponed.",
+      "level": "B2",
+      "topic": "Negative question tags",
+      "context": "until now",
+      "verb": "have",
+      "prompt": "You have not read the final chapter, ____? (have; until now)",
       "answers": [
-        "that"
+        "have you"
       ],
-      "completed": "I was under the impression that the meeting had been postponed."
+      "completed": "You have not read the final chapter, have you? (have; until now)"
     },
     {
       "id": "g189",
       "level": "B2",
-      "prompt": "The project is due ____ completed in November.",
+      "topic": "Negative question tags",
+      "context": "until now",
+      "verb": "have",
+      "prompt": "You have not booked the hotel yet, ____? (have; until now)",
       "answers": [
-        "to be"
+        "have you"
       ],
-      "completed": "The project is due to be completed in November."
+      "completed": "You have not booked the hotel yet, have you? (have; until now)"
     },
     {
       "id": "g190",
-      "level": "C1",
-      "prompt": "He is unlikely ____ have forgotten such an important appointment.",
+      "level": "B2",
+      "topic": "Negative question tags",
+      "context": "until now",
+      "verb": "have",
+      "prompt": "You have not tried this recipe before, ____? (have; until now)",
       "answers": [
-        "to"
+        "have you"
       ],
-      "completed": "He is unlikely to have forgotten such an important appointment."
+      "completed": "You have not tried this recipe before, have you? (have; until now)"
     },
     {
       "id": "g191",
       "level": "B2",
-      "prompt": "The report takes issue ____ the assumptions behind the forecast.",
+      "topic": "Deduction about a continuing past action",
+      "context": "yesterday",
+      "verb": "be",
+      "prompt": "Nina must ____ working at midnight yesterday. (be; yesterday)",
       "answers": [
-        "with"
+        "have been"
       ],
-      "completed": "The report takes issue with the assumptions behind the forecast."
+      "completed": "Nina must have been working at midnight yesterday. (be; yesterday)"
     },
     {
       "id": "g192",
-      "level": "C1",
-      "prompt": "The figures should be interpreted ____ caution.",
+      "level": "B2",
+      "topic": "Deduction about a continuing past action",
+      "context": "yesterday",
+      "verb": "be",
+      "prompt": "Our neighbour must ____ practising the piano at six yesterday morning. (be; yesterday)",
       "answers": [
-        "with"
+        "have been"
       ],
-      "completed": "The figures should be interpreted with caution."
+      "completed": "Our neighbour must have been practising the piano at six yesterday morning. (be; yesterday)"
     },
     {
       "id": "g193",
       "level": "B2",
-      "prompt": "She had no choice but ____ accept the revised terms.",
+      "topic": "Deduction about a continuing past action",
+      "context": "yesterday",
+      "verb": "be",
+      "prompt": "Ben must ____ baking at noon yesterday. (be; yesterday)",
       "answers": [
-        "to"
+        "have been"
       ],
-      "completed": "She had no choice but to accept the revised terms."
+      "completed": "Ben must have been baking at noon yesterday. (be; yesterday)"
     },
     {
       "id": "g194",
-      "level": "C1",
-      "prompt": "The argument rests ____ two assumptions that remain untested.",
+      "level": "B2",
+      "topic": "Deduction about a continuing past action",
+      "context": "yesterday",
+      "verb": "be",
+      "prompt": "Mia must ____ studying French at ten last night. (be; yesterday)",
       "answers": [
-        "on"
+        "have been"
       ],
-      "completed": "The argument rests on two assumptions that remain untested."
+      "completed": "Mia must have been studying French at ten last night. (be; yesterday)"
     },
     {
       "id": "g195",
       "level": "B2",
-      "prompt": "The case for reform is stronger ____ ever.",
+      "topic": "Deduction about a continuing past action",
+      "context": "yesterday",
+      "verb": "be",
+      "prompt": "Dad must ____ washing the car at five yesterday. (be; yesterday)",
       "answers": [
-        "than"
+        "have been"
       ],
-      "completed": "The case for reform is stronger than ever."
+      "completed": "Dad must have been washing the car at five yesterday. (be; yesterday)"
     },
     {
       "id": "g196",
-      "level": "C1",
-      "prompt": "We cannot afford ____ ignore the warning signs.",
+      "level": "B2",
+      "topic": "Verbs followed by object and infinitive",
+      "context": "next week",
+      "verb": "apply",
+      "prompt": "My tutor encouraged me ____ for the scholarship. (apply; next week)",
       "answers": [
-        "to"
+        "to apply"
       ],
-      "completed": "We cannot afford to ignore the warning signs."
+      "completed": "My tutor encouraged me to apply for the scholarship. (apply; next week)"
     },
     {
       "id": "g197",
       "level": "B2",
-      "prompt": "The interviewer asked me what I ____ do if the project failed.",
+      "topic": "Verbs followed by object and infinitive",
+      "context": "next week",
+      "verb": "apply",
+      "prompt": "Our manager encouraged us ____ for promotion. (apply; next week)",
       "answers": [
-        "would"
+        "to apply"
       ],
-      "completed": "The interviewer asked me what I would do if the project failed."
+      "completed": "Our manager encouraged us to apply for promotion. (apply; next week)"
     },
     {
       "id": "g198",
-      "level": "C1",
-      "prompt": "No matter how carefully you plan, unexpected problems ____ arise.",
+      "level": "B2",
+      "topic": "Verbs followed by object and infinitive",
+      "context": "next week",
+      "verb": "apply",
+      "prompt": "Ella encouraged me ____ for the course. (apply; next week)",
       "answers": [
-        "may"
+        "to apply"
       ],
-      "completed": "No matter how carefully you plan, unexpected problems may arise."
+      "completed": "Ella encouraged me to apply for the course. (apply; next week)"
     },
     {
       "id": "g199",
       "level": "B2",
-      "prompt": "The discovery sheds light ____ an unresolved question.",
+      "topic": "Verbs followed by object and infinitive",
+      "context": "next week",
+      "verb": "apply",
+      "prompt": "The coach encouraged Sam ____ for the national team. (apply; next week)",
       "answers": [
-        "on"
+        "to apply"
       ],
-      "completed": "The discovery sheds light on an unresolved question."
+      "completed": "The coach encouraged Sam to apply for the national team. (apply; next week)"
     },
     {
       "id": "g200",
-      "level": "C1",
-      "prompt": "She found it hard to come ____ terms with the decision.",
+      "level": "B2",
+      "topic": "Verbs followed by object and infinitive",
+      "context": "next week",
+      "verb": "apply",
+      "prompt": "My colleague encouraged me ____ for the vacancy. (apply; next week)",
       "answers": [
-        "to"
+        "to apply"
       ],
-      "completed": "She found it hard to come to terms with the decision."
+      "completed": "My colleague encouraged me to apply for the vacancy. (apply; next week)"
     }
   ]
 }

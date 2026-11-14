@@ -61,7 +61,16 @@ class _PracticeHomeState extends State<PracticeHome> {
   Map<String, dynamic>? grammar, reading, writing, vocabulary;
   final grammarInput = TextEditingController();
   final writingInput = TextEditingController();
+  final writingCorrectionInput = TextEditingController();
+  final writingScroll = ScrollController();
+  List<WritingChange>? writingComparison;
   final vocabularyInput = TextEditingController();
+  final translationInput = TextEditingController();
+  final Map<String, String> translationDrafts = {};
+  String translationTopic = '';
+  List<dynamic> translationMixedItems = [];
+  int translationIndex = 0;
+  bool translationRevealed = false;
   List<TextEditingController> readingInputs = [];
   bool grammarChecked = false,
       readingChecked = false,
@@ -80,25 +89,20 @@ class _PracticeHomeState extends State<PracticeHome> {
   Future<void> load() async {
     try {
       final data = <String, dynamic>{};
-      for (final name in ['grammar', 'reading', 'writing', 'vocabulary']) {
+      for (final name in [
+        'grammar',
+        'reading',
+        'writing',
+        'vocabulary',
+        'translation',
+      ]) {
         data[name] = jsonDecode(
           await rootBundle.loadString('assets/data/$name.json'),
         );
       }
       try {
         preferences = await SharedPreferences.getInstance();
-        progress = Map<String, dynamic>.from(
-          jsonDecode(preferences!.getString('vocabulary-progress') ?? '{}')
-              as Map,
-        );
-        progress.removeWhere(
-          (key, value) =>
-              value is! Map ||
-              value['due'] is! num ||
-              value['ease'] is! num ||
-              value['interval'] is! num ||
-              value['repetitions'] is! int,
-        );
+        progress = parseProgress(preferences!.getString('vocabulary-progress'));
       } catch (_) {
         progress = {};
         storageWarning = 'No se pudo recuperar el progreso.';
@@ -121,7 +125,10 @@ class _PracticeHomeState extends State<PracticeHome> {
   void dispose() {
     grammarInput.dispose();
     writingInput.dispose();
+    writingCorrectionInput.dispose();
+    writingScroll.dispose();
     vocabularyInput.dispose();
+    translationInput.dispose();
     for (final controller in readingInputs) {
       controller.dispose();
     }
@@ -332,8 +339,124 @@ class _PracticeHomeState extends State<PracticeHome> {
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         Text(writing!['topic'] as String),
-        field(writingInput, 'Tu writing', lines: 12),
-        action('Guardar', saving ? null : saveWriting),
+        LayoutBuilder(
+          builder: (context, constraints) => Scrollbar(
+            controller: writingScroll,
+            thumbVisibility: constraints.maxWidth < 600,
+            child: SingleChildScrollView(
+              controller: writingScroll,
+              scrollDirection: Axis.horizontal,
+              child: SizedBox(
+                width: max(600, constraints.maxWidth),
+                child: Row(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Expanded(
+                      child: writingPanel('Tu writing', writingInput, 'added'),
+                    ),
+                    const SizedBox(width: 24),
+                    Expanded(
+                      child: writingPanel(
+                        'Corrección',
+                        writingCorrectionInput,
+                        'removed',
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ),
+          ),
+        ),
+        if (writingComparison != null) ...[
+          const SizedBox(height: 12),
+          if (writingComparison!.every((part) => part.kind == 'equal'))
+            const Text('Sin diferencias.')
+          else
+            const Text('Eliminado: tachado · Añadido: subrayado'),
+        ],
+        const SizedBox(height: 16),
+        Wrap(
+          spacing: 12,
+          runSpacing: 12,
+          children: [
+            action(
+              writingComparison == null ? 'Comparar' : 'Editar textos',
+              () {
+                if (writingComparison != null) {
+                  setState(() => writingComparison = null);
+                  return;
+                }
+                if (writingInput.text.trim().isEmpty ||
+                    writingCorrectionInput.text.trim().isEmpty) {
+                  notice('Escribe tu writing y pega la corrección.');
+                  return;
+                }
+                setState(
+                  () => writingComparison = writingDiff(
+                    writingInput.text,
+                    writingCorrectionInput.text,
+                  ),
+                );
+              },
+            ),
+            action('Guardar', saving ? null : saveWriting, primary: false),
+          ],
+        ),
+      ],
+    );
+  }
+
+  Widget writingPanel(
+    String title,
+    TextEditingController controller,
+    String excluded,
+  ) {
+    if (writingComparison == null) {
+      return field(
+        controller,
+        title == 'Corrección' ? 'Corrección (pegar texto)' : title,
+        lines: 12,
+      );
+    }
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Text(title, style: Theme.of(context).textTheme.titleMedium),
+        const SizedBox(height: 12),
+        Container(
+          width: double.infinity,
+          padding: const EdgeInsets.all(12),
+          decoration: BoxDecoration(
+            border: Border.all(color: const Color(0xff59695e)),
+          ),
+          child: SelectableText.rich(
+            TextSpan(
+              style: const TextStyle(fontSize: 17, height: 1.8),
+              children: [
+                for (final part in writingComparison!.where(
+                  (part) => part.kind != excluded,
+                ))
+                  TextSpan(
+                    text: part.text,
+                    style: part.kind == 'equal'
+                        ? null
+                        : TextStyle(
+                            color: part.kind == 'removed'
+                                ? const Color(0xffffaaa2)
+                                : const Color(0xff8dd8af),
+                            backgroundColor: part.kind == 'removed'
+                                ? const Color(0xff4b252a)
+                                : const Color(0xff173d2c),
+                            decoration: part.kind == 'removed'
+                                ? TextDecoration.lineThrough
+                                : TextDecoration.underline,
+                          ),
+                  ),
+              ],
+            ),
+          ),
+        ),
       ],
     );
   }
@@ -400,39 +523,51 @@ class _PracticeHomeState extends State<PracticeHome> {
           spacing: 20,
           runSpacing: 16,
           children: [
-            DropdownButton<String>(
-              value: difficulty,
-              items: ['Frecuente', 'Menos frecuente']
-                  .map(
-                    (value) =>
-                        DropdownMenuItem(value: value, child: Text(value)),
-                  )
-                  .toList(),
-              onChanged: reviewing
-                  ? null
-                  : (value) => setState(() {
-                      difficulty = value!;
-                      resetVocabulary();
-                    }),
-            ),
-            DropdownButton<String>(
-              value: direction,
-              items: const [
-                DropdownMenuItem(
-                  value: 'en-es',
-                  child: Text('English → Español'),
-                ),
-                DropdownMenuItem(
-                  value: 'es-en',
-                  child: Text('Español → English'),
+            Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                const Text('Dificultad'),
+                DropdownButton<String>(
+                  value: difficulty,
+                  items: ['Frecuente', 'Menos frecuente']
+                      .map(
+                        (value) =>
+                            DropdownMenuItem(value: value, child: Text(value)),
+                      )
+                      .toList(),
+                  onChanged: reviewing
+                      ? null
+                      : (value) => setState(() {
+                          difficulty = value!;
+                          resetVocabulary();
+                        }),
                 ),
               ],
-              onChanged: reviewing
-                  ? null
-                  : (value) => setState(() {
-                      direction = value!;
-                      resetVocabulary();
-                    }),
+            ),
+            Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                const Text('Dirección'),
+                DropdownButton<String>(
+                  value: direction,
+                  items: const [
+                    DropdownMenuItem(
+                      value: 'en-es',
+                      child: Text('English → Español'),
+                    ),
+                    DropdownMenuItem(
+                      value: 'es-en',
+                      child: Text('Español → English'),
+                    ),
+                  ],
+                  onChanged: reviewing
+                      ? null
+                      : (value) => setState(() {
+                          direction = value!;
+                          resetVocabulary();
+                        }),
+                ),
+              ],
             ),
           ],
         ),
@@ -440,7 +575,7 @@ class _PracticeHomeState extends State<PracticeHome> {
         if (storageWarning != null) Text(storageWarning!),
         if (item == null) ...[
           Text(
-            'Próximo repaso: ${DateTime.fromMillisecondsSinceEpoch(saved.values.map((value) => value['due'] as int).reduce(min)).toLocal()}',
+            'Próximo repaso: ${DateTime.fromMillisecondsSinceEpoch(saved.values.map((value) => (value['due'] as num).toInt()).reduce(min)).toLocal()}',
           ),
           action('Actualizar', () => setState(resetVocabulary)),
         ] else ...[
@@ -481,31 +616,122 @@ class _PracticeHomeState extends State<PracticeHome> {
     );
   }
 
-  void settings() {
-    final size = MediaQuery.sizeOf(context);
-    final side = min(340.0, min(size.width - 48, size.height - 48));
-    showDialog<void>(
-      context: context,
-      builder: (context) => Dialog(
-        insetPadding: const EdgeInsets.all(24),
-        child: SizedBox.square(
-          dimension: side,
-          child: Padding(
-            padding: const EdgeInsets.all(24),
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Text(
-                  'Ajustes',
-                  style: Theme.of(context).textTheme.headlineSmall,
-                ),
-                const Spacer(),
-                action('Cerrar', () => Navigator.pop(context)),
-              ],
+  List<dynamic> translationPool() => translationTopic == 'mixed'
+      ? translationMixedItems
+      : (sets!['translation']['items'] as List)
+            .where(
+              (item) =>
+                  translationTopic.isEmpty || item['topic'] == translationTopic,
+            )
+            .toList();
+
+  void changeTranslation({String? topic, int offset = 0}) {
+    final current = translationPool()[translationIndex];
+    translationDrafts[current['id'] as String] = translationInput.text;
+    setState(() {
+      if (topic != null) {
+        translationTopic = topic;
+        if (topic == 'mixed') {
+          translationMixedItems = List.of(sets!['translation']['items'] as List)
+            ..shuffle();
+        }
+        translationIndex = 0;
+      } else {
+        translationIndex += offset;
+      }
+      translationRevealed = false;
+      final next = translationPool()[translationIndex];
+      translationInput.text = translationDrafts[next['id']] ?? '';
+    });
+  }
+
+  Widget translationView() {
+    final pool = translationPool();
+    final item = pool[translationIndex];
+    final topics = (sets!['translation']['items'] as List)
+        .map((item) => item['topic'] as String)
+        .toSet();
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Text('Traducción', style: Theme.of(context).textTheme.headlineSmall),
+        const SizedBox(height: 16),
+        DropdownButtonFormField<String>(
+          initialValue: translationTopic,
+          isExpanded: true,
+          decoration: const InputDecoration(labelText: 'Modo / bloque'),
+          items: [
+            const DropdownMenuItem(value: '', child: Text('Todos los bloques')),
+            const DropdownMenuItem(
+              value: 'mixed',
+              child: Text('Modo mezclado'),
             ),
-          ),
+            for (final topic in topics)
+              DropdownMenuItem(
+                value: topic,
+                child: Text(topic, overflow: TextOverflow.ellipsis),
+              ),
+          ],
+          onChanged: (value) {
+            if (value != null) changeTranslation(topic: value);
+          },
         ),
-      ),
+        const SizedBox(height: 20),
+        Text(
+          'Frase ${translationIndex + 1} de ${pool.length} · ${item['topic']}',
+        ),
+        const SizedBox(height: 16),
+        SelectableText(
+          item['spanish'] as String,
+          style: const TextStyle(fontSize: 23, height: 1.6),
+        ),
+        field(translationInput, 'Tu traducción al inglés', lines: 3),
+        action(
+          translationRevealed ? 'Ocultar traducción' : 'Mostrar traducción',
+          () => setState(() => translationRevealed = !translationRevealed),
+        ),
+        if (translationRevealed) ...[
+          const SizedBox(height: 20),
+          Text(
+            'Traducción de referencia',
+            style: Theme.of(context).textTheme.titleMedium,
+          ),
+          const SizedBox(height: 12),
+          SelectableText(
+            item['english'] as String,
+            style: const TextStyle(fontSize: 20, height: 1.6),
+          ),
+          const SizedBox(height: 12),
+          const Text('Puede haber otras traducciones correctas.'),
+        ],
+        const SizedBox(height: 24),
+        Wrap(
+          spacing: 12,
+          runSpacing: 12,
+          children: [
+            action(
+              'Anterior',
+              translationIndex == 0
+                  ? null
+                  : () => changeTranslation(offset: -1),
+              primary: false,
+            ),
+            action(
+              'Siguiente',
+              translationIndex == pool.length - 1
+                  ? null
+                  : () => changeTranslation(offset: 1),
+              primary: false,
+            ),
+            if (translationTopic == 'mixed')
+              action(
+                'Volver a mezclar',
+                () => changeTranslation(topic: 'mixed'),
+                primary: false,
+              ),
+          ],
+        ),
+      ],
     );
   }
 
@@ -521,23 +747,24 @@ class _PracticeHomeState extends State<PracticeHome> {
                 'Reading',
                 'Writing',
                 'Vocabulary',
-                'Ajustes',
+                'Traducción',
               ])
                 Expanded(
-                  child: TextButton(
-                    onPressed: name == 'Ajustes'
-                        ? settings
-                        : sets == null
-                        ? null
-                        : () => setState(() => section = name),
-                    child: FittedBox(
-                      fit: BoxFit.scaleDown,
-                      child: Text(
-                        name,
-                        style: TextStyle(
-                          fontWeight: section == name
-                              ? FontWeight.bold
-                              : FontWeight.normal,
+                  child: Semantics(
+                    selected: section == name,
+                    child: TextButton(
+                      onPressed: sets == null
+                          ? null
+                          : () => setState(() => section = name),
+                      child: FittedBox(
+                        fit: BoxFit.scaleDown,
+                        child: Text(
+                          name,
+                          style: TextStyle(
+                            fontWeight: section == name
+                                ? FontWeight.bold
+                                : FontWeight.normal,
+                          ),
                         ),
                       ),
                     ),
@@ -566,11 +793,14 @@ class _PracticeHomeState extends State<PracticeHome> {
                               ? Alignment.center
                               : Alignment.topCenter,
                           child: ConstrainedBox(
-                            constraints: const BoxConstraints(maxWidth: 750),
+                            constraints: BoxConstraints(
+                              maxWidth: section == 'Writing' ? 1200 : 750,
+                            ),
                             child: switch (section) {
                               'Grammar' => grammarView(),
                               'Reading' => readingView(),
                               'Writing' => writingView(),
+                              'Traducción' => translationView(),
                               _ => vocabularyView(),
                             },
                           ),

@@ -7,9 +7,11 @@ const os = require('node:os');
 
 async function harness() {
   const handlers = new Map();
+  const startup = [];
   let selection = { canceled: true }, preferences, windowOptions;
   class BrowserWindow {
     constructor(options) {
+      startup.push('window');
       windowOptions = options;
       preferences = options.webPreferences;
       this.webContents = { setWindowOpenHandler() {}, on() {} };
@@ -18,7 +20,11 @@ async function harness() {
     static fromWebContents() { return null; }
   }
   const electron = {
-    app: { whenReady: () => Promise.resolve(), on() {}, quit() {} },
+    app: {
+      disableHardwareAcceleration: () => startup.push('software-rendering'),
+      whenReady: () => { startup.push('ready'); return Promise.resolve(); },
+      on() {}, quit() {},
+    },
     BrowserWindow,
     screen: { getPrimaryDisplay: () => ({ workArea: { x: 24, y: 40, width: 1440, height: 860 } }) },
     Menu: { setApplicationMenu() {} },
@@ -31,8 +37,13 @@ async function harness() {
     __dirname: path.dirname(filename), process,
   }, { filename });
   await new Promise(resolve => setImmediate(resolve));
-  return { handlers, select: value => selection = value, preferences, windowOptions };
+  return { handlers, select: value => selection = value, preferences, windowOptions, startup };
 }
+
+test('software rendering is configured before Electron is ready and creates a window', async () => {
+  const { startup } = await harness();
+  assert.deepEqual(startup, ['software-rendering', 'ready', 'window']);
+});
 
 test('Electron loads all bundled sets with an isolated renderer', async () => {
   const app = await harness();
@@ -41,6 +52,7 @@ test('Electron loads all bundled sets with an isolated renderer', async () => {
   assert.equal(sets.reading.items.length, 50);
   assert.equal(sets.writing.items.length, 200);
   assert.equal(sets.vocabulary.items.length, 20000);
+  assert.equal(sets.translation.items.length, 800);
   assert.equal(app.preferences.contextIsolation, true);
   assert.equal(app.preferences.nodeIntegration, false);
   assert.equal(app.preferences.sandbox, true);

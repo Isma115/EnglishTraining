@@ -1,14 +1,14 @@
-const { matches, pick, review, nextCard } = PracticeCore;
+const { matches, parseProgress, pick, shuffle, review, nextCard, writingDiff } = PracticeCore;
 const main = document.querySelector('#content');
 let sets, view = 'grammar', grammar, grammarAnswer = '', grammarChecked = false;
 let reading, readingStage = 'text', readingAnswers = [], readingChecked = false;
 let writing, writingText = '', vocabulary, vocabularyAnswer = '', vocabularyChecked = false;
+let writingCorrection = '', writingComparison = null;
+let translationTopic = '', translationIndex = 0, translationRevealed = false;
+let translationMixedItems = [];
+const translationDrafts = {};
 let difficulty = 'Frecuente', direction = 'en-es', progress = {}, storageWarning = '';
-try { progress = JSON.parse(localStorage.getItem('vocabulary-progress') || '{}'); } catch { storageWarning = 'No se pudo recuperar el progreso.'; }
-if (!progress || Array.isArray(progress) || typeof progress !== 'object') progress = {};
-for (const [id, card] of Object.entries(progress)) {
-  if (!card || !Number.isFinite(card.due) || !Number.isFinite(card.ease) || !Number.isFinite(card.interval) || !Number.isInteger(card.repetitions)) delete progress[id];
-}
+try { progress = parseProgress(localStorage.getItem('vocabulary-progress')); } catch { storageWarning = 'No se pudo recuperar el progreso.'; }
 
 function element(tag, text, className) {
   const node = document.createElement(tag);
@@ -42,7 +42,56 @@ function render() {
     if (node.dataset.view === view) node.setAttribute('aria-current', 'page');
     else node.removeAttribute('aria-current');
   });
-  ({ grammar: renderGrammar, reading: renderReading, writing: renderWriting, vocabulary: renderVocabulary })[view]();
+  ({ grammar: renderGrammar, reading: renderReading, writing: renderWriting, vocabulary: renderVocabulary, translation: renderTranslation })[view]();
+}
+function changeTranslationTopic(topic) {
+  translationTopic = topic;
+  if (topic === 'mixed') translationMixedItems = shuffle(sets.translation.items);
+  translationIndex = 0; translationRevealed = false; render();
+}
+function renderTranslation() {
+  main.append(element('h1', 'Traducción'));
+  const toolbar = element('div', undefined, 'toolbar');
+  const label = element('label', 'Modo / bloque '), select = element('select');
+  select.setAttribute('aria-label', 'Modo / bloque');
+  const topics = [...new Set(sets.translation.items.map(item => item.topic))];
+  for (const topic of ['', 'mixed', ...topics]) {
+    const option = element('option', topic === 'mixed' ? 'Modo mezclado' : topic || 'Todos los bloques');
+    option.value = topic; select.append(option);
+  }
+  select.value = translationTopic;
+  select.addEventListener('change', () => changeTranslationTopic(select.value));
+  label.append(select); toolbar.append(label); main.append(toolbar);
+  const pool = translationTopic === 'mixed' ? translationMixedItems
+    : sets.translation.items.filter(item => !translationTopic || item.topic === translationTopic);
+  const item = pool[translationIndex];
+  main.append(element('p', `Frase ${translationIndex + 1} de ${pool.length} · ${item.topic}`));
+  main.append(element('p', item.spanish, 'sentence'));
+  const { wrapper, field } = input('Tu traducción al inglés', translationDrafts[item.id] || '', value => translationDrafts[item.id] = value, true);
+  field.lang = 'en'; main.append(wrapper);
+  const answer = element('section'); answer.id = 'translation-reference'; answer.lang = 'en';
+  answer.hidden = !translationRevealed;
+  answer.append(element('h2', 'Traducción de referencia'), element('p', item.english, 'sentence'));
+  answer.querySelector('h2').lang = 'es';
+  const reveal = button(translationRevealed ? 'Ocultar traducción' : 'Mostrar traducción', () => {
+    translationRevealed = !translationRevealed; render();
+    main.querySelector('[aria-controls="translation-reference"]').focus();
+  }, true);
+  reveal.setAttribute('aria-expanded', String(translationRevealed));
+  reveal.setAttribute('aria-controls', answer.id);
+  main.append(reveal, answer);
+  if (translationRevealed) main.append(element('p', 'Puede haber otras traducciones correctas.'));
+  const actions = element('div', undefined, 'actions');
+  for (const [text, offset] of [['Anterior', -1], ['Siguiente', 1]]) {
+    const move = button(text, () => {
+      translationIndex += offset; translationRevealed = false; render();
+      main.querySelector('textarea').focus();
+    });
+    move.disabled = translationIndex + offset < 0 || translationIndex + offset >= pool.length;
+    actions.append(move);
+  }
+  if (translationTopic === 'mixed') actions.append(button('Volver a mezclar', () => changeTranslationTopic('mixed')));
+  main.append(actions);
 }
 function renderGrammar() {
   grammar ||= pick(sets.grammar.items);
@@ -95,17 +144,48 @@ function renderWriting() {
     }, true)); main.append(center); return;
   }
   main.append(element('p', writing.topic));
-  const { wrapper, field } = input('Tu writing', writingText, value => writingText = value, true);
-  field.classList.add('writing'); main.append(wrapper);
+  const scroll = element('div', undefined, 'writing-scroll');
+  const columns = element('div', undefined, 'writing-columns');
+  for (const [title, value, changed, excluded] of [
+    ['Tu writing', writingText, value => writingText = value, 'added'],
+    ['Corrección (pegar texto)', writingCorrection, value => writingCorrection = value, 'removed'],
+  ]) {
+    const panel = element('section'); panel.lang = 'en';
+    if (writingComparison) {
+      const heading = element('h2', title === 'Tu writing' ? title : 'Corrección'); heading.lang = 'es';
+      const text = element('p', undefined, 'writing-diff');
+      for (const part of writingComparison.filter(part => part.kind !== excluded)) {
+        text.append(element(part.kind === 'removed' ? 'del' : part.kind === 'added' ? 'ins' : 'span', part.text));
+      }
+      panel.append(heading, text);
+    } else {
+      const { wrapper, field } = input(title, value, changed, true);
+      wrapper.lang = 'es'; field.lang = 'en'; field.classList.add('writing'); panel.append(wrapper);
+    }
+    columns.append(panel);
+  }
+  scroll.append(columns); main.append(scroll);
+  const actions = element('div', undefined, 'actions');
+  actions.append(button(writingComparison ? 'Editar textos' : 'Comparar', () => {
+    if (writingComparison) { writingComparison = null; render(); return; }
+    if (!writingText.trim() || !writingCorrection.trim()) { status.textContent = 'Escribe tu writing y pega la corrección.'; return; }
+    writingComparison = writingDiff(writingText, writingCorrection); render();
+  }, true));
+  if (writingComparison) {
+    const legend = element('p');
+    if (writingComparison.every(part => part.kind === 'equal')) legend.textContent = 'Sin diferencias.';
+    else legend.append(element('del', 'Eliminado'), element('span', ' · '), element('ins', 'Añadido'));
+    main.append(legend);
+  }
   const status = element('p'); status.setAttribute('role', 'status');
   const save = button('Guardar', async () => {
-    if (!writingText.trim()) { status.textContent = 'Escribe un writing antes de guardar.'; field.focus(); return; }
+    if (!writingText.trim()) { status.textContent = 'Escribe un writing antes de guardar.'; main.querySelector('textarea').focus(); return; }
     save.disabled = true;
     try { status.textContent = await window.practice.saveWriting(writingText) ? 'Guardado' : ''; }
     catch { status.textContent = 'No se pudo guardar el archivo.'; }
     finally { save.disabled = false; }
   }, true);
-  main.append(save, status);
+  actions.append(save); main.append(actions, status);
 }
 function renderVocabulary() {
   const toolbar = element('div', undefined, 'toolbar');
@@ -147,5 +227,4 @@ function renderVocabulary() {
   }
 }
 document.querySelectorAll('[data-view]').forEach(node => node.addEventListener('click', () => { if (!sets) return; view = node.dataset.view; render(); }));
-document.querySelector('#settings-open').addEventListener('click', () => document.querySelector('#settings').showModal());
 window.practice.loadSets().then(data => { sets = data; render(); }).catch(() => { main.replaceChildren(element('p', 'No se pudieron cargar los ejercicios.')); });

@@ -2,8 +2,11 @@ const { app, BrowserWindow, ipcMain, dialog, Menu, screen } = require('electron'
 const fs = require('node:fs/promises');
 const path = require('node:path');
 
+// Avoid stale text being composited over the next exercise by graphics drivers.
+app.disableHardwareAcceleration();
+
 let window;
-const sets = ['grammar', 'reading', 'writing', 'vocabulary'];
+const sets = ['grammar', 'reading', 'writing', 'vocabulary', 'translation'];
 
 function createWindow() {
   const { x, y, width, height } = screen.getPrimaryDisplay().workArea;

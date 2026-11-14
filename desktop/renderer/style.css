@@ -20,12 +20,20 @@ input, textarea, select { border: 1px solid #59695e; background: #222a25; border
 input, textarea { display: block; width: 100%; margin: 12px 0; }
 textarea { min-height: 110px; resize: vertical; line-height: 1.7; }
 .writing { min-height: 45vh; }
+main:has(.writing-columns) { max-width: 1200px; }
+.writing-scroll { overflow-x: auto; }
+.writing-columns { display: grid; grid-template-columns: repeat(2, minmax(270px, 1fr)); gap: 24px; }
+.writing-columns section { min-width: 0; }
+.writing-diff { min-height: 45vh; border: 1px solid #59695e; padding: 12px; overflow-wrap: anywhere; }
+del { color: #ffaaa2; background: #4b252a; text-decoration: line-through; }
+ins { color: #8dd8af; background: #173d2c; text-decoration: underline; }
 .actions { display: flex; gap: 12px; margin-top: 24px; }
 .correct { color: #8dd8af; }
 .incorrect { color: #ffaaa2; }
 .question { margin: 30px 0; }
 .toolbar { display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 35px; align-items: center; }
+.toolbar label { min-width: 0; max-width: 100%; }
+.toolbar select { max-width: 100%; }
 dialog { border: 1px solid #59695e; border-radius: 0; padding: 28px; max-width: calc(100vw - 32px); width: min(360px, calc(100vw - 32px), calc(100dvh - 32px)); }
-dialog#settings { aspect-ratio: 1; }
 dialog::backdrop { background: #142b2180; }
 @media (max-width: 600px) { header { padding: 12px 8px; } nav { gap: 3px; } nav button { padding: 9px 2px; font-size: clamp(10px, 2.6vw, 14px); } main { padding: 30px 20px; } }
